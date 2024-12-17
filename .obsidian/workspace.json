@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d1299bc1f714d68",
+        "id": "63522d306970250b",
         "type": "tabs",
         "children": [
           {
-            "id": "9f0b508022ca7b27",
+            "id": "d8e03f949a4f4f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,12 +131,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f0b508022ca7b27",
+  "active": "d8e03f949a4f4f06",
   "lastOpenFiles": [
-    "Readme.md",
-    "Readme.pdf",
-    "To Do.md",
     "Table of Contents.md",
+    "Readme.md",
+    "To Do.md",
+    "Readme.pdf",
     "MUSC 13",
     "LING 21",
     "CS 152",
