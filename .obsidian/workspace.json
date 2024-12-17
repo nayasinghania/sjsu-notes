@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63522d306970250b",
+        "id": "80e0d3ef0a5a59e7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e03f949a4f4f06",
+            "id": "dae423ae08ba7a13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To Do"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,6 +113,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3f13c874547302a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 2
@@ -128,21 +137,47 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d8e03f949a4f4f06",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
-    "Table of Contents.md",
+    "Untitled",
+    "Fall 2024/Excalidraw Fall 2024/access_modifiers.md",
+    "Fall 2024/CS 151/Custom Data Structures.md",
     "Readme.md",
-    "To Do.md",
-    "Readme.pdf",
-    "MUSC 13",
-    "LING 21",
-    "CS 152",
-    "CS 47",
-    "AAS 1",
-    "Untitleiiiid.md",
-    "2024-12-16.md"
+    "Fall 2024/Excalidraw Fall 2024/union.md",
+    "Fall 2024/Excalidraw Fall 2024/trench_mantle_wedge_oceanic_continental.md",
+    "Fall 2024/Excalidraw Fall 2024/transform.md",
+    "Fall 2024/Excalidraw Fall 2024/timescale.md",
+    "Fall 2024/Excalidraw Fall 2024/sorting.md",
+    "Fall 2024/Excalidraw Fall 2024/sun fusion.md",
+    "Fall 2024/Excalidraw Fall 2024/rv.md",
+    "Fall 2024/Excalidraw Fall 2024/reverse fault.md",
+    "Fall 2024/Excalidraw Fall 2024/observers.md",
+    "Fall 2024/Excalidraw Fall 2024/peripatric.md",
+    "Fall 2024/Excalidraw Fall 2024/para.md",
+    "Fall 2024/Excalidraw Fall 2024/normal fault.md",
+    "Fall 2024/Excalidraw Fall 2024/living-nonliving.md",
+    "Fall 2024/Excalidraw Fall 2024/non-conformity.md",
+    "Fall 2024/Excalidraw Fall 2024/line1.md",
+    "Fall 2024/Excalidraw Fall 2024/intersection.md",
+    "Fall 2024/Excalidraw Fall 2024/geo time fault.md",
+    "Fall 2024/Excalidraw Fall 2024/hypergeo.md",
+    "Fall 2024/Excalidraw Fall 2024/histogram1.md",
+    "Fall 2024/Excalidraw Fall 2024/ex 64.md",
+    "Fall 2024/Excalidraw Fall 2024/facies.md",
+    "Fall 2024/Excalidraw Fall 2024/ex 60.md",
+    "Fall 2024/Excalidraw Fall 2024",
+    "Fall 2024/CS 151",
+    "Fall 2024/GEOL 7",
+    "Fall 2024/MUSC 19",
+    "Fall 2024/MATH 161A",
+    "Fall 2024/Geology 007",
+    "Fall 2024/Excalidraw",
+    "Fall 2024/Computer Science 151",
+    "Fall 2024/Music 019",
+    "Fall 2024/Mathematics 161 A"
   ]
 }
