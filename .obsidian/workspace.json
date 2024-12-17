@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ca3e8e35fa6342",
+        "id": "ff6e0c2f3a3d80f9",
         "type": "tabs",
         "children": [
           {
-            "id": "724d08864a5710c3",
+            "id": "4cf67b5dd0c143ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "New tab"
             }
           }
         ]
@@ -141,13 +137,32 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "724d08864a5710c3",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
+    "Spring 2025/MUSC 13/Untitled.md",
+    "Spring 2025/LING 21/Untitled.md",
+    "Spring 2025/CS 47/Untitled.md",
+    "Spring 2025/CS 152/Untitled.md",
+    "Spring 2025/AAS 1/Untitled.md",
+    "Spring 2025/Untitled.md",
+    "Spring 2025/MUSC 13",
+    "Spring 2025/LING 21",
+    "Spring 2025/CS 47",
+    "Spring 2025/CS 152",
+    "Spring 2025/AAS 1",
+    "Spring 2025",
+    "Fall 2024/GEOL 7/ex 64.md",
+    "Fall 2024/GEOL 7/ex 60.md",
+    "Fall 2024/MATH 161A/histogram1.md",
+    "Fall 2024/MUSC 19/Music of Africa.md",
+    "Fall 2024/MUSC 19/Music of Native America.md",
+    "Fall 2024/MUSC 19/Music of Southeast Asia.md",
+    "To Do.md",
     "Fall 2024/GEOL 7/allopatric.md",
     "Fall 2024/MATH 161A/hypergeo.md",
     "Fall 2024/MATH 161A/union.md",
@@ -161,28 +176,9 @@
     "Fall 2024/GEOL 7/para.md",
     "Fall 2024/GEOL 7/observers.md",
     "Fall 2024/GEOL 7/normal fault.md",
-    "Fall 2024/GEOL 7/non-conformity.md",
-    "Fall 2024/GEOL 7/living-nonliving.md",
-    "Fall 2024/GEOL 7/line1.md",
-    "Fall 2024/MATH 161A/intersection.md",
-    "Fall 2024/MATH 161A/histogram1.md",
-    "Fall 2024/GEOL 7/geo time fault.md",
-    "Fall 2024/GEOL 7/facies.md",
-    "Fall 2024/GEOL 7/ex 64.md",
-    "Fall 2024/GEOL 7/ex 60.md",
-    "Fall 2024/GEOL 7/earth layers.md",
-    "Fall 2024/GEOL 7/divergent evo.md",
-    "Fall 2024/GEOL 7/disconformity.md",
-    "Fall 2024/GEOL 7/cross bed 2.md",
-    "Untitled",
     "Fall 2024/Excalidraw Fall 2024",
     "Fall 2024/CS 151",
     "Fall 2024/GEOL 7",
-    "Fall 2024/MUSC 19",
-    "Fall 2024/MATH 161A",
-    "Fall 2024/Geology 007",
-    "Fall 2024/Excalidraw",
-    "Fall 2024/Computer Science 151",
-    "Fall 2024/Music 019"
+    "Fall 2024/MUSC 19"
   ]
 }

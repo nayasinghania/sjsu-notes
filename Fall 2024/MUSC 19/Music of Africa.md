@@ -1,3 +1,8 @@
+---
+tags:
+  - musc19
+---
+
 ## History and Regions of Africa
 * 20% of Earth's landmass
 * Roughly 934 million people
