@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80e0d3ef0a5a59e7",
+        "id": "e5ca3e8e35fa6342",
         "type": "tabs",
         "children": [
           {
-            "id": "dae423ae08ba7a13",
+            "id": "724d08864a5710c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,37 +142,39 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f398bf76a76a644",
+  "active": "724d08864a5710c3",
   "lastOpenFiles": [
+    "Fall 2024/GEOL 7/allopatric.md",
+    "Fall 2024/MATH 161A/hypergeo.md",
+    "Fall 2024/MATH 161A/union.md",
+    "Fall 2024/GEOL 7/trench_mantle_wedge_oceanic_continental.md",
+    "Fall 2024/GEOL 7/transform.md",
+    "Fall 2024/GEOL 7/timescale.md",
+    "Fall 2024/GEOL 7/sun fusion.md",
+    "Fall 2024/GEOL 7/sorting.md",
+    "Fall 2024/GEOL 7/reverse fault.md",
+    "Fall 2024/GEOL 7/peripatric.md",
+    "Fall 2024/GEOL 7/para.md",
+    "Fall 2024/GEOL 7/observers.md",
+    "Fall 2024/GEOL 7/normal fault.md",
+    "Fall 2024/GEOL 7/non-conformity.md",
+    "Fall 2024/GEOL 7/living-nonliving.md",
+    "Fall 2024/GEOL 7/line1.md",
+    "Fall 2024/MATH 161A/intersection.md",
+    "Fall 2024/MATH 161A/histogram1.md",
+    "Fall 2024/GEOL 7/geo time fault.md",
+    "Fall 2024/GEOL 7/facies.md",
+    "Fall 2024/GEOL 7/ex 64.md",
+    "Fall 2024/GEOL 7/ex 60.md",
+    "Fall 2024/GEOL 7/earth layers.md",
+    "Fall 2024/GEOL 7/divergent evo.md",
+    "Fall 2024/GEOL 7/disconformity.md",
+    "Fall 2024/GEOL 7/cross bed 2.md",
     "Untitled",
-    "Fall 2024/Excalidraw Fall 2024/access_modifiers.md",
-    "Fall 2024/CS 151/Custom Data Structures.md",
-    "Readme.md",
-    "Fall 2024/Excalidraw Fall 2024/union.md",
-    "Fall 2024/Excalidraw Fall 2024/trench_mantle_wedge_oceanic_continental.md",
-    "Fall 2024/Excalidraw Fall 2024/transform.md",
-    "Fall 2024/Excalidraw Fall 2024/timescale.md",
-    "Fall 2024/Excalidraw Fall 2024/sorting.md",
-    "Fall 2024/Excalidraw Fall 2024/sun fusion.md",
-    "Fall 2024/Excalidraw Fall 2024/rv.md",
-    "Fall 2024/Excalidraw Fall 2024/reverse fault.md",
-    "Fall 2024/Excalidraw Fall 2024/observers.md",
-    "Fall 2024/Excalidraw Fall 2024/peripatric.md",
-    "Fall 2024/Excalidraw Fall 2024/para.md",
-    "Fall 2024/Excalidraw Fall 2024/normal fault.md",
-    "Fall 2024/Excalidraw Fall 2024/living-nonliving.md",
-    "Fall 2024/Excalidraw Fall 2024/non-conformity.md",
-    "Fall 2024/Excalidraw Fall 2024/line1.md",
-    "Fall 2024/Excalidraw Fall 2024/intersection.md",
-    "Fall 2024/Excalidraw Fall 2024/geo time fault.md",
-    "Fall 2024/Excalidraw Fall 2024/hypergeo.md",
-    "Fall 2024/Excalidraw Fall 2024/histogram1.md",
-    "Fall 2024/Excalidraw Fall 2024/ex 64.md",
-    "Fall 2024/Excalidraw Fall 2024/facies.md",
-    "Fall 2024/Excalidraw Fall 2024/ex 60.md",
     "Fall 2024/Excalidraw Fall 2024",
     "Fall 2024/CS 151",
     "Fall 2024/GEOL 7",
@@ -177,7 +183,6 @@
     "Fall 2024/Geology 007",
     "Fall 2024/Excalidraw",
     "Fall 2024/Computer Science 151",
-    "Fall 2024/Music 019",
-    "Fall 2024/Mathematics 161 A"
+    "Fall 2024/Music 019"
   ]
 }
