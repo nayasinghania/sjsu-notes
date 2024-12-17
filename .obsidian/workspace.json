@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6e0c2f3a3d80f9",
+        "id": "01aa5ba6e2f38642",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf67b5dd0c143ff",
+            "id": "3b4850ae0d122882",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -142,7 +145,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f398bf76a76a644",
+  "active": "3b4850ae0d122882",
   "lastOpenFiles": [
     "Spring 2025/MUSC 13/Untitled.md",
     "Spring 2025/LING 21/Untitled.md",
