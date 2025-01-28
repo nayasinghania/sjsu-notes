@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Simple Color"
+  "cssTheme": "Simple Color",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }
