@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ]
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "To Do.md",
     "Spring 2025/LING 21/Chapter 1 - Introduction to Critical Thinking.md",
-    "README.md.md",
+    "README.md",
     "Spring 2025/MUSC 13/Untitled.md",
     "Spring 2025/CS 47/Untitled.md",
     "Spring 2025/CS 152/Untitled.md",
