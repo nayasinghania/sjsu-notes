@@ -1,6 +1,6 @@
 # SJSU Notes
 
-An obsidian vault with all my class notes from SJSU
+An [Obsidian](https://obsidian.md) vault with all my class notes from [San José State University](https://www.sjsu.edu)
 
 ## Theme
 * [Simple Color](https://github.com/raspberri05/simple-color)
