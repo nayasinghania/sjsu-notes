@@ -2,5 +2,6 @@
   "cssTheme": "Simple Color",
   "enabledCssSnippets": [
     "snippet"
-  ]
+  ],
+  "nativeMenus": false
 }
