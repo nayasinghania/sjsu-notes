@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4642b61a35621286",
+        "id": "9e6d7d53c9693726",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe16c1296e12af5",
+            "id": "a24144e1b8141f1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -102,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "To Do.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of To Do"
             }
           },
           {
@@ -146,14 +147,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fe16c1296e12af5",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
-    "To Do.md",
-    "Spring 2025/LING 21/Chapter 1 - Introduction to Critical Thinking.md",
+    "Spring 2025/CS 152/2 - Architecture.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
     "README.md",
-    "Spring 2025/MUSC 13/Untitled.md",
-    "Spring 2025/CS 47/Untitled.md",
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "Spring 2025/CS 152/Untitled.md",
+    "To Do.md",
+    "Spring 2025/MUSC 13/Untitled.md",
+    "Spring 2025/LING 21/Untitled.md",
+    "Spring 2025/CS 47/Untitled.md",
     "Spring 2025/AAS 1/Untitled.md",
     "Spring 2025/Untitled.md",
     "Spring 2025/MUSC 13",
@@ -177,9 +181,6 @@
     "Fall 2024/GEOL 7/sun fusion.md",
     "Fall 2024/GEOL 7/sorting.md",
     "Fall 2024/GEOL 7/reverse fault.md",
-    "Fall 2024/GEOL 7/peripatric.md",
-    "Fall 2024/GEOL 7/para.md",
-    "Fall 2024/GEOL 7/observers.md",
     "Fall 2024/Excalidraw Fall 2024",
     "Fall 2024/CS 151",
     "Fall 2024/GEOL 7",
