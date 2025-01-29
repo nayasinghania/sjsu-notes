@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e6d7d53c9693726",
+        "id": "40253b62a6f16c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "a24144e1b8141f1d",
+            "id": "2f0be8120de1ecfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for To Do"
             }
           },
           {
@@ -143,18 +142,18 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f43b64198398364",
+  "active": "2f0be8120de1ecfd",
   "lastOpenFiles": [
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+    "To Do.md",
+    "1 - Introduction to Critical Thinking.pdf",
     "Spring 2025/CS 152/2 - Architecture.md",
     "Spring 2025/CS 152/1 - Introduction.md",
     "README.md",
-    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "Spring 2025/CS 152/Untitled.md",
-    "To Do.md",
     "Spring 2025/MUSC 13/Untitled.md",
     "Spring 2025/LING 21/Untitled.md",
     "Spring 2025/CS 47/Untitled.md",
@@ -180,10 +179,8 @@
     "Fall 2024/GEOL 7/timescale.md",
     "Fall 2024/GEOL 7/sun fusion.md",
     "Fall 2024/GEOL 7/sorting.md",
-    "Fall 2024/GEOL 7/reverse fault.md",
     "Fall 2024/Excalidraw Fall 2024",
     "Fall 2024/CS 151",
-    "Fall 2024/GEOL 7",
-    "Fall 2024/MUSC 19"
+    "Fall 2024/GEOL 7"
   ]
 }

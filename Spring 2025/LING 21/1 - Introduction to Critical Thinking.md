@@ -24,6 +24,8 @@ tags:
 - Deep and complete thinking is preferred to shallow thinking
 ### Fairness
 - Critical thinking demands that our thinking be open-minded, impartial, and free of bias
+## Critical Thinking in the Classroom
+* In college the focus is on higher-order thinking: the active, intelligent evaluation of ideas and information
 ## Critical Thinking in the Workplace
 - Employers are more and more looking for good thinking and communication skills rather than specialized skills which can be learned on the job
 ## Critical  Thinking in Life
