@@ -25,33 +25,33 @@ tags:
 ### Fairness
 - Critical thinking demands that our thinking be open-minded, impartial, and free of bias
 ## Critical Thinking in the Classroom
-* In college the focus is on higher-order thinking: the active, intelligent evaluation of ideas and information
+- In college the focus is on higher-order thinking: the active, intelligent evaluation of ideas and information
 ## Critical Thinking in the Workplace
 - Employers are more and more looking for good thinking and communication skills rather than specialized skills which can be learned on the job
 ## Critical  Thinking in Life
 - Critical thinking is important in avoiding making foolish personal decisions and in promoting democratic processes
 - Much of today's serious societal issues arise from poor critical thinking
 ## Barriers to Critical Thinking
-* Lack of relevant background information
-* Poor reading skills
-* Prejudice
-* Egocentrism
-* Sociocentrism
-* Peer pressure
-* Conformism
-* Provincialism
-* Closed-mindedness
-* Distrust in reason
-* Relativistic thinking
-* Stereotyping
-* Unwarranted assumptions
-* Rationalization
-* Denial
-* Wishful thinking
-* Short-term thinking
-* Selective perception
-* Selective memory
-* Overpowering emotions
-* Self-deception
-* Face-saving
-* Fear of change
+- Lack of relevant background information
+- Poor reading skills
+- Prejudice
+- Egocentrism
+- Sociocentrism
+- Peer pressure
+- Conformism
+- Provincialism
+- Closed-mindedness
+- Distrust in reason
+- Relativistic thinking
+- Stereotyping
+- Unwarranted assumptions
+- Rationalization
+- Denial
+- Wishful thinking
+- Short-term thinking
+- Selective perception
+- Selective memory
+- Overpowering emotions
+- Self-deception
+- Face-saving
+- Fear of change
