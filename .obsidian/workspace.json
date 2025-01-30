@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40253b62a6f16c0d",
+        "id": "4642b61a35621286",
         "type": "tabs",
         "children": [
           {
-            "id": "2f0be8120de1ecfd",
+            "id": "9fe16c1296e12af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "To Do.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Do"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -102,10 +102,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of To Do"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -142,21 +142,21 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f0be8120de1ecfd",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
     "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
-    "To Do.md",
-    "1 - Introduction to Critical Thinking.pdf",
     "Spring 2025/CS 152/2 - Architecture.md",
     "Spring 2025/CS 152/1 - Introduction.md",
+    "To Do.md",
+    "Spring 2025/LING 21/Chapter 1 - Introduction to Critical Thinking.md",
     "README.md",
-    "Spring 2025/CS 152/Untitled.md",
     "Spring 2025/MUSC 13/Untitled.md",
-    "Spring 2025/LING 21/Untitled.md",
     "Spring 2025/CS 47/Untitled.md",
+    "Spring 2025/CS 152/Untitled.md",
     "Spring 2025/AAS 1/Untitled.md",
     "Spring 2025/Untitled.md",
     "Spring 2025/MUSC 13",
@@ -179,8 +179,10 @@
     "Fall 2024/GEOL 7/timescale.md",
     "Fall 2024/GEOL 7/sun fusion.md",
     "Fall 2024/GEOL 7/sorting.md",
+    "Fall 2024/GEOL 7/reverse fault.md",
     "Fall 2024/Excalidraw Fall 2024",
     "Fall 2024/CS 151",
-    "Fall 2024/GEOL 7"
+    "Fall 2024/GEOL 7",
+    "Fall 2024/MUSC 19"
   ]
 }
