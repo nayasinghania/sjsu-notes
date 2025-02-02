@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4642b61a35621286",
+        "id": "b8ef88a587c5ae49",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe16c1296e12af5",
+            "id": "39a12e4d0891dffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,20 +142,19 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f43b64198398364",
+  "active": "39a12e4d0891dffe",
   "lastOpenFiles": [
     "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "Spring 2025/CS 152/2 - Architecture.md",
     "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/CS 47/Untitled.md",
     "To Do.md",
     "Spring 2025/LING 21/Chapter 1 - Introduction to Critical Thinking.md",
     "README.md",
     "Spring 2025/MUSC 13/Untitled.md",
-    "Spring 2025/CS 47/Untitled.md",
     "Spring 2025/CS 152/Untitled.md",
     "Spring 2025/AAS 1/Untitled.md",
     "Spring 2025/Untitled.md",
