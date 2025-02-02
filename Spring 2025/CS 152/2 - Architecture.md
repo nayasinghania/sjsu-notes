@@ -7,7 +7,7 @@ tags:
 ### Binary Operators
 #### Common Operators
 ##### OR
-* $Y=A+B$
+- $Y=A+B$
 
 | $A$ | $B$ | $Y$ |
 | --- | --- | --- |

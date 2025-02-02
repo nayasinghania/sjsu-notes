@@ -6,3 +6,4 @@ An [Obsidian](https://obsidian.md) vault with all my class notes from [San José
 * [Simple Color](https://github.com/raspberri05/simple-color)
 ## Plugins
 * [Git](https://github.com/Vinzent03/obsidian-git)
+* [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite)
