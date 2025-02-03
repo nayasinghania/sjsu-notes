@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8dcc9b81db927b7",
+        "id": "5903dcaa1ba12eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "4200921286cf90d1",
+            "id": "0cc4bd3a8ca90bc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "New tab"
             }
           }
         ]
@@ -146,19 +142,25 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4200921286cf90d1",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
-    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
-    "README.md",
-    "To Do.md",
     "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/CS 152/2 - Architecture.md",
     "Spring 2025/CS 47/1 - Processors.md",
+    "Spring 2025/CS 152/2 - Architecture.md",
+    "Spring 2025/MUSC 13/1 - Sound.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms 1.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
+    "Spring 2025/MUSC 13/Attachments",
+    "Excalidraw/Drawing 2025-02-03 14.07.59.excalidraw.md",
+    "Excalidraw",
+    "To Do.md",
+    "README.md",
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "conflict-files-obsidian-git.md",
-    "Spring 2025/MUSC 13/Untitled.md",
     "1 - Introduction to Critical Thinking.pdf",
     "Spring 2025/CS 152/Untitled.md",
     "Spring 2025/LING 21/Untitled.md",
@@ -181,11 +183,6 @@
     "Fall 2024/MATH 161A/union.md",
     "Fall 2024/GEOL 7/trench_mantle_wedge_oceanic_continental.md",
     "Fall 2024/GEOL 7/transform.md",
-    "Fall 2024/GEOL 7/timescale.md",
-    "Fall 2024/GEOL 7/sun fusion.md",
-    "Fall 2024/GEOL 7/sorting.md",
-    "Fall 2024/Excalidraw Fall 2024",
-    "Fall 2024/CS 151",
-    "Fall 2024/GEOL 7"
+    "Fall 2024/Excalidraw Fall 2024"
   ]
 }
