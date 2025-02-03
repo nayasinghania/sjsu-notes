@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9f748ba9cd9b9e5",
+        "id": "e8dcc9b81db927b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e6358d3dd8e047d2",
+            "id": "4200921286cf90d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "1 - Introduction to Critical Thinking"
             }
-          },
-          {
-            "id": "d884015e69cbace4",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -119,10 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Do"
+              "title": "Outline of 1 - Introduction to Critical Thinking"
             }
           },
           {
@@ -162,15 +149,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d884015e69cbace4",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
-    "Spring 2025/CS 152/2 - Architecture.md",
-    "To Do.md",
-    "Spring 2025/CS 47/1 - Processors.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
     "README.md",
+    "To Do.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/CS 152/2 - Architecture.md",
+    "Spring 2025/CS 47/1 - Processors.md",
+    "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Untitled.md",
     "1 - Introduction to Critical Thinking.pdf",
     "Spring 2025/CS 152/Untitled.md",

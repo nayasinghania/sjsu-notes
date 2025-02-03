@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "snippet"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": ""
 }

@@ -2,7 +2,7 @@
 tags:
   - ling21
 ---
-> [!def] Critical Thinking
+> [!info] Critical Thinking
 > - A wide range of cognitive skills and intellectual dispositioned needs to effectively identify, analyze, and evaluate arguments and truth claims
 > - To discover and overcome personal preconceptions and biases
 > - To formulate and present convincing reasons in support of conclusions

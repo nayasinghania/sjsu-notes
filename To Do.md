@@ -1,6 +1,6 @@
 ## AAS 1
 * [ ] Annotate Komatsu, "Four Prisons" (02/03)
-* [ ] Annotate Umemoto "On Strike!" (02/03)
+* [x] Annotate Umemoto "On Strike!" (02/03)
 * [x] Introduce Yourself! (02/03)
 ## LING 21
 * [x] Email to Instructor (01/27)
