@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1 - Introduction to Critical Thinking"
             }
+          },
+          {
+            "id": "d884015e69cbace4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,13 +162,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6358d3dd8e047d2",
+  "active": "d884015e69cbace4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "Spring 2025/CS 152/2 - Architecture.md",
     "To Do.md",
-    "conflict-files-obsidian-git.md",
     "Spring 2025/CS 47/1 - Processors.md",
-    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "Spring 2025/CS 152/1 - Introduction.md",
     "README.md",
     "Spring 2025/MUSC 13/Untitled.md",
