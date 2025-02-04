@@ -81,7 +81,7 @@ tags:
 
 - A hasty generalization, in which one draws a conclusion about a large class of things from a small sample, often leads to stereotyping
 ## Exercise 1.3
-1. I chose Lieutenant Ashley Morgenstern as they are most likely the oldest and have endured military combat, making them more prepared to swim in dangerous waters. The others are more likely not to survive swimming, and have more to live for instead of risking their lives
+1. I chose Lieutenant Ashley Morgenstern as they are most likely the oldest and have endured military combat, making them more prepared to swim in dangerous waters. The others are more likely not to survive swimming, and have more to live for.
 2. Descriptions
 	- The Captain - Calm, collected, logical
 	- Dr. Brown - Quick witted, clever

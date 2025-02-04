@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ef88a587c5ae49",
+        "id": "85a8320d3c831983",
         "type": "tabs",
         "children": [
           {
-            "id": "39a12e4d0891dffe",
+            "id": "1f835b387ba832dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -145,11 +146,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39a12e4d0891dffe",
+  "active": "1f835b387ba832dd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "To Do.md",
     "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+    "To Do.md",
+    "conflict-files-obsidian-git.md",
     "Spring 2025/CS 47/1 - Processors.md",
     "Spring 2025/CS 152/2 - Architecture.md",
     "Spring 2025/CS 152/1 - Introduction.md",
