@@ -7,7 +7,7 @@ tags:
 * Define performance as 1/execution time
 * Performance $e_x$ / performance $e_y=$  execution time $_y$ / execution time$_x=n$
 ### Measuring Execution Time
-- MIPS (million instructions per second), not to be confused with [MIPS Assembly Language](2%20-%20Architecture.md#MIPS%20Assembly%20Language)
+- MIPS (million instructions per second), not to be confused with [MIPS Assembly Language](../CS%20152/2%20-%20Architecture.md#MIPS%20Assembly%20Language)
 #### Elapsed Time
 - Total response time (processing, I/O, OS overhead, idle time)
 #### CPU Time

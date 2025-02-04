@@ -9,5 +9,5 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "relative"
 }

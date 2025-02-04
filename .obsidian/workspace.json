@@ -11,10 +11,14 @@
             "id": "7ce164b7e2c33758",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2025/CS 47/1 - Processors.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 - Processors"
             }
           }
         ]
@@ -149,9 +153,9 @@
   "active": "7ce164b7e2c33758",
   "lastOpenFiles": [
     "Spring 2025/CS 47/2 - Number Systems.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/CS 152/2 - Architecture.md",
     "Spring 2025/CS 47/1 - Processors.md",
+    "Spring 2025/CS 152/2 - Architecture.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
     "MIPS.md",
     "Spring 2025/CS 152/Project/Ideas.md",
     "Spring 2025/CS 152/Project",
