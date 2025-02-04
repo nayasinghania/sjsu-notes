@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "40faa6e4f60d822e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9346949bd52b894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bace8a8137736dc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eaaa72e05d61534e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea72a8f4f7feb84c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f398bf76a76a644",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3df1151910e7110",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "40f4cc16242c30c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20ccae75eaeb30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df2e07eb35894878",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "9bc7d3fcf3d990a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "5f43b64198398364",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3f13c874547302a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2f398bf76a76a644",
+  "lastOpenFiles": [
+    "Spring 2025/AAS 1/1 - Asian Americans.md",
+    "To Do.md",
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+    "conflict-files-obsidian-git.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
+    "Spring 2025/MUSC 13/Attachments",
+    "Spring 2025/MUSC 13/1 - Sound.md",
+    "Spring 2025/CS 47/1 - Processors.md",
+    "Spring 2025/CS 152/2 - Architecture.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/CS 47/Untitled.md",
+    "Spring 2025/LING 21/Chapter 1 - Introduction to Critical Thinking.md",
+    "README.md",
+    "Spring 2025/MUSC 13/Untitled.md",
+    "Spring 2025/CS 152/Untitled.md",
+    "Spring 2025/Untitled.md",
+    "Spring 2025/MUSC 13",
+    "Spring 2025/LING 21",
+    "Spring 2025/CS 47",
+    "Spring 2025/CS 152",
+    "Spring 2025/AAS 1",
+    "Spring 2025",
+    "Fall 2024/GEOL 7/ex 64.md",
+    "Fall 2024/GEOL 7/ex 60.md",
+    "Fall 2024/MATH 161A/histogram1.md",
+    "Fall 2024/MUSC 19/Music of Africa.md",
+    "Fall 2024/MUSC 19/Music of Native America.md",
+    "Fall 2024/MUSC 19/Music of Southeast Asia.md",
+    "Fall 2024/GEOL 7/allopatric.md",
+    "Fall 2024/MATH 161A/hypergeo.md",
+    "Fall 2024/MATH 161A/union.md",
+    "Fall 2024/GEOL 7/trench_mantle_wedge_oceanic_continental.md",
+    "Fall 2024/GEOL 7/transform.md",
+    "Fall 2024/Excalidraw Fall 2024",
+    "Fall 2024/CS 151",
+    "Fall 2024/GEOL 7"
+  ]
+}
