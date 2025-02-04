@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25d6dbc8b83b3aba",
+        "id": "5903dcaa1ba12eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b695f0789c1f53",
+            "id": "0cc4bd3a8ca90bc6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -64,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for To Do"
             }
           },
           {
@@ -99,10 +99,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "To Do.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of To Do"
             }
           },
           {
@@ -137,29 +140,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8b695f0789c1f53",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
-    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
-    "To Do.md",
     "Spring 2025/AAS 1/1 - Asian Americans.md",
-    "conflict-files-obsidian-git.md",
-    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
-    "Spring 2025/MUSC 13/Attachments",
-    "Spring 2025/MUSC 13/1 - Sound.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
     "Spring 2025/CS 47/1 - Processors.md",
     "Spring 2025/CS 152/2 - Architecture.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/CS 47/Untitled.md",
-    "Spring 2025/LING 21/Chapter 1 - Introduction to Critical Thinking.md",
+    "Spring 2025/MUSC 13/1 - Sound.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms 1.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
+    "Spring 2025/MUSC 13/Attachments",
+    "Excalidraw/Drawing 2025-02-03 14.07.59.excalidraw.md",
+    "Excalidraw",
+    "To Do.md",
     "README.md",
-    "Spring 2025/MUSC 13/Untitled.md",
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+    "conflict-files-obsidian-git.md",
+    "1 - Introduction to Critical Thinking.pdf",
     "Spring 2025/CS 152/Untitled.md",
+    "Spring 2025/LING 21/Untitled.md",
+    "Spring 2025/AAS 1/Untitled.md",
     "Spring 2025/Untitled.md",
     "Spring 2025/MUSC 13",
     "Spring 2025/LING 21",
@@ -177,9 +183,6 @@
     "Fall 2024/MATH 161A/hypergeo.md",
     "Fall 2024/MATH 161A/union.md",
     "Fall 2024/GEOL 7/trench_mantle_wedge_oceanic_continental.md",
-    "Fall 2024/GEOL 7/transform.md",
-    "Fall 2024/Excalidraw Fall 2024",
-    "Fall 2024/CS 151",
-    "Fall 2024/GEOL 7"
+    "Fall 2024/Excalidraw Fall 2024"
   ]
 }
