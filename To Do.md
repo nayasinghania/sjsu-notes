@@ -18,5 +18,6 @@
 * [ ] Waves Assignment (02/??)
 ## CS 47
 * [x] Prerequisite Transcript Upload (01/26)
+* [ ] Converting bases (02/??)
 ## CS 152
 * [ ] Project Proposal (02/??)
