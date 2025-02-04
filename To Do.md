@@ -15,6 +15,8 @@
 * [ ] 1.6 Writing Assignment (02/04)
 * [ ] 2.1 Swirlies (02/04)
 ## MUSC 13
+* [ ] Waves Assignment (02/??)
 ## CS 47
 * [x] Prerequisite Transcript Upload (01/26)
 ## CS 152
+* [ ] Project Proposal (02/??)
