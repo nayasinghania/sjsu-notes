@@ -4,7 +4,7 @@ tags:
 ---
 ## Programming Paradigms
 
-> [!def] Paradigm
+> [!definition] 
 >A method to solve a problem or do some given task
 ### Imperative Paradigm
 #### Procedure Oriented Programming

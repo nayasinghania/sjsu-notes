@@ -2,4 +2,4 @@
 tags:
   - cs152
 ---
-- Grade calculator via Canvas API
+- [Grade calculator via Canvas API](Proposal.md#^b6a062) 
