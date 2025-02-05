@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9925f729fdf6166",
+        "id": "31dadbdc26fa3e21",
         "type": "tabs",
         "children": [
           {
-            "id": "eafeb7b2dfb9e697",
+            "id": "b10ba6535a49fc9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -108,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Spring 2025/CS 152/3 - Assembly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3 - Assembly"
             }
           },
           {
@@ -158,14 +160,15 @@
   },
   "active": "5f43b64198398364",
   "lastOpenFiles": [
-    "To Do.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/CS 152/2 - Architecture.md",
-    "Spring 2025/CS 47/2 - Number Systems.md",
+    "Spring 2025/CS 152/3 - Assembly.md",
     "Spring 2025/CS 47/1 - Processors.md",
+    "Spring 2025/CS 152/2 - Symbolic Logic.md",
+    "Spring 2025/CS 47/2 - Number Systems.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/CS 152/Project/Ideas.md",
+    "To Do.md",
     "README.md",
     "MIPS.md",
-    "Spring 2025/CS 152/Project/Ideas.md",
     "Spring 2025/CS 152/Project",
     "Spring 2025/AAS 1/1 - Asian Americans.md",
     "Spring 2025/MUSC 13/1 - Sound.md",
@@ -192,7 +195,6 @@
     "Fall 2024/MUSC 19/Music of Africa.md",
     "Fall 2024/MUSC 19/Music of Native America.md",
     "Fall 2024/MUSC 19/Music of Southeast Asia.md",
-    "Fall 2024/GEOL 7/allopatric.md",
-    "Fall 2024/MATH 161A/hypergeo.md"
+    "Fall 2024/GEOL 7/allopatric.md"
   ]
 }

@@ -10,7 +10,7 @@ tags:
 #### Procedure Oriented Programming
 - Languages: BASIC, C, FORTRAN, Java, Pascal
 #### Object Oriented Programming
-- Languages: Java, C++, C#, Python, R, PHP, Visual Basic .NET, JavaScript
+- Languages: Java, C++, C#, Python, R, PHP, Visual Basic, .NET, JavaScript
 ### Declarative Paradigm
 #### Functional Programming
 - Languages: Haskell, Scheme, Clojure, Racket, Erlang
