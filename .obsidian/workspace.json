@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8610f47bd038e87",
+        "id": "0c1a8d359e8033ee",
         "type": "tabs",
         "children": [
           {
-            "id": "4b0f1166069e3eb3",
+            "id": "a509e23a50dbe074",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f398bf76a76a644",
+  "active": "a509e23a50dbe074",
   "lastOpenFiles": [
+    "Spring 2025/MUSC 13/1 - Sound.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
     "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "To Do.md",
@@ -166,8 +168,6 @@
     "Spring 2025/CS 47/2 - Number Systems.md",
     "Spring 2025/CS 152/2 - Symbolic Logic.md",
     "Spring 2025/CS 152/3 - Assembly.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/MUSC 13/1 - Sound.md",
     "Spring 2025/CS 152/Project/Proposal.md",
     "Spring 2025/CS 152/Project/Ideas.md",
     "README.md",
