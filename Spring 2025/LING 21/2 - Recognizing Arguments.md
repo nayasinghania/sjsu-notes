@@ -16,10 +16,10 @@ tags:
 - Since
 - For
 - Seeing that
-- Inasmuchas
+- Inasmuch as
 - Because
 - Given that
-- Considering tht
+- Considering that
 - As
 - In view of the fact that
 - As indicated by

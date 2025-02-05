@@ -14,11 +14,11 @@
 * [x] Textbook Pages 29 - 36 (02/04)
 * [x] 2.1 Swirlies (02/04)
 * [x] 1.6 Writing Assignment (02/05)
-
+* [ ] Problem Set #1 (02/12)
 ## MUSC 13
-* [ ] Waves Assignment (02/??)
+* [ ] Waves Assignment (02/12)
 ## CS 47
 * [x] Prerequisite Transcript Upload (01/26)
-* [ ] Converting bases (02/??)
+* [ ] Converting bases (02/11)
 ## CS 152
 * [ ] Project Proposal (02/13)

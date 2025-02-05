@@ -43,7 +43,7 @@ tags:
 - 2 registers for operands
 - 1 immediate operand
 - op (6), rs (5), rt (5), imm (16)
-- Do the twos complement for imm if it overshoots
+- Do the [Twos Complement](../CS%2047/2%20-%20Number%20Systems.md#Twos%20Complement) for imm if it overshoots
 ### J Type
 - Jump type instruction
 - Used only with jump instructions
@@ -56,9 +56,9 @@ tags:
 - In MIPS programs, the instructions are stored starting at address $0x004000000$ 
 	- Byte addressable
 	- A 32-bit (4 byte) instruction addresses advance by 4 bytes
-	- Imperative paradigm
+	- [Imperative Paradigm](1%20-%20Introduction.md#Imperative%20Paradigm)
 ## Arithmetic and Logical Instructions
-- the AND instruction is useful for masking bits (forcing unwanted bits to 0)
+- The [AND](2%20-%20Symbolic%20Logic.md#AND)  instruction is useful for masking bits (forcing unwanted bits to 0)
 ### Shift Instructions
 - Shifts the value in a register let or right by up to 31 bits
 - Shift operations multiply or divide by powers of two

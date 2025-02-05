@@ -7,3 +7,5 @@ tags:
 ## Features
 - Calculate GPA based on current grades
 - Automatically get grades from Canvas
+## Programming Paradigms
+- [Object Oriented Programming](../1%20-%20Introduction.md#Object%20Oriented%20Programming)
