@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c1a8d359e8033ee",
+        "id": "108da668fae074d7",
         "type": "tabs",
         "children": [
           {
-            "id": "a509e23a50dbe074",
+            "id": "fb1fe397cb41c4d6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -108,13 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2025/CS 152/3 - Assembly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - Assembly"
+              "title": "Outline"
             }
           },
           {
@@ -157,17 +156,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a509e23a50dbe074",
+  "active": "fb1fe397cb41c4d6",
   "lastOpenFiles": [
-    "Spring 2025/MUSC 13/1 - Sound.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/LING 21/2 - Recognizing Arguments.md",
-    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
     "To Do.md",
-    "Spring 2025/CS 47/1 - Processors.md",
-    "Spring 2025/CS 47/2 - Number Systems.md",
-    "Spring 2025/CS 152/2 - Symbolic Logic.md",
+    "Spring 2025/CS 47/3 - Programming a Computer.md",
     "Spring 2025/CS 152/3 - Assembly.md",
+    "Spring 2025/CS 152/2 - Symbolic Logic.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/CS 47/2 - Number Systems.md",
+    "Spring 2025/CS 47/1 - Processors.md",
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+    "Spring 2025/LING 21/2 - Recognizing Arguments.md",
+    "Spring 2025/MUSC 13/1 - Sound.md",
     "Spring 2025/CS 152/Project/Proposal.md",
     "Spring 2025/CS 152/Project/Ideas.md",
     "README.md",
@@ -193,7 +193,6 @@
     "Fall 2024/GEOL 7/ex 64.md",
     "Fall 2024/GEOL 7/ex 60.md",
     "Fall 2024/MATH 161A/histogram1.md",
-    "Fall 2024/MUSC 19/Music of Africa.md",
-    "Fall 2024/MUSC 19/Music of Native America.md"
+    "Fall 2024/MUSC 19/Music of Africa.md"
   ]
 }
