@@ -14,11 +14,16 @@
 * [x] Textbook Pages 29 - 36 (02/04)
 * [x] 2.1 Swirlies (02/04)
 * [x] 1.6 Writing Assignment (02/05)
+* [ ] Textbook Pages 40 - 47 (02/09)
+* [ ] Textbook Pages 51 - 52 (02/09)
+* [ ] Course Reader Pages 1 - 12 (02/09)
+* [ ] Dangerous Ideas (02/09)
 * [ ] Problem Set #1 (02/12)
 ## MUSC 13
 * [ ] Waves Assignment (02/12)
 ## CS 47
 * [x] Prerequisite Transcript Upload (01/26)
-* [ ] Converting bases (02/11)
+* [ ] Number Systems (02/11)
+* [ ] Number Systems - 2 (02/13)
 ## CS 152
 * [ ] Project Proposal (02/13)
