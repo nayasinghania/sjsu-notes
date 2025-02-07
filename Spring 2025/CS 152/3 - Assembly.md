@@ -87,3 +87,24 @@ tags:
 - Jump and link (jal) is similar to j but is used by procedures to save a return address
 - Jump register (jr) jumps to the address held in a register
 ### Arrays
+## Addressing Modes
+### Register-only
+- Uses registers for all source and destination operands
+- All R-Type instructions
+### Immediate
+- Uses the 16-bit immediate along with registers as operands
+### Base
+- Instructions like lw and sw
+### PC Relative
+- Conditional branching instructions
+### Pseudo-direct
+## Compiling, assembling, and loading
+### Memory Map
+- With 32-bit addresses, the address space spans $2^{32}$ bytes ($4$ gigabytes (GB))
+- Word addresses are divisible by 4 and range from $0$ to $0xFFFFFFC$ 
+### Translating and starting a program
+- High level code compiled into assembly
+- Assembly assembled into machine code in an *object file*
+- The linker combines machine code with object code from libraries and other files to produce an entire executable program
+- Most compilers do compiling, assembling, and linking
+- Finally, the loader load program into memory and stars execution

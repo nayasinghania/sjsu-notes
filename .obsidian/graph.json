@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Fall 2024\"  ",
@@ -18,7 +18,7 @@
       "query": "path:\"Spring 2025\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 5431473
       }
     },
     {
@@ -31,7 +31,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4672248838355067,
+  "scale": 0.23770621288970273,
   "close": true
 }

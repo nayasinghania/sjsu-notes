@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "108da668fae074d7",
+        "id": "94d00625d72cc013",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1fe397cb41c4d6",
+            "id": "deaa7cf44ed45e03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,11 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb1fe397cb41c4d6",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
+    "Spring 2025/CS 152/4 - Verilog.md",
+    "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
+    "Spring 2025/CS 152/Attachments",
+    "Spring 2025/CS 152/3 - Assembly.md",
     "To Do.md",
     "Spring 2025/CS 47/3 - Programming a Computer.md",
-    "Spring 2025/CS 152/3 - Assembly.md",
     "Spring 2025/CS 152/2 - Symbolic Logic.md",
     "Spring 2025/CS 152/1 - Introduction.md",
     "Spring 2025/CS 47/2 - Number Systems.md",
@@ -189,10 +192,7 @@
     "Spring 2025/CS 47",
     "Spring 2025/CS 152",
     "Spring 2025/AAS 1",
-    "Spring 2025",
     "Fall 2024/GEOL 7/ex 64.md",
-    "Fall 2024/GEOL 7/ex 60.md",
-    "Fall 2024/MATH 161A/histogram1.md",
-    "Fall 2024/MUSC 19/Music of Africa.md"
+    "Fall 2024/GEOL 7/ex 60.md"
   ]
 }
