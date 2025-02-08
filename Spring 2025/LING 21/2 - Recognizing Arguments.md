@@ -93,3 +93,48 @@ tags:
 3. F
 4. T
 5. T
+## Non Arguments
+- Something is an argument only if 
+	1. It is a group of two or more statements
+	2. One of those statements (the conclusion) is claimed or intended to be supported by others
+### Reports
+>[!definition] 
+>Simply just conveying information about a subject
+
+- A report could be someone reporting another person's argument
+### Unsupported Assertions
+>[!definition]
+>Statements about what speaker or writer happens to believe
+
+- Such statements can be true/false or rational/irrational
+- Could be part of an argument
+### Conditional Statements
+>[!definition]
+>An if-then statement
+- Not an argument because it has no claim
+#### Antecedent
+- The *if*
+#### Precedent
+- The *then*
+#### Chain Arguments
+- The antecedent of the first statement is linked to the consequent of the last statement by a chain of intervening conditional statements
+### Illustrations
+>[!definition]
+>Intended to provide examples of a claim rather than proving the claim
+- Often starts with *for example*
+### Explanations
+>[!definition]
+>Tries to show why something is the case rather than proving that it is the case
+#### Common Knowledge Test
+- Is the statement a matter of common knowledge?
+	- If yes, the passage is most likely an explanation
+#### Past Event Test
+- Is the statement an event that occurred in the past?
+	- If yes, the passage is most likely an explanation
+#### Author's Intent Test
+- Is it the author's intent to prove/establish that something is the case or to explain why something is the case?
+	- If the former, the passage is most likely an argument
+	- If the latter, the passage is most likely an explanation
+#### Principle of Charity Test
+- Unclear passages should be generously interpreted
+- Never interpret a passage a a bad argument when the evidence reasonable permits us to interpret it as not an argument at all
