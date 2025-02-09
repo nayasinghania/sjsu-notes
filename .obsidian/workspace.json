@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e488bfe46d2551b9",
+        "id": "c68f5eb2d8819c46",
         "type": "tabs",
         "children": [
           {
-            "id": "19198f4d9580b884",
+            "id": "00283b870d690c2b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -154,8 +153,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f43b64198398364",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
+    "Spring 2025/LING 21/Assignments/Dangerous Ideas.md",
+    "Spring 2025/LING 21/Assignments",
     "To Do.md",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
     "conflict-files-obsidian-git.md",
@@ -189,9 +190,6 @@
     "Spring 2025/CS 152",
     "Spring 2025/AAS 1",
     "Spring 2025",
-    "Fall 2024/GEOL 7/ex 64.md",
-    "Fall 2024/GEOL 7/ex 60.md",
-    "Fall 2024/MATH 161A/histogram1.md",
-    "Fall 2024/Excalidraw Fall 2024"
+    "Fall 2024/GEOL 7/ex 64.md"
   ]
 }
