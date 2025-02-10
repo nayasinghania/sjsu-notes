@@ -85,10 +85,10 @@ A process where pre-existing rocks are broken down physically or chemically to p
 
 ## Changes over time
 
-* Become more [[sorting|sorted]] over time
+* Become more [[Attachments/sorting|sorted]] over time
 * Become [[4 - Sedimentary Rocks#Grain Rounding|rounded]] over time
 * Become finer over time
-	![[sorting|300]]
+	![[Attachments/sorting|300]]
 * Become more quartz rich
 	* Quartz is quite stable, and survives the journey down a river more easily than other minerals
 	* Quartz doesn't increase, but occurrence of other minerals decrease
@@ -151,7 +151,7 @@ A process where pre-existing rocks are broken down physically or chemically to p
 
 ## Facies
 
-![[facies|750]]
+![[Attachments/facies|750]]
 
 Rising sea level -> transgression
 Falling sea level -> regression
@@ -160,6 +160,6 @@ Falling sea level -> regression
 * These rocks were deposited from flowing water or wind and have a distinctive pattern
 * Forms from dunes and ripples
 
-![[cross bed 1]]
+![[Attachments/cross bed 1]]
 
-![[cross bed 2]]
+![[Attachments/cross bed 2]]

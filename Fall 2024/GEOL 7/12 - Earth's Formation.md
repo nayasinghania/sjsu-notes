@@ -6,7 +6,7 @@ tags:
 ## The Sun
 ### Nuclear Fusion
 * Process that powers the sun
-![[sun fusion|500]]
+![[Attachments/sun fusion|500]]
 * Once the hydrogen runs out, the sun shrinks
 * Helium that is there fuses into carbon, causes the sun to expand into a red giant
 * It will then consume the inner planets, in 4-5 billion years

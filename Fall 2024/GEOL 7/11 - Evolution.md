@@ -60,10 +60,10 @@ tags:
 #### Divergent Evolution
 * Ancestral species gives rise to many diverse species
 * Descendants differ greatly from their ancestors and from each other in many cases
-![[divergent evo]]
+![[Attachments/divergent evo]]
 #### Convergent Evolution
 * Development of similar characteristics in distantly-related organisms
-![[convergent evo]]
+![[Attachments/convergent evo]]
 #### Parallel Evolution
 * A type of convergent evolution where closely-related organisms gain similar, but independently derived traits
 * Placental and Marsupial mammals have a lot of "twins"; or "copycats"
@@ -74,14 +74,14 @@ tags:
 * A new species is likely to form if a part of a species' population is isolated and forced to adapt to a new set of conditions. Small populations evolve faster
 ##### Allopatric Speciation
 * A physical barrier causes a species to diverge into new species
-![[allopatric]]
+![[Attachments/allopatric]]
 ##### Peripatric Speciation
 * Those on the **periphery** of a population form small subsets and evolve on their own
-![[peripatric]]
+![[Attachments/peripatric]]
 ##### Parapatric Speciation
 * When a species lives across a large area, and **fragments** into localized populations that stop mixing
 * No physical isolation
-![[para]]
+![[Attachments/para]]
 ##### Sympatric Speciation
 * Overlapping
 ##### Adaptive Radiation

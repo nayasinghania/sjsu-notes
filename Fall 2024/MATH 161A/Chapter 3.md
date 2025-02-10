@@ -7,7 +7,7 @@ tags:
 > [!info] Definition
 > For a given sample space $S$ of an experiment, a rv $X$ is a function that assigns every outcome in $S$ to exactly $1$ real number
 
-![[rv|500]]
+![[Attachments/rv|500]]
 
 > [!example] Example 6
 > Left ($L$), Right ($R$), Straight ($A$)
@@ -66,7 +66,7 @@ tags:
 > | ---- | --- | --- | ---- | ---------- |
 > | $p(x)$ | $.5$ | $.3$ | $.2$ | 0 |
 > The graph of the pmf
-> * Histogram $\Rightarrow$ ![[histogram1|250]]
+> * Histogram $\Rightarrow$ ![[Attachments/histogram1|250]]
 
 #### The Cumulative Distribution Function (cdf)
 
@@ -83,7 +83,7 @@ tags:
 > $F(2)=P(X\leq2)=p(0)+p(1)+p(2)=1$
 
 > [!example] Example 18
-> ![[line1]]
+> ![[../GEOL 7/Attachments/line1]]
 
 > [!info] Proposition
 > Let $X$ be a discrete rv with the cdf $F(x)$. Then for any real numbers $a$ and $b$ with $a\leq b$,
@@ -285,7 +285,7 @@ The goal of such an experiment is to count the number of successes $X$
 1. The population or set to be sampled consists of $N$ individuals, objects, or elements (a *finite* population)
 2. Each individual can be characterized as a success ($S$) or a failure ($F$), and there are $M$ successes in the population
 3. A sample of $n$ individuals is selected without replacement in such a way that each subset of size $n$ is equally likely to be chosen
-![[hypergeo]]
+![[Attachments/hypergeo]]
 Let $X$ be the number of successes in the sample. 
 Then we say that $X$ has a hypergeometric distribution with parameters 
 $n$, sample size

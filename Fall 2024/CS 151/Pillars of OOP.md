@@ -92,7 +92,7 @@ tags:
 
 * Enables data-hiding, [[Pillars of OOP#1 - Data Abstraction|abstraction]], [[Recap#Access Modifiers|data access control]]
 
-![[access_modifiers|200]]
+![[Attachments/access_modifiers|200]]
 
 #### 3 - Inheritance
 
