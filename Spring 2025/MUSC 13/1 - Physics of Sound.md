@@ -4,8 +4,8 @@ tags:
 ---
 ## Pressure Waves
 - Molecules in the air are compressed and a rarefaction is created
-- ![](Attachments/Waveforms)
-- ![](Attachments/Waveforms%20Hz)
+- ![Waveforms](Attachments/Waveforms)
+- ![Waveforms Hz](Attachments/Waveforms%20Hz)
 ## Properties
 
 | Perceptual Properties | Physical Properties |
