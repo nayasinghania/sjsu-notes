@@ -3,9 +3,9 @@
 * [x] Annotate Komatsu, "Four Prisons" (02/03)
 * [x] Annotate Umemoto "On Strike!" (02/03)
 * [x] Introduce Yourself! (02/03)
-* [ ] Race Slides (02/10)
-* [ ] Annotate Omi and Winant (02/10)
-* [ ] Questions about Omi and Winant (02/10)
+* [x] Race Slides (02/10)
+* [x] Annotate Omi and Winant (02/10)
+* [x] Questions about Omi and Winant (02/10)
 ## LING 21
 * [x] Email to Instructor (01/27)
 * [x] Textbook Pages 1 - 10 (01/27)
