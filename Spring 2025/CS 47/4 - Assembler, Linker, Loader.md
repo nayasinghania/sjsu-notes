@@ -43,10 +43,21 @@ graph
 ### Data Layout Directives
 - Provides easier way to describe data
 - You have constants and predefined global variables stored in specific locations
+#### String Layout
+- Assembler support `.asciiz` / `.ascii` directives to define string in a natural way
+- String is stored in the memory as ascii code (usually byte long)
+- Assembler converts the defined string into into equivalent multi-byte storage
 ### Macros
-- `.macro`
+```asm
+.macro macro_name ($arg)
+	macro_body
+.end_macro
+```
+
 - User written
 - Provides way to shorten code writing for repetitive codes
+- String pattern matching matches a 'name' and replaces it with a sequence of code
+- Not a function because it does string replacement directly
 ### Pseudo Instructions
 - Combines two or more fundamental instructions into one instruction
 - Not user defined like a macro
