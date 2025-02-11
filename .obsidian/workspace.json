@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a538c2c1e23397d",
+        "id": "7f2bf2617f405f74",
         "type": "tabs",
         "children": [
           {
-            "id": "d20db9dc82afb1b7",
+            "id": "fbda1d556c30e9a0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "e5bbbff5d311f1ca",
+            "id": "95fc79e9c00fcc1b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -108,12 +109,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -133,9 +132,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -150,51 +147,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f43b64198398364",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
-    "Fall 2024/MATH 161A/Attachments/complement.md",
-    "Fall 2024/GEOL 7/Attachments",
-    "Fall 2024/MATH 161A/Attachments/intersection.md",
-    "Fall 2024/CS 151/Attachments/access_modifiers.md",
+    "Fall 2024/GEOL 7/Attachments/trench_mantle_wedge_oceanic_continental.md",
+    "Fall 2024/GEOL 7/Attachments/transform.md",
+    "Fall 2024/GEOL 7/Attachments/timescale.md",
+    "Fall 2024/GEOL 7/Attachments/sun fusion.md",
+    "Fall 2024/GEOL 7/Attachments/sorting.md",
+    "Fall 2024/GEOL 7/Attachments/reverse fault.md",
+    "Fall 2024/GEOL 7/Attachments/peripatric.md",
+    "Fall 2024/GEOL 7/Attachments/para.md",
+    "Fall 2024/GEOL 7/Attachments/normal fault.md",
+    "Fall 2024/GEOL 7/Attachments/non-conformity.md",
+    "Fall 2024/GEOL 7/Attachments/living-nonliving.md",
+    "Fall 2024/GEOL 7/Attachments/line1.md",
+    "Fall 2024/GEOL 7/Attachments/geo time fault.md",
+    "Fall 2024/GEOL 7/Attachments/facies.md",
+    "Fall 2024/GEOL 7/Attachments/ex 64.md",
+    "Fall 2024/GEOL 7/Attachments/ex 60.md",
+    "Fall 2024/GEOL 7/Attachments/earth layers.md",
+    "Fall 2024/GEOL 7/Attachments/divergent evo.md",
+    "Fall 2024/GEOL 7/Attachments/disconformity.md",
+    "Fall 2024/GEOL 7/Attachments/cross bed 2.md",
+    "Fall 2024/GEOL 7/Attachments/cross bed 1.md",
+    "Fall 2024/GEOL 7/Attachments/convergent evo.md",
+    "Fall 2024/GEOL 7/Attachments/clades.md",
+    "Fall 2024/GEOL 7/Attachments/asthenosphere.md",
+    "Fall 2024/GEOL 7/Attachments/angular uncoonformity.md",
+    "Fall 2024/GEOL 7/Attachments/allopatric.md",
+    "Excalidraw",
     "Fall 2024/MATH 161A/Attachments",
-    "Fall 2024/CS 151/Attachments/border layout.md",
+    "Fall 2024/GEOL 7/Attachments",
     "Fall 2024/CS 151/Attachments",
-    "Fall 2024/CS 151/Custom Data Structures.md",
-    "Fall 2024/CS 151/Design Patterns.md",
-    "Fall 2024/CS 151/GUI.md",
-    "Fall 2024/CS 151/Multithreading.md",
-    "Fall 2024/CS 151/Pillars of OOP.md",
-    "Fall 2024/CS 151/Recap.md",
-    "Fall 2024/CS 151/Streams.md",
-    "Spring 2025/MUSC 13/1 - Physics of Sound.md",
-    "Spring 2025/MUSC 13/2 - Psychoacoustics.md",
-    "Spring 2025/MUSC 13/Attachments/Waveforms Hz.md",
-    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
-    "Spring 2025/MUSC 13/Attachments/Waveforms.svg",
-    "Spring 2025/MUSC 13/Attachments/Waveforms.png",
-    "Spring 2025/LING 21/2 - Recognizing Arguments.md",
+    "Spring 2025/LING 21/Assignments",
     "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
-    "To Do.md",
-    "Spring 2025/CS 152/4 - Verilog.md",
     "Spring 2025/CS 152/Attachments",
-    "Spring 2025/CS 152/3 - Assembly.md",
-    "Spring 2025/CS 47/3 - Programming a Computer.md",
-    "Spring 2025/CS 152/2 - Symbolic Logic.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/CS 47/2 - Number Systems.md",
-    "Spring 2025/CS 47/1 - Processors.md",
-    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
-    "Spring 2025/CS 152/Project/Proposal.md",
     "Spring 2025/CS 152/Project",
     "Spring 2025/MUSC 13/Attachments",
-    "Excalidraw",
-    "1 - Introduction to Critical Thinking.pdf",
     "Spring 2025/MUSC 13",
     "Spring 2025/LING 21"
   ]

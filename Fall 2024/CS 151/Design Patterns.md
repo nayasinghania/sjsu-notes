@@ -20,7 +20,7 @@ Closed for modification, open for extension
 * When data in the Subject changes, the observers are notified
 * The observers (Observer Objects) have subscribed to (registered with) the Subject to receive updates when the Subject's data changes
 * New data values are communicated to the observers in some form when they change
-![[../GEOL 7/Attachments/observers|500]]
+![[observers|500]]
 * The observer can subscribe or unsubscribe to the subject
 * A one to many dependency between objects
 	* When one object changes state
