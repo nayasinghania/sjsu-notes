@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d948bb340d16fad4",
+        "id": "96b23f5dedd543d0",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba41111bdb4ffe8",
+            "id": "ebd1dd064ca3cc3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "New tab"
             }
           }
         ]
@@ -157,8 +153,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ba41111bdb4ffe8",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
+    "Spring 2025/CS 47/2 - Number Systems.md",
+    "To Do.md",
+    "Spring 2025/AAS 1/2 - Race.md",
+    "Spring 2025/AAS 1/1 - Asian Americans.md",
     "Fall 2024/GEOL 7/Attachments/trench_mantle_wedge_oceanic_continental.md",
     "Fall 2024/GEOL 7/Attachments/transform.md",
     "Fall 2024/GEOL 7/Attachments/timescale.md",
@@ -181,10 +181,6 @@
     "Fall 2024/GEOL 7/Attachments/cross bed 2.md",
     "Fall 2024/GEOL 7/Attachments/cross bed 1.md",
     "Fall 2024/GEOL 7/Attachments/convergent evo.md",
-    "Fall 2024/GEOL 7/Attachments/clades.md",
-    "Fall 2024/GEOL 7/Attachments/asthenosphere.md",
-    "Fall 2024/GEOL 7/Attachments/angular uncoonformity.md",
-    "Fall 2024/GEOL 7/Attachments/allopatric.md",
     "Excalidraw",
     "Fall 2024/MATH 161A/Attachments",
     "Fall 2024/GEOL 7/Attachments",
