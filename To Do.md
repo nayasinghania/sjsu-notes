@@ -16,8 +16,8 @@
 * [x] 1.6 Writing Assignment (02/05)
 * [x] Textbook Pages 40 - 47 (02/09)
 * [x] Textbook Pages 51 - 52 (02/09)
-* [ ] Course Reader Pages 1 - 12 (02/09)
-* [ ] Dangerous Ideas (02/09)
+* [x] Course Reader Pages 1 - 12 (02/09)
+* [x] Dangerous Ideas (02/09)
 * [ ] Problem Set #1 (02/12)
 ## MUSC 13
 * [x] Waves Assignment (02/12)

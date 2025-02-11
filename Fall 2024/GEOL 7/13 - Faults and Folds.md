@@ -44,12 +44,12 @@ tags:
 #### Reverse Fault
 * Compression
 * Hanging wall moves up and in relative to foot wall
-![[reverse fault]]
+![[Attachments/reverse fault]]
 #### Normal Fault
 * Tension
 * Hanging wall move down and out relative to foot wall
-![[normal fault]]
+![[Attachments/normal fault]]
 #### Transform Fault (Strike-Slip Fault)
 * Tension
-![[transform]]
+![[Attachments/transform]]
 

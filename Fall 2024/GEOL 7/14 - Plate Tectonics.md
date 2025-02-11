@@ -4,8 +4,8 @@ tags:
 ---
 
 ## Mantle Convection
-![[earth layers|500]]
-![[asthenosphere|500]]
+![[Attachments/earth layers|500]]
+![[Attachments/asthenosphere|500]]
 ## Continental Drift
 * Alfred Wegener's hypothesis in 1912
 * Evidence
@@ -42,7 +42,7 @@ tags:
 * crashing together
 * Subduction zone
 	* oceanic/continental
-		* ![[trench_mantle_wedge_oceanic_continental|650]]
+		* ![[Attachments/trench_mantle_wedge_oceanic_continental|650]]
 	* oceanic/oceanic
 	* occur any time there is oceanic crust
 	* large earthquakes volcanic arc, trench, mantle

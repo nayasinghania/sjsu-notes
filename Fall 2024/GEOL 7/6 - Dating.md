@@ -61,7 +61,7 @@ Parent isotope $\Rightarrow$ daughter isotope
 
 * Mostly faults and igneous intrusions
 
-![[geo time fault]]
+![[Attachments/geo time fault]]
 *C flat due to erosion after earthquake*
 
 ### Law of Inclusions
@@ -76,8 +76,8 @@ Parent isotope $\Rightarrow$ daughter isotope
 ### Law of Unconformities
 
 #### Disconformity
-![[disconformity]]
+![[Attachments/disconformity]]
 #### Angular Unconformity
-![[angular uncoonformity]]
+![[Attachments/angular uncoonformity]]
 #### Non-Conformity
-![[non-conformity]]
+![[Attachments/non-conformity]]

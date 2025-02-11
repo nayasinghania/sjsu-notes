@@ -11,7 +11,7 @@ tags:
 * Can reproduce
 * Reacts/adapts to its environment
 ### Differentiating Living and Non-living Things
- ![[living-nonliving]]
+ ![[Attachments/living-nonliving]]
 ### Making Living Things
 * Creating extremely complicated organic molecules from simple, non-organic ingredients
 ## Abiogenesis

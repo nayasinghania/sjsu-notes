@@ -46,17 +46,17 @@ Event with no outcomes
 
 > [!info] Definition
 > The complement of event $A$, $A^1$, is the set of all outcomes in the sample space $S$ that are not in $A$
-> ![[complement]]
+> ![[Attachments/complement]]
 #### Union
 
 > [!info] Definition
 > The union of events $A$ and $B$, $A \cup B$, read as "$A$ or $B$", is the set of all outcomes $S$ that are in $A$ or $B$  or in both $A$ and $B$
-> ![[union]]
+> ![[Attachments/union]]
 #### Intersection
 
 > [!info] Definition
 > The intersection of events $A$ and $B$, represented by $A \cap B$ read as "$A$ and $B$", is the set of all outcomes that are in both $A$ and $B$
-> ![[intersection]]
+> ![[Attachments/intersection]]
 #### Mutual Exclusivity
 
 > [!info] Definition
@@ -240,7 +240,7 @@ Find the # of non-repetitive combinations $\Rightarrow \frac{10!}{6!}=10*9*8*7$
 > [!info] Definition
 > For events $A$ and $B$ with $P(B)>0$, $P(A|B)=\frac{P(A\cap B)}{P(B)}$
 
-![[conditional prob def]]
+![[Attachments/conditional prob def]]
 
 ### Textbook Example 50
 
@@ -278,7 +278,7 @@ For events $A,B,C$, $P(A\cap B\cap C)=P(A)*P(B|A)*P(C|A\cap B)$
 > Let $A_1,A_2,…,A_n$ be pairwise disjoint events such that $S=A_1 \cup A_2 \cup …\cup A_n$. Then for any event B, 
 > $P(B)=P(B|A_1)P(A_1)+P(B|A_2)P(A_2)+…+P(B|A_n)P(A_n)$
 
-![[complete prob|250]]
+![[Attachments/complete prob|250]]
 
 $P(B)=P(B\cap A_1)+P(B\cap A_2)+P(B\cap A_3)$
 $P(B)=P(B|A_1)P(A_1)+P(B|A_2)P(A_2)+P(B|A_3)P(A_3)$
@@ -294,7 +294,7 @@ $F^1=$ aircraft not found
 $L=$ aircraft has locator
 $L^1=$ aircraft has no locator
 
-![[ex 60]]
+![[../GEOL 7/Attachments/ex 60]]
 
 $\Rightarrow P(F\cap L)=.42$
 $\Rightarrow P(F\cap L^1)=.28$
@@ -316,7 +316,7 @@ $\Rightarrow P(F^1\cap L^1)=.27$
 > short - 80% word, medium - 50% word, long, 30% word
 > randomly selected
 > ---
-> ![[ex 64]]
+> ![[../GEOL 7/Attachments/ex 64]]
 > $S$ = short
 > $M$ = medium
 > $L$ = long

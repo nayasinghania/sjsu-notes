@@ -203,7 +203,7 @@ UI components are arrangements by placing them in a swing `Container` object
 #### Border Layout
 * Five container areas: NORTH, EAST, SOUTH, WEST, CENTER
 * The content pane of a `JFrame` uses border layout by default
-![[border layout]]
+![[Attachments/border layout]]
 #### Grid Layout
 * Components are placed in boxes in a simple table arrangement
 	* Specify the size (rows then columns) of the grid on `JPanel`

@@ -23,7 +23,7 @@ tags:
 ### Clades
 * Groupings of organisms based on their observed similar characteristics
 
-![[clades]]
+![[Attachments/clades]]
 #### Monophyletic Group
 * A complete group of organisms and their most recent ancestor
 #### Paraphyletic Group

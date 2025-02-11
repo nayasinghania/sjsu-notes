@@ -5,7 +5,7 @@ tags:
 > [!info] Definition
 > The geological time scale is a way for us to organize the Earth's history, and put events in the proper order
 
-![[timescale|1500]]
+![[Attachments/timescale|1500]]
 
 > [!tip] 
 > When drawing a timescale for the assignment, draw from oldest on bottom to newest on top, like rock layers

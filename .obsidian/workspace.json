@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c68f5eb2d8819c46",
+        "id": "4a538c2c1e23397d",
         "type": "tabs",
         "children": [
           {
-            "id": "00283b870d690c2b",
+            "id": "d20db9dc82afb1b7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "95fc79e9c00fcc1b",
+            "id": "e5bbbff5d311f1ca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,10 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -132,7 +133,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -147,49 +150,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5f43b64198398364",
   "lastOpenFiles": [
-    "Spring 2025/LING 21/Assignments/Dangerous Ideas.md",
-    "Spring 2025/LING 21/Assignments",
-    "To Do.md",
+    "Fall 2024/MATH 161A/Attachments/complement.md",
+    "Fall 2024/GEOL 7/Attachments",
+    "Fall 2024/MATH 161A/Attachments/intersection.md",
+    "Fall 2024/CS 151/Attachments/access_modifiers.md",
+    "Fall 2024/MATH 161A/Attachments",
+    "Fall 2024/CS 151/Attachments/border layout.md",
+    "Fall 2024/CS 151/Attachments",
+    "Fall 2024/CS 151/Custom Data Structures.md",
+    "Fall 2024/CS 151/Design Patterns.md",
+    "Fall 2024/CS 151/GUI.md",
+    "Fall 2024/CS 151/Multithreading.md",
+    "Fall 2024/CS 151/Pillars of OOP.md",
+    "Fall 2024/CS 151/Recap.md",
+    "Fall 2024/CS 151/Streams.md",
+    "Spring 2025/MUSC 13/1 - Physics of Sound.md",
+    "Spring 2025/MUSC 13/2 - Psychoacoustics.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms Hz.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms.svg",
+    "Spring 2025/MUSC 13/Attachments/Waveforms.png",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
-    "conflict-files-obsidian-git.md",
-    "Spring 2025/CS 47/3 - Programming a Computer.md",
     "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
-    "Spring 2025/CS 152/Attachments",
+    "To Do.md",
     "Spring 2025/CS 152/4 - Verilog.md",
-    "Spring 2025/MUSC 13/1 - Sound.md",
-    "Spring 2025/CS 152/Project/Proposal.md",
-    "Spring 2025/CS 152/Project/Ideas.md",
-    "README.md",
-    "Spring 2025/CS 47/2 - Number Systems.md",
-    "Spring 2025/CS 47/1 - Processors.md",
-    "Spring 2025/AAS 1/1 - Asian Americans.md",
+    "Spring 2025/CS 152/Attachments",
     "Spring 2025/CS 152/3 - Assembly.md",
+    "Spring 2025/CS 47/3 - Programming a Computer.md",
     "Spring 2025/CS 152/2 - Symbolic Logic.md",
     "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/CS 47/2 - Number Systems.md",
+    "Spring 2025/CS 47/1 - Processors.md",
     "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+    "Spring 2025/CS 152/Project/Proposal.md",
     "Spring 2025/CS 152/Project",
-    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
     "Spring 2025/MUSC 13/Attachments",
-    "Spring 2025/CS 152/2 - Architecture.md",
-    "Spring 2025/CS 47/Untitled.md",
-    "Spring 2025/LING 21/Chapter 1 - Introduction to Critical Thinking.md",
-    "Spring 2025/MUSC 13/Untitled.md",
-    "Spring 2025/CS 152/Untitled.md",
-    "Spring 2025/Untitled.md",
+    "Excalidraw",
+    "1 - Introduction to Critical Thinking.pdf",
     "Spring 2025/MUSC 13",
-    "Spring 2025/LING 21",
-    "Spring 2025/CS 47",
-    "Spring 2025/CS 152",
-    "Spring 2025/AAS 1",
-    "Spring 2025",
-    "Fall 2024/GEOL 7/ex 64.md"
+    "Spring 2025/LING 21"
   ]
 }
