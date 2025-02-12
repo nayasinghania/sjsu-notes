@@ -53,7 +53,7 @@ tags:
 - `<mnemonic rt, rs, imm`
 ###### J Type
 - 1 immediate value
-- Typically used for unconditional jumps to specific addresses
+- Typically used for unconditional jumps to specific addresses ^72cc66
 - opcode (6), address (26)
 - `<mnemonic> <address>`
 ##### Why Write in Assembly
