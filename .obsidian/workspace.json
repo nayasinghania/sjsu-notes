@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5521b94d2009c6",
+        "id": "26cb13681f01000e",
         "type": "tabs",
         "children": [
           {
-            "id": "bef939c9c952c37a",
+            "id": "89d70ad8bfce527e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 - Assembler, Linker, Loader"
+              "title": "New tab"
             }
           }
         ]
@@ -69,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -85,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
+                "file": "Spring 2025/CS 152/4 - Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4 - Assembler, Linker, Loader"
+              "title": "Backlinks for 4 - Verilog"
             }
           },
           {
@@ -104,13 +99,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
+                "file": "Spring 2025/CS 152/4 - Verilog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 - Assembler, Linker, Loader"
+              "title": "Outline of 4 - Verilog"
             }
           },
           {
@@ -135,12 +130,13 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "bef939c9c952c37a",
+  "active": "89d70ad8bfce527e",
   "lastOpenFiles": [
+    "Spring 2025/CS 152/4 - Verilog.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
     "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
     "Spring 2025/CS 47/3 - Programming a Computer.md",
     "Spring 2025/CS 47/2 - Number Systems.md",
@@ -171,8 +167,6 @@
     "Spring 2025/MUSC 13/Attachments/Waveforms.svg",
     "Spring 2025/MUSC 13/Attachments/Waveforms.png",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
-    "To Do.md",
-    "Spring 2025/CS 152/4 - Verilog.md",
     "Spring 2025/CS 152/Attachments",
     "Spring 2025/CS 152/Project",
     "Spring 2025/MUSC 13/Attachments",

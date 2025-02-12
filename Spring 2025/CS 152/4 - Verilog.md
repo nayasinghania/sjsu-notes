@@ -41,3 +41,5 @@ endmodule
 ```
 
 This is a multiplexer
+## Model Sim
+- 
