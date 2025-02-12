@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6df48475b11278ab",
+        "id": "37755b3d83cc82c4",
         "type": "tabs",
         "children": [
           {
-            "id": "0d731f9668c65d68",
+            "id": "5e5f6e0bafafa59e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,7 +131,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d491e542b33e799a",
+  "active": "5e5f6e0bafafa59e",
   "lastOpenFiles": [
     "To Do.md",
     "Spring 2025/LING 21/Course Reader/Page 13.md",

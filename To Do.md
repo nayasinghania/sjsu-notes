@@ -24,7 +24,8 @@
 * [x] Course Reader Page 13 (02/11)
 * [x] Textbook Pages 53 - 67 (02/11)
 ## MUSC 13
-* [x] Waves Assignment (02/12)
+* [x] Waveforms Discussion (02/12)
+* [ ] Spectrogram Discussion (02/19)
 ## CS 47
 * [x] Prerequisite Transcript Upload (01/26)
 * [x] Number Systems (02/11)
@@ -33,3 +34,4 @@
 * [ ] Number Systems - 2 - Peer Review (02/13)
 ## CS 152
 * [ ] Project Proposal (02/13)
+* [ ] Homework 1 (02/18)
