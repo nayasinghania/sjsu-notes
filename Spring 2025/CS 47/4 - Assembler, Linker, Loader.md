@@ -1,3 +1,8 @@
+---
+tags:
+  - cs47
+---
+
 ```mermaid 
 graph
 1[Source File] --> 2[Assembler] --> 3[Object File]
