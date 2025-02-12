@@ -20,9 +20,9 @@
 * [x] Textbook Pages 51 - 52 (02/09)
 * [x] Course Reader Pages 1 - 12 (02/09)
 * [x] Dangerous Ideas (02/09)
-* [x] Problem Set #1 (02/11)
-* [ ] Course Reader Page 13 (02/11)
-* [ ] Textbook Pages 53 - 67 (02/11)
+* [ ] Problem Set #1 (02/11)
+* [x] Course Reader Page 13 (02/11)
+* [x] Textbook Pages 53 - 67 (02/11)
 ## MUSC 13
 * [x] Waves Assignment (02/12)
 ## CS 47
