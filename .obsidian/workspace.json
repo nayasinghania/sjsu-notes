@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "dbc801dee9b3351c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea45a029579f8563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7103d81a24dca2f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1adca9126a36552",
+    "type": "split",
+    "children": [
+      {
+        "id": "9708cb7e20a8ae11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6519343bb8483fac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "80db475f8ba91ffc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad7ac0c468acf7bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "63703569993a9011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5928487dd94e85f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "426b6ea43134c35c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d491e542b33e799a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d491e542b33e799a",
+  "lastOpenFiles": [
+    "Spring 2025/LING 21/Course Reader/Page 13.md",
+    "Spring 2025/LING 21/2 - Recognizing Arguments.md",
+    "Spring 2025/LING 21/3 - Basic Logical Concepts.md",
+    "Spring 2025/LING 21/1 - Introduction to Critical Thinking.md",
+    "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
+    "Spring 2025/CS 47/3 - Programming a Computer.md",
+    "Spring 2025/CS 47/2 - Number Systems.md",
+    "Spring 2025/AAS 1/1 - Asian Americans.md",
+    "Spring 2025/AAS 1/2 - Race.md",
+    "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
+    "Spring 2025/CS 152/Project/Proposal.md",
+    "Spring 2025/CS 152/Project/Ideas.md",
+    "Spring 2025/CS 152/4 - Verilog.md",
+    "Spring 2025/CS 152/3 - Assembly.md",
+    "Spring 2025/CS 152/2 - Symbolic Logic.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/MUSC 13/2 - Psychoacoustics.md",
+    "Spring 2025/MUSC 13/1 - Physics of Sound.md",
+    "Spring 2025/LING 21/Course Reader",
+    "To Do.md"
+  ]
+}
