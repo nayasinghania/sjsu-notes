@@ -1,7 +1,7 @@
 ---
 tags:
-  - ling21
   - course-reader
+  - ling21
 ---
 - Prepare by giving students change to prepare and manage trauma-related reactions in order to engage in discussion
 ## Reasoning

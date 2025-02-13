@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37755b3d83cc82c4",
+        "id": "affb5f26743f7d04",
         "type": "tabs",
         "children": [
           {
-            "id": "5e5f6e0bafafa59e",
+            "id": "afcf472906010bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,23 +21,8 @@
               "icon": "lucide-file",
               "title": "To Do"
             }
-          },
-          {
-            "id": "047d8a5ee0636c6d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -151,12 +136,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "047d8a5ee0636c6d",
+  "active": "afcf472906010bf7",
   "lastOpenFiles": [
+    "Spring 2025/AAS 1/1 - Asian Americans.md",
+    "Spring 2025/AAS 1/2 - Race.md",
+    "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
+    "Spring 2025/LING 21/Course Reader/2 - Trigger Warnings.md",
+    "Spring 2025/MUSC 13/Attachments/Waveforms.md",
     "conflict-files-obsidian-git.md",
     "To Do.md",
-    "Spring 2025/LING 21/Course Reader/2 - Trigger Warnings.md",
-    "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
     "Spring 2025/LING 21/Course Reader/Page 13.md",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
     "Spring 2025/LING 21/3 - Basic Logical Concepts.md",
@@ -164,8 +152,6 @@
     "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
     "Spring 2025/CS 47/3 - Programming a Computer.md",
     "Spring 2025/CS 47/2 - Number Systems.md",
-    "Spring 2025/AAS 1/1 - Asian Americans.md",
-    "Spring 2025/AAS 1/2 - Race.md",
     "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
     "Spring 2025/CS 152/Project/Proposal.md",
     "Spring 2025/CS 152/Project/Ideas.md",
