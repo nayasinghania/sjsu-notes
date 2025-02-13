@@ -1,7 +1,6 @@
 ---
 tags: [ling21]
 ---
-
 ## Syllogism
 >[!definition]
 >An argument that consists of exactly two premises and a conclusion
@@ -17,19 +16,23 @@ tags: [ling21]
 - If the Tigers beat the Yankees, then the Tigers will make the playoffs.
 - The Tigers will beat the Yankees.
 - So, the Tigers will make the playoffs.
-###### Chain Arguments (logical)
+###### Modus Ponens (valid)
+- If A then B
+- A
+- Therefore, B
+###### Chain Arguments (valid)
 - If A then B
 - If B then C
 - Therefore, if A then C
-###### Modus Tollens (logical)
+###### Modus Tollens (valid)
 - If A then B
 - Not B
 - Therefore, not A
-###### Denying the Antecedent (illogical)
+###### Denying the Antecedent (invalid)
 - If A then B
 - Not A
 - Therefore, not B
-###### Affirming the consequent
+###### Affirming the consequent (invalid)
 - If A then B
 - B
 - Therefore, A
