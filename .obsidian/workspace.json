@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "3 - Cables"
             }
+          },
+          {
+            "id": "4c7a087c4230620d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2025/MUSC 13/3 - Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 - Cables"
+              "title": "Backlinks"
             }
           },
           {
@@ -104,13 +118,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2025/MUSC 13/3 - Cables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - Cables"
+              "title": "Outline"
             }
           },
           {
@@ -138,10 +151,11 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "9e08307667001bff",
+  "active": "4c7a087c4230620d",
   "lastOpenFiles": [
-    "Spring 2025/MUSC 13/1 - Physics of Sound.md",
+    "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/3 - Cables.md",
+    "Spring 2025/MUSC 13/1 - Physics of Sound.md",
     "Spring 2025/MUSC 13/2 - Psychoacoustics.md",
     "Spring 2025/LING 21/3 - Basic Logical Concepts.md",
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
@@ -149,7 +163,6 @@
     "Spring 2025/AAS 1/1 - Asian Americans.md",
     "Spring 2025/AAS 1/2 - Race.md",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
-    "conflict-files-obsidian-git.md",
     "Spring 2025/LING 21/Course Reader",
     "Spring 2025/CS 152/4 - Verilog.md",
     "Spring 2025/CS 152/1 - Introduction.md",
