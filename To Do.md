@@ -6,7 +6,7 @@
 * [x] Race Slides (02/10)
 * [x] Annotate Omi and Winant (02/10)
 * [x] Questions about Omi and Winant (02/10)
-* [ ] Orientalism (02/17)
+* [ ] Orientalism Slides (02/17)
 * [ ] Annotate Lee Chapter 1 (02/17)
 ## LING 21
 * [x] Email to Instructor (01/27)
@@ -20,9 +20,13 @@
 * [x] Textbook Pages 51 - 52 (02/09)
 * [x] Course Reader Pages 1 - 12 (02/09)
 * [x] Dangerous Ideas (02/09)
-* [ ] Problem Set #1 (02/11)
+* [x] Problem Set #1 (02/11)
 * [x] Course Reader Page 13 (02/11)
 * [x] Textbook Pages 53 - 67 (02/11)
+* [ ] Textbook Pages 73 - 77 (02/16)
+* [ ] Textbook Pages 67 - 71 (02/16)
+* [ ] 3.3 Swirlies (02/16)
+* [x] Dangerous Ideas vs Page 13 Course Reader (02/17)
 ## MUSC 13
 * [x] Waveforms Discussion (02/12)
 * [ ] Spectrogram Discussion (02/19)
@@ -33,5 +37,5 @@
 * [x] Number Systems - 2 (02/13)
 * [ ] Number Systems - 2 - Peer Review (02/13)
 ## CS 152
-* [ ] Project Proposal (02/13)
+* [x] Project Proposal (02/13)
 * [ ] Homework 1 (02/18)
