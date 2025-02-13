@@ -44,6 +44,16 @@ graph
 - List of machine instructions in hexadecimal
 ## Linker
 - Some symbol table entries are passed to the linker
+- The output of the linker is an exe file
+	- Similar format as the object file, but it does not contain any unresolved references or relocation information
+## Loader
+- Loads executable into memory and starts the program to execute on the system
+	- Determines size of text and data segment
+	- Creates new address space for the program
+	- Copies instruction and data from executable file to memory
+	- Copies arguments to be paused to the program onto the stack
+	- Initialize machine registers - stack pointer to point to free stack location
+	- Jumps to the main startup routine
 ## Additional Facilities
 ### Data Layout Directives
 - Provides easier way to describe data
