@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6967c505d2611e63",
+        "id": "44215b93ba6f065d",
         "type": "tabs",
         "children": [
           {
-            "id": "35e38b1cde78440c",
+            "id": "a9cdbf49d5a373ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -136,7 +131,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "35e38b1cde78440c",
+  "active": "d491e542b33e799a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/3 - Cables.md",
