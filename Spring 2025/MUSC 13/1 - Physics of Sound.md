@@ -4,6 +4,8 @@ tags:
 ---
 ## Pressure Waves
 - Molecules in the air are compressed and a rarefaction is created
+- In its simplest form, sound can be represented as a sine wave
+	- Sound is not actually a sine wave because the sound goes in all directions, but waveforms can be a helpful way to visualize sound waves
 - ![Waveforms](Attachments/Waveforms)
 - ![Waveforms Hz](Attachments/Waveforms%20Hz)
 ## Properties
@@ -18,6 +20,9 @@ tags:
 ### Amplitude (volume)
 - Decibels are logarithmic
 	- $20dB$ is NOT twice as loud as $10dB$
+### Transient Patterns
+- The onset of the specific noise
+- Usually the tall part marks the transient
 #### Safe Limits
 | decibels ($dB$) | Example                       | Exposure Limit |
 | --------------- | ----------------------------- | -------------- |

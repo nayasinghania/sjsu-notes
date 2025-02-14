@@ -2,7 +2,7 @@
 tags:
   - cs152
 ---
-## Programming Paradigms
+## [Programming Paradigms](5%20-%20Programming%20Paradigms.md)
 
 > [!definition] 
 >A method to solve a problem or do some given task
@@ -17,7 +17,7 @@ tags:
 #### Logic Programming
 * Languages: Prolog, Curry
 
-## Programming Languages
+## [Programming Languages](6%20-%20Programming%20Languages.md)
 ### Properties
 - A language's designers must accurately define these properties
 - A language's users must accurately use these properties
