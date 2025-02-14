@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8818de738ca3d7",
+        "id": "c1a8f4a73a910c54",
         "type": "tabs",
         "children": [
           {
-            "id": "e06ad4fab4d77f2b",
+            "id": "b147e770abc0e16c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -64,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200
   },
   "right": {
     "id": "40f4cc16242c30c1",
@@ -80,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4 - Assembler, Linker, Loader"
+              "title": "Backlinks"
             }
           },
           {
@@ -99,13 +98,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 - Assembler, Linker, Loader"
+              "title": "Outline"
             }
           },
           {
@@ -133,8 +131,19 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "2f398bf76a76a644",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
+    "Spring 2025/CS 152/6 - Programming Languages.md",
+    "Spring 2025/CS 152/Attachments/Interpreting.png",
+    "Spring 2025/CS 152/Attachments/Compiling.png",
+    "Spring 2025/CS 152/Attachments/Abstraction.png",
+    "Spring 2025/CS 152/4 - Verilog.md",
+    "Spring 2025/CS 152/1 - Introduction.md",
+    "Spring 2025/CS 152/Attachments/History.png",
+    "Spring 2025/CS 152/5 - Programming Paradigms.md",
+    "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",
+    "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
+    "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/3 - Cables.md",
     "Spring 2025/MUSC 13/1 - Physics of Sound.md",
@@ -146,13 +155,9 @@
     "Spring 2025/AAS 1/2 - Race.md",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
     "Spring 2025/LING 21/Course Reader",
-    "Spring 2025/CS 152/4 - Verilog.md",
-    "Spring 2025/CS 152/1 - Introduction.md",
-    "Spring 2025/CS 47/4 - Assembler, Linker, Loader.md",
     "Spring 2025/CS 47/3 - Programming a Computer.md",
     "Spring 2025/CS 47/2 - Number Systems.md",
     "Spring 2025/CS 47/1 - Processors.md",
-    "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
     "Fall 2024/CS 151/observers.md",
     "Fall 2024/GEOL 7/Attachments/allopatric.md",
     "Fall 2024/MATH 161A/Attachments/complement.md",
@@ -163,9 +168,6 @@
     "Fall 2024/CS 151/Attachments/border layout.md",
     "Fall 2024/CS 151/Attachments",
     "Fall 2024/CS 151/Custom Data Structures.md",
-    "Fall 2024/CS 151/Design Patterns.md",
-    "Fall 2024/CS 151/GUI.md",
-    "Fall 2024/CS 151/Multithreading.md",
     "Spring 2025/MUSC 13/Attachments/Waveforms.svg",
     "Spring 2025/MUSC 13/Attachments/Waveforms.png",
     "Spring 2025/CS 152/Attachments",
