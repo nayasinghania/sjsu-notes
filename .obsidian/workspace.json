@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "affb5f26743f7d04",
+        "id": "af001df01bc80e78",
         "type": "tabs",
         "children": [
           {
-            "id": "afcf472906010bf7",
+            "id": "89019bd688d6e0dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "New tab"
             }
           }
         ]
@@ -136,15 +131,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "afcf472906010bf7",
+  "active": "d491e542b33e799a",
   "lastOpenFiles": [
+    "To Do.md",
     "Spring 2025/AAS 1/1 - Asian Americans.md",
     "Spring 2025/AAS 1/2 - Race.md",
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
     "Spring 2025/LING 21/Course Reader/2 - Trigger Warnings.md",
     "Spring 2025/MUSC 13/Attachments/Waveforms.md",
     "conflict-files-obsidian-git.md",
-    "To Do.md",
     "Spring 2025/LING 21/Course Reader/Page 13.md",
     "Spring 2025/LING 21/2 - Recognizing Arguments.md",
     "Spring 2025/LING 21/3 - Basic Logical Concepts.md",
