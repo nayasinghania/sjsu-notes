@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44215b93ba6f065d",
+        "id": "2cbbfeab70a17105",
         "type": "tabs",
         "children": [
           {
-            "id": "a9cdbf49d5a373ba",
+            "id": "612fff053bcdb990",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,6 +133,8 @@
   },
   "active": "d491e542b33e799a",
   "lastOpenFiles": [
+    "To Do.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/3 - Cables.md",
     "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",
@@ -142,7 +144,6 @@
     "Spring 2025/CS 152/Attachments/Abstraction.png",
     "Spring 2025/CS 152/6 - Programming Languages.md",
     "Spring 2025/CS 152/5 - Programming Paradigms.md",
-    "To Do.md",
     "Spring 2025/AAS 1/1 - Asian Americans.md",
     "Spring 2025/AAS 1/2 - Race.md",
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
