@@ -33,11 +33,11 @@
 * [x] Waveforms Discussion (02/12)
 ## CS 47
 * [ ] Program Assignment 1 (02/20)
-* [ ] Number Systems - 2 - Peer Review (02/13)
+* [x] Number Systems - 2 - Peer Review (02/13)
 * [x] Number Systems - 2 (02/13)
 * [x] Number Systems - Peer Review (02/11)
 * [x] Number Systems (02/11)
 * [x] Prerequisite Transcript Upload (01/26)
 ## CS 152
-* [ ] Homework 1 (02/18)
+* [x] Homework 1 (02/18)
 * [x] Project Proposal (02/13)
