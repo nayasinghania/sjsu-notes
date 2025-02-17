@@ -1,8 +1,8 @@
 ## AAS 1
 
 
-* [ ] Annotate Lee Chapter 1 (02/17)
-* [ ] Orientalism Slides (02/17)
+* [x] Annotate Lee Chapter 1 (02/17)
+* [x] Orientalism Slides (02/17)
 * [x] Questions about Omi and Winant (02/10)
 * [x] Annotate Omi and Winant (02/10)
 * [x] Race Slides (02/10)
@@ -12,9 +12,9 @@
 * [x]  Asian American Slides (02/02)
 ## LING 21
 * [x] Dangerous Ideas vs Page 13 Course Reader (02/17)
-* [ ] 3.3 Swirlies (02/16)
-* [ ] Textbook Pages 67 - 71 (02/16)
-* [ ] Textbook Pages 73 - 77 (02/16)
+* [x] 3.3 Swirlies (02/16)
+* [x] Textbook Pages 67 - 71 (02/16)
+* [x] Textbook Pages 73 - 77 (02/16)
 * [x] Textbook Pages 53 - 67 (02/11)
 * [x] Course Reader Page 13 (02/11)
 * [x] Problem Set #1 (02/11)
@@ -29,14 +29,15 @@
 * [x] Textbook Pages 1 - 10 (01/27)
 * [x] Email to Instructor (01/27)
 ## MUSC 13
-* [ ] Spectrogram Discussion (02/19)
+* [x] Spectrogram Discussion (02/19)
 * [x] Waveforms Discussion (02/12)
 ## CS 47
-* [ ] Number Systems - 2 - Peer Review (02/13)
-* [ ] Number Systems - 2 (02/13)
+* [x] Program Assignment 1 (02/20)
+* [x] Number Systems - 2 - Peer Review (02/13)
+* [x] Number Systems - 2 (02/13)
 * [x] Number Systems - Peer Review (02/11)
 * [x] Number Systems (02/11)
 * [x] Prerequisite Transcript Upload (01/26)
 ## CS 152
-* [ ] Homework 1 (02/18)
+* [x] Homework 1 (02/18)
 * [x] Project Proposal (02/13)
