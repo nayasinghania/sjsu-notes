@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,7 +131,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1a710888ff670f5",
+  "active": "d491e542b33e799a",
   "lastOpenFiles": [
     "To Do.md",
     "Spring 2025/LING 21/3 - Basic Logical Concepts.md",
