@@ -1,6 +1,6 @@
 ## AAS 1
 
-
+* [ ] Yellow Peril and COVID-19 (02/24)
 * [x] Annotate Lee Chapter 1 (02/17)
 * [x] Orientalism Slides (02/17)
 * [x] Questions about Omi and Winant (02/10)
@@ -11,6 +11,7 @@
 * [x] Annotate Komatsu, "Four Prisons" (02/03)
 * [x]  Asian American Slides (02/02)
 ## LING 21
+* [ ] Problem Set #1 (02/23)
 * [x] Dangerous Ideas vs Page 13 Course Reader (02/17)
 * [x] 3.3 Swirlies (02/16)
 * [x] Textbook Pages 67 - 71 (02/16)

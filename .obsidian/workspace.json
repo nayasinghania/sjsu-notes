@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a8f4a73a910c54",
+        "id": "27f37bf9fc08b48b",
         "type": "tabs",
         "children": [
           {
-            "id": "b147e770abc0e16c",
+            "id": "70181e8154cf4a18",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,8 +131,11 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5f43b64198398364",
+  "active": "70181e8154cf4a18",
   "lastOpenFiles": [
+    "To Do.md",
+    "Spring 2025/LING 21/3 - Basic Logical Concepts.md",
+    "Spring 2025/CS 152/4 - Verilog.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
     "Spring 2025/AAS 1/Attachments",
@@ -141,7 +144,6 @@
     "Spring 2025/CS 152/Attachments/Interpreting.png",
     "Spring 2025/CS 152/Attachments/Compiling.png",
     "Spring 2025/CS 152/Attachments/Abstraction.png",
-    "Spring 2025/CS 152/4 - Verilog.md",
     "Spring 2025/CS 152/1 - Introduction.md",
     "Spring 2025/CS 152/Attachments/History.png",
     "Spring 2025/CS 152/5 - Programming Paradigms.md",
@@ -151,7 +153,6 @@
     "Spring 2025/MUSC 13/3 - Cables.md",
     "Spring 2025/MUSC 13/1 - Physics of Sound.md",
     "Spring 2025/MUSC 13/2 - Psychoacoustics.md",
-    "Spring 2025/LING 21/3 - Basic Logical Concepts.md",
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
     "Spring 2025/LING 21/Course Reader/2 - Trigger Warnings.md",
     "Spring 2025/AAS 1/1 - Asian Americans.md",
