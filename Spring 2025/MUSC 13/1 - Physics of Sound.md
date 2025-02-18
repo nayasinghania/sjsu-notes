@@ -35,6 +35,13 @@ tags:
 | 120+            | Auditory pain                 | 0 minutes      |
 ### Frequency
 - The human hearing range at best is $20Hz - 20 kHz$
+### Amplitude Envelope
+- How the amplitude changes over time
+#### ADSR 
+##### Attack
+##### Decay
+##### Sustain
+##### Release
 ### Movement
 #### Transmission
 - The sound traveling through a medium
