@@ -24,6 +24,7 @@ tags:
 #### Assembly Language
 - A symbolic representation of binary encoding
 - Compiles into executable hex codes
+- See [MIPS Assembly](5%20-%20MIPS%20Assembly.md)
 ##### Labels
 - Used to mark memory
 - Typically used for jumping and memory references

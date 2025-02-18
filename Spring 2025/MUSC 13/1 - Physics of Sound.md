@@ -37,14 +37,10 @@ tags:
 - The human hearing range at best is $20Hz - 20 kHz$
 ### Amplitude Envelope
 - How the amplitude changes over time
-#### ADSR 
-##### Attack
-##### Decay
-##### Sustain
-##### Release
+- See [ADSR](4%20-%20ADSR.md)
 ### Movement
 #### Transmission
 - The sound traveling through a medium
 - Needs to be adjusted appropriately depending on the medium to preserve sound quality
 - Different mediums change sound waves
-
+- The type of [audio cable](3%20-%20Cables.md) used affects signal transmission of sound
