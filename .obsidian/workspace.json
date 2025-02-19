@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7762755bd29d74c",
+        "id": "1c1a4832751463b6",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a710888ff670f5",
+            "id": "2b58bed46ca55cdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -136,9 +131,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d491e542b33e799a",
+  "active": "2b58bed46ca55cdf",
   "lastOpenFiles": [
     "To Do.md",
+    "Spring 2025/LING 21/Basic Logical Concepts.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
     "Spring 2025/MUSC 13/Physics of Sound.md",
@@ -146,7 +142,6 @@
     "Spring 2025/MUSC 13/ADSR.md",
     "Spring 2025/LING 21/Recognizing Arguments.md",
     "Spring 2025/LING 21/Introduction to Critical Thinking.md",
-    "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 47/Processors.md",
     "Spring 2025/CS 47/Number Systems.md",
