@@ -11,7 +11,10 @@
 * [x] Annotate Komatsu, "Four Prisons" (02/03)
 * [x]  Asian American Slides (02/02)
 ## LING 21
-* [ ] Problem Set #1 (02/23)
+* [ ] Textbook Pages 77 - 81 (02/18)
+* [ ] Textbook Pages 84 - 85 (02/18)
+* [ ] 3.5 Swirlies (02/18)
+* [ ] Problem Set #2 (02/23)
 * [x] Dangerous Ideas vs Page 13 Course Reader (02/17)
 * [x] 3.3 Swirlies (02/16)
 * [x] Textbook Pages 67 - 71 (02/16)
@@ -33,6 +36,8 @@
 * [x] Spectrogram Discussion (02/19)
 * [x] Waveforms Discussion (02/12)
 ## CS 47
+* [ ] Lab 2 (02/25)
+* [ ] Homework 3 (02/27)
 * [x] Program Assignment 1 (02/20)
 * [x] Number Systems - 2 - Peer Review (02/13)
 * [x] Number Systems - 2 (02/13)

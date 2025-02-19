@@ -7,7 +7,7 @@ tags:
 - The goal should be well defined and measurable
 - The executor is capable of doing exactly what is told
 - The steps must be described in a language the executor understands
-	- Clear [syntax](../CS%20152/1%20-%20Introduction.md#Syntax) and [semantics](../CS%20152/1%20-%20Introduction.md#Semantics)
+	- Clear [syntax](../CS%20152/Introduction.md#Syntax) and [semantics](../CS%20152/Introduction.md#Semantics)
 - Each step can involve great detail
 	- Break down tasks into more manageable steps
 	- Define each step with basic operations
@@ -19,11 +19,12 @@ tags:
 - Ex. Python -> compiler -> object code -> linker -> binary executable program
 #### Machine Language
 - Binary representation used to communicate with computers
-- [MIPS](../CS%20152/3%20-%20Assembly.md) is a RISC-style 32 bit processor
+- [MIPS](../CS%20152/Assembly.md) is a RISC-style 32 bit processor
 	- The first 6 bits determine what operation to perform
 #### Assembly Language
 - A symbolic representation of binary encoding
 - Compiles into executable hex codes
+- See [MIPS Assembly](MIPS%20Assembly.md)
 ##### Labels
 - Used to mark memory
 - Typically used for jumping and memory references

@@ -108,7 +108,7 @@ tags:
 
 - Such statements can be true/false or rational/irrational
 - Could be part of an argument
-- See [Assumptions](1%20-%20Introduction%20to%20Critical%20Thinking.md#Assumption)
+- See [Assumptions](Introduction%20to%20Critical%20Thinking.md#Assumption)
 ### Conditional Statements
 >[!definition]
 >An if-then statement
