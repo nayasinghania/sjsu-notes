@@ -23,7 +23,7 @@ graph
 - Creates hexadecimal instructions
 - Compiles these instructions to an object file
 ### Labels
-- Used for things like [jump instructions](3%20-%20Programming%20a%20Computer.md#^72cc66) and loops
+- Used for things like [jump instructions](Programming%20a%20Computer.md#^72cc66) and loops
 #### Forward Reference
 - Referencing a symbol/label that is after the current one
 #### Relative Addressing

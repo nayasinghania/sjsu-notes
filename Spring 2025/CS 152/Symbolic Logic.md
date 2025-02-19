@@ -3,7 +3,7 @@ tags:
   - cs152
 ---
 * Deals with the representation and technique of algebra that separates the meaning of factual statements and from proofs of their consistency and their truth values
-## [Binary](../CS%2047/2%20-%20Number%20Systems.md#Base%202) Operators
+## [Binary](../CS%2047/Number%20Systems.md#Base%202) Operators
 ### Common Operators
 #### OR
 - $Y=A+B$

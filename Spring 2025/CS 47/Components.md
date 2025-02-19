@@ -16,5 +16,5 @@ See diagram
 ##### Constant ROM
 ##### Input Output
 ### Register File
-#### [Program Counter (PC)](5%20-%20MIPS%20Assembly.md#Program%20Counter%20(PC))
+#### [Program Counter (PC)](MIPS%20Assembly.md#Program%20Counter%20(PC))
 ### Instruction Decoder

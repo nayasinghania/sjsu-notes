@@ -5,7 +5,7 @@ tags:
 ## APIDA (Asian Pacific Islander Desi American)
 - Often used in academic contexts
 - The term "Asian American" is most commonly used
-- Considered a [race](2%20-%20Race.md)
+- Considered a [race](Race.md)
 
 ## Asian American Movement (1968-1974)
 - Began in the Bay Area

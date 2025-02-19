@@ -116,4 +116,4 @@ tags: [ling21]
 	- A
 		- Therefore, B
 #### Principle of Charity Test
-- See [Principle of Charity Test](2%20-%20Recognizing%20Arguments.md#Principle%20of%20Charity%20Test)
+- See [Principle of Charity Test](Recognizing%20Arguments.md#Principle%20of%20Charity%20Test)

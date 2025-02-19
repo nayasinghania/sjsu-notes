@@ -1,7 +1,12 @@
+---
+tags:
+  - aas1
+---
+
 ## The Colonial Imagination
 - A Eurocentric master narrative tends to position Europeans as the first explorers and the rest of the world as an uncivilized frontier to be discovered and conquered
 - The American circus exploited the western imagination of the East
-- Orientalism is a [racist](2%20-%20Race.md) ideology
+- Orientalism is a [racist](Race.md) ideology
 ### Okihiro's Points
 - Asia and the Pacific existed as civilizations long before European contact
 - Europeans knew this, which is why they set out looking for Asia

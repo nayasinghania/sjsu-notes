@@ -20,7 +20,7 @@ tags:
 - Verilog includes a set of *gate-level primitives* that correspond to commonly-used logic gates
 - A gate is represented by indicating functional name, output, and inputs
 ##### Examples
-- Two input [AND](2%20-%20Symbolic%20Logic.md#AND) gate with output $y$ and inputs $x_1,x_2$
+- Two input [AND](Symbolic%20Logic.md#AND) gate with output $y$ and inputs $x_1,x_2$
 	- `and(y, x1, x2)`
 - Four input OR gate
 	- `or(y, x1, x2, x3, x4)`
