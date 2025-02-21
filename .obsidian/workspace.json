@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "122800361ca8ce8c",
+        "id": "c34731a48c9453c0",
         "type": "tabs",
         "children": [
           {
-            "id": "0550b99cba0ea18c",
+            "id": "a86a2edb7b32c48b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2025/CS 152/Assembly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Assembly"
             }
           }
         ]
@@ -117,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,9 +136,12 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "2f398bf76a76a644",
+  "active": "a86a2edb7b32c48b",
   "lastOpenFiles": [
+    "Quick Notes.md",
     "Spring 2025/CS 152/Grammar.md",
+    "Spring 2025/CS 47/Components.md",
+    "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/English Grammar Example.png",
@@ -153,10 +161,8 @@
     "Spring 2025/MUSC 13/Cables.md",
     "Spring 2025/CS 47/Processors.md",
     "Spring 2025/CS 47/Number Systems.md",
-    "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 47/Assembler, Linker, Loader.md",
     "Spring 2025/CS 47/MIPS Assembly.md",
-    "Spring 2025/CS 47/Components.md",
     "Spring 2025/CS 152/Introduction.md",
     "Spring 2025/CS 152/Symbolic Logic.md",
     "Spring 2025/CS 152/Assembly.md",
