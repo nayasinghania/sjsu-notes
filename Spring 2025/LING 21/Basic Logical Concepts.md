@@ -69,7 +69,7 @@ tags: [ling21]
 	- The premises provide logically conclusive grounds for the truth of the conclusion
 	- It is logically inconsistent to assert all the premises as true and deny the conclusion
 ##### Sound Deductive Arguments
-- Both valid 
+- Both valid and true
 ##### Invalid Deductive Arguments
 - The conclusion does not follow neccesarily from the premises
 ### Inductive Arguments
@@ -86,8 +86,16 @@ tags: [ling21]
 - Asserts or denies that something is the cause of something else
 ##### Statistical Argument
 - Rests on statistical evidence
-##### Argument from Analogy
+##### Argument from Analogy 
 - Conclusion if claimed to depend on an analogy
+#### Inductive Strength
+##### Weak Inductive Argument
+- The conclusion does *not* follow probably from the premises
+##### Strong
+###### Cogent
+- If an argument both is inductively strong and all true premises
+###### Uncogent
+- If an inductive argument either is weak or has at least one false premise
 #### Examples
 - Every ruby so far discovered has been red
 - So, probably all rubies are red
@@ -117,3 +125,19 @@ tags: [ling21]
 		- Therefore, B
 #### Principle of Charity Test
 - See [Principle of Charity Test](Recognizing%20Arguments.md#Principle%20of%20Charity%20Test)
+## 3.5 Swirlies
+### I
+- Valid - modus ponens
+- Invalid - denying the antecedent
+- Valid - modus tollens
+- Valid - modus tollens
+### II
+- Sound - modus ponens & true
+- Unsound - affirming the consequent & false
+- Unsound - denying the antecedent & true
+- Unsound - modus ponens & false
+### III
+- Cogent - predictive argument & true
+- Uncogent - argument from analogy & false
+- Cogent - predictive argument & true
+- Uncogent - inductive generalization & false
