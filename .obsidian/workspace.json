@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "40faa6e4f60d822e",
+    "id": "dbc801dee9b3351c",
     "type": "split",
     "children": [
       {
-        "id": "c34731a48c9453c0",
+        "id": "e983c856385c7eff",
         "type": "tabs",
         "children": [
           {
-            "id": "a86a2edb7b32c48b",
+            "id": "67958bb156053e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2025/CS 152/Assembly.md",
+                "file": "Spring 2025/MUSC 13/Microphones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Assembly"
+              "title": "Microphones"
             }
           }
         ]
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eaaa72e05d61534e",
+    "id": "f1adca9126a36552",
     "type": "split",
     "children": [
       {
-        "id": "ea72a8f4f7feb84c",
+        "id": "9708cb7e20a8ae11",
         "type": "tabs",
         "children": [
           {
-            "id": "2f398bf76a76a644",
+            "id": "6519343bb8483fac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "e3df1151910e7110",
+            "id": "80db475f8ba91ffc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "40f4cc16242c30c1",
+    "id": "ad7ac0c468acf7bc",
     "type": "split",
     "children": [
       {
-        "id": "a20ccae75eaeb30e",
+        "id": "63703569993a9011",
         "type": "tabs",
         "children": [
           {
-            "id": "df2e07eb35894878",
+            "id": "5928487dd94e85f4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -98,7 +98,7 @@
             }
           },
           {
-            "id": "9bc7d3fcf3d990a4",
+            "id": "426b6ea43134c35c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "5f43b64198398364",
+            "id": "d491e542b33e799a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -131,58 +131,49 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": true,
-      "obsidian-excalidraw-plugin:New drawing": true
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f43b64198398364",
+  "active": "d491e542b33e799a",
   "lastOpenFiles": [
-    "Spring 2025/CS 152/Assembly.md",
-    "conflict-files-obsidian-git.md",
-    "Spring 2025/MUSC 13/Microphones.md",
     "Quick Notes.md",
-    "Spring 2025/CS 152/Grammar.md",
-    "Spring 2025/CS 47/Components.md",
-    "Spring 2025/CS 47/Programming a Computer.md",
-    "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
-    "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
-    "Spring 2025/CS 152/Attachments/English Grammar Example.png",
-    "Spring 2025/CS 152/Programming Languages.md",
-    "Spring 2025/CS 152/Programming Paradigms.md",
-    "Spring 2025/AAS 1/Race.md",
-    "Spring 2025/AAS 1/Orientalism.md",
-    "Spring 2025/AAS 1/Asian Americans.md",
-    "To Do.md",
-    "README.md",
-    "Spring 2025/LING 21/Introduction to Critical Thinking.md",
-    "Spring 2025/LING 21/Recognizing Arguments.md",
     "Spring 2025/LING 21/Basic Logical Concepts.md",
-    "Spring 2025/MUSC 13/Physics of Sound.md",
-    "Spring 2025/MUSC 13/ADSR.md",
+    "Spring 2025/MUSC 13/Microphones.md",
+    "To Do.md",
+    "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
+    "Spring 2025/MUSC 13/Physics of Sound.md",
     "Spring 2025/MUSC 13/Cables.md",
+    "Spring 2025/MUSC 13/ADSR.md",
+    "Spring 2025/LING 21/Recognizing Arguments.md",
+    "Spring 2025/LING 21/Introduction to Critical Thinking.md",
+    "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 47/Processors.md",
     "Spring 2025/CS 47/Number Systems.md",
-    "Spring 2025/CS 47/Assembler, Linker, Loader.md",
     "Spring 2025/CS 47/MIPS Assembly.md",
+    "Spring 2025/CS 47/Components.md",
+    "Spring 2025/CS 47/Assembler, Linker, Loader.md",
+    "Spring 2025/CS 152/Verilog.md",
+    "Spring 2025/CS 152/Symbolic Logic.md",
+    "Spring 2025/CS 152/Programming Paradigms.md",
+    "Spring 2025/CS 152/Programming Languages.md",
     "Spring 2025/CS 152/Introduction.md",
+    "Spring 2025/CS 152/Grammar.md",
+    "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
+    "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
+    "Spring 2025/CS 152/Assembly.md",
+    "Spring 2025/AAS 1/Race.md",
+    "Spring 2025/AAS 1/Orientalism.md",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
     "Spring 2025/AAS 1/Attachments",
+    "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",
     "Spring 2025/CS 152/Attachments/Interpreting.png",
+    "Spring 2025/CS 152/Attachments/History.png",
     "Spring 2025/CS 152/Attachments/Compiling.png",
     "Spring 2025/CS 152/Attachments/Abstraction.png",
-    "Spring 2025/CS 152/Attachments/History.png",
-    "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",
     "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
-    "Spring 2025/LING 21/Course Reader",
-    "Fall 2024/GEOL 7/Attachments",
-    "Fall 2024/MATH 161A/Attachments",
-    "Fall 2024/CS 151/Attachments",
-    "Spring 2025/CS 152/Attachments",
-    "Spring 2025/CS 152/Project",
-    "Spring 2025/MUSC 13/Attachments",
-    "Excalidraw",
-    "1 - Introduction to Critical Thinking.pdf"
+    "Spring 2025/LING 21/Course Reader"
   ]
 }
