@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f05fee487dac2401",
+        "id": "b3fafe536e152c44",
         "type": "tabs",
         "children": [
           {
-            "id": "73405089913d7b33",
+            "id": "0f46a5b1dbc6b69f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,12 +131,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6519343bb8483fac",
+  "active": "0f46a5b1dbc6b69f",
   "lastOpenFiles": [
+    "Spring 2025/AAS 1/Yellow Peril.md",
+    "To Do.md",
     "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/MUSC 13/Microphones.md",
     "Quick Notes.md",
-    "To Do.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
     "Spring 2025/MUSC 13/Physics of Sound.md",
@@ -160,7 +161,6 @@
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/CS 152/Assembly.md",
     "Spring 2025/AAS 1/Race.md",
-    "Spring 2025/AAS 1/Orientalism.md",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
     "Spring 2025/AAS 1/Attachments",
     "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",

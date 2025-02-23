@@ -1,6 +1,7 @@
 ## AAS 1
 
-* [ ] Yellow Peril and COVID-19 (02/24)
+* [x] Yellow Peril and COVID-19 (02/24)
+* [x] Yellow Peril Slides (02/24)
 * [x] Annotate Lee Chapter 1 (02/17)
 * [x] Orientalism Slides (02/17)
 * [x] Questions about Omi and Winant (02/10)
