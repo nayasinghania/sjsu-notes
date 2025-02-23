@@ -35,11 +35,13 @@
 * [x] Textbook Pages 1 - 10 (01/27)
 * [x] Email to Instructor (01/27)
 ## MUSC 13
+* [x] Recording Hardware Discussion
 * [x] Spectrogram Discussion (02/19)
 * [x] Waveforms Discussion (02/12)
 ## CS 47
-* [ ] Lab 2 (02/25)
-* [ ] Homework 3 (02/27)
+* [x] Lab 2 (02/25)
+* [x] Homework 3 (02/27)
+* [x] Program Assignment 1 - Peer Review (02/20)
 * [x] Program Assignment 1 (02/20)
 * [x] Number Systems - 2 - Peer Review (02/13)
 * [x] Number Systems - 2 (02/13)
