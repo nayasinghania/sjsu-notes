@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b3fafe536e152c44",
+        "id": "8b28aaa2ecb6526a",
         "type": "tabs",
         "children": [
           {
-            "id": "0f46a5b1dbc6b69f",
+            "id": "f008312b89bffea2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "To Do"
             }
           }
         ]
@@ -131,11 +136,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f46a5b1dbc6b69f",
+  "active": "f008312b89bffea2",
   "lastOpenFiles": [
-    "Spring 2025/AAS 1/Yellow Peril.md",
+    "Spring 2025/LING 21/Course Reader/3 - Presupposition.md",
+    "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
     "To Do.md",
     "Spring 2025/LING 21/Basic Logical Concepts.md",
+    "Spring 2025/AAS 1/Yellow Peril.md",
     "Spring 2025/MUSC 13/Microphones.md",
     "Quick Notes.md",
     "conflict-files-obsidian-git.md",
@@ -159,8 +166,6 @@
     "Spring 2025/CS 152/Grammar.md",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
-    "Spring 2025/CS 152/Assembly.md",
-    "Spring 2025/AAS 1/Race.md",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
     "Spring 2025/AAS 1/Attachments",
     "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",

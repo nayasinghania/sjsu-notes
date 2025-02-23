@@ -12,10 +12,11 @@
 * [x] Annotate Komatsu, "Four Prisons" (02/03)
 * [x]  Asian American Slides (02/02)
 ## LING 21
+* [x] Problem Set #2 (02/23)
+* [x] Course reader Pages 17 - 22 (02/23)
 * [x] Textbook Pages 77 - 81 (02/18)
 * [x] Textbook Pages 84 - 85 (02/18)
-* [x] 3.5 Swirlies I, II, III (02/18)
-* [x] Problem Set #2 (02/23)
+* [x] 3.5 Swirlies I, II, III (02/18
 * [x] Dangerous Ideas vs Page 13 Course Reader (02/17)
 * [x] 3.3 Swirlies (02/16)
 * [x] Textbook Pages 67 - 71 (02/16)
