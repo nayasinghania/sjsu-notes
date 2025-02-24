@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac59ab6c2c208de6",
+        "id": "e67cd2c7c540d144",
         "type": "tabs",
         "children": [
           {
-            "id": "81a4d361cfb6d73a",
+            "id": "43c43eaaf2935d7e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,8 +131,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81a4d361cfb6d73a",
+  "active": "6519343bb8483fac",
   "lastOpenFiles": [
+    "Spring 2025/MUSC 13/Signal Flow.md",
+    "Spring 2025/MUSC 13/Signal Flow.md",
     "To Do.md",
     "Spring 2025/CS 47/Assignments/Homework 3.md",
     "Spring 2025/CS 47/Programming a Computer.md",
@@ -143,7 +145,6 @@
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
     "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/AAS 1/Yellow Peril.md",
-    "Spring 2025/MUSC 13/Microphones.md",
     "Quick Notes.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
@@ -159,7 +160,6 @@
     "Spring 2025/CS 152/Symbolic Logic.md",
     "Spring 2025/CS 152/Programming Paradigms.md",
     "Spring 2025/CS 152/Programming Languages.md",
-    "Spring 2025/CS 152/Introduction.md",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
