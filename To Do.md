@@ -1,6 +1,7 @@
 ## AAS 1
 
-* [ ] Yellow Peril and COVID-19 (02/24)
+* [x] Yellow Peril and COVID-19 (02/24)
+* [x] Yellow Peril Slides (02/24)
 * [x] Annotate Lee Chapter 1 (02/17)
 * [x] Orientalism Slides (02/17)
 * [x] Questions about Omi and Winant (02/10)
@@ -11,10 +12,11 @@
 * [x] Annotate Komatsu, "Four Prisons" (02/03)
 * [x]  Asian American Slides (02/02)
 ## LING 21
+* [x] Problem Set #2 (02/23)
+* [x] Course reader Pages 17 - 22 (02/23)
 * [x] Textbook Pages 77 - 81 (02/18)
 * [x] Textbook Pages 84 - 85 (02/18)
-* [x] 3.5 Swirlies I, II, III (02/18)
-* [x] Problem Set #2 (02/23)
+* [x] 3.5 Swirlies I, II, III (02/18
 * [x] Dangerous Ideas vs Page 13 Course Reader (02/17)
 * [x] 3.3 Swirlies (02/16)
 * [x] Textbook Pages 67 - 71 (02/16)
@@ -33,11 +35,13 @@
 * [x] Textbook Pages 1 - 10 (01/27)
 * [x] Email to Instructor (01/27)
 ## MUSC 13
+* [x] Recording Hardware Discussion
 * [x] Spectrogram Discussion (02/19)
 * [x] Waveforms Discussion (02/12)
 ## CS 47
-* [ ] Lab 2 (02/25)
-* [ ] Homework 3 (02/27)
+* [x] Lab 2 (02/25)
+* [x] Homework 3 (02/27)
+* [x] Program Assignment 1 - Peer Review (02/20)
 * [x] Program Assignment 1 (02/20)
 * [x] Number Systems - 2 - Peer Review (02/13)
 * [x] Number Systems - 2 (02/13)

@@ -141,3 +141,11 @@ tags: [ling21]
 - Uncogent - argument from analogy & false
 - Cogent - predictive argument & true
 - Uncogent - inductive generalization & false
+### IV
+- Deductive - valid, chain argument
+- Weak - uncogent, weak argument, may be dangerous to grandfather to run for sport
+- Strong - cogent, argument from authority
+- Strong - cogent, argument from analogy
+- Strong - cogent, statistical argument
+- Weak - uncogent, unlikely for someone over 100 to be president
+- Strong - cogent, argument from authority
