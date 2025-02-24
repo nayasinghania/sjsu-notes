@@ -9,4 +9,4 @@ tags:
 - Invading and corrupting the U.S.
 - These images were pervasive even though Chinese were a tiny part of the US population. In 1880, only .002%.
 ## Chinese Exclusion Act of 1882
-- The US’s first race-based immigration ban
+- The US’s first [race](Race.md)-based immigration ban

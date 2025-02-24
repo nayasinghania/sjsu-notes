@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af79fcf183be65b8",
+        "id": "6ca417319bd97f45",
         "type": "tabs",
         "children": [
           {
-            "id": "03e119de312051a4",
+            "id": "e939d5dcf44fb0f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -131,19 +131,23 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5f43b64198398364",
+  "active": "e939d5dcf44fb0f7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Spring 2025/LING 21/Course Reader/3 - Presupposition.md",
+    "Spring 2025/LING 21/Recognizing Arguments.md",
     "Spring 2025/CS 47/Assignments/Homework 3.md",
-    "Spring 2025/CS 47/Assignments",
-    "Spring 2025/AAS 1/Yellow Peril.md",
-    "Spring 2025/CS 152/Assembly.md",
+    "Spring 2025/CS 47/Assembler, Linker, Loader.md",
+    "Spring 2025/CS 47/Programming a Computer.md",
+    "Spring 2025/MUSC 13/Physics of Sound.md",
     "Spring 2025/MUSC 13/Microphones.md",
+    "Spring 2025/LING 21/Basic Logical Concepts.md",
+    "Spring 2025/AAS 1/Yellow Peril.md",
+    "conflict-files-obsidian-git.md",
+    "Spring 2025/CS 47/Assignments",
+    "Spring 2025/CS 152/Assembly.md",
     "Quick Notes.md",
     "Spring 2025/CS 152/Grammar.md",
     "Spring 2025/CS 47/Components.md",
-    "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/English Grammar Example.png",
@@ -155,14 +159,10 @@
     "To Do.md",
     "README.md",
     "Spring 2025/LING 21/Introduction to Critical Thinking.md",
-    "Spring 2025/LING 21/Recognizing Arguments.md",
-    "Spring 2025/LING 21/Basic Logical Concepts.md",
-    "Spring 2025/MUSC 13/Physics of Sound.md",
     "Spring 2025/MUSC 13/ADSR.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
     "Spring 2025/MUSC 13/Cables.md",
     "Spring 2025/CS 47/Processors.md",
-    "Spring 2025/CS 47/Number Systems.md",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
     "Spring 2025/AAS 1/Attachments",
     "Spring 2025/CS 152/Attachments/Interpreting.png",
