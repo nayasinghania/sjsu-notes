@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e67cd2c7c540d144",
+        "id": "3ea12276eefa20b5",
         "type": "tabs",
         "children": [
           {
-            "id": "43c43eaaf2935d7e",
+            "id": "d817cb1a05612890",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2025/MUSC 13/Signal Flow.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Signal Flow"
+              "title": "New tab"
             }
           }
         ]
@@ -136,10 +131,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "43c43eaaf2935d7e",
+  "active": "d491e542b33e799a",
   "lastOpenFiles": [
-    "Spring 2025/MUSC 13/Microphones.md",
+    "Spring 2025/MUSC 13/Physics of Sound.md",
+    "Microphones.md",
     "Spring 2025/MUSC 13/Signal Flow.md",
+    "Spring 2025/MUSC 13/Microphones.md",
     "conflict-files-obsidian-git.md",
     "To Do.md",
     "Spring 2025/CS 47/Assignments/Homework 3.md",
@@ -153,7 +150,6 @@
     "Spring 2025/AAS 1/Yellow Peril.md",
     "Quick Notes.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
-    "Spring 2025/MUSC 13/Physics of Sound.md",
     "Spring 2025/MUSC 13/Cables.md",
     "Spring 2025/MUSC 13/ADSR.md",
     "Spring 2025/LING 21/Recognizing Arguments.md",

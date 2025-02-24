@@ -44,4 +44,4 @@ tags:
 - Needs to be adjusted appropriately depending on the medium to preserve sound quality
 - Different mediums change sound waves
 - The type of [audio cable](Cables.md) used affects signal transmission of sound
--[Transducers](Microphones.md#Transducers)  convert sound waves between energy forms
+- [Transducers](Signal%20Flow.md#Transducers) convert sound waves between energy forms
