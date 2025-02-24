@@ -2,6 +2,8 @@
 tags:
   - cs47
 ---
+Create the symbol table
+(Use [labels](../Assembler,%20Linker,%20Loader.md#Labels)  for the symbol table)
 
 | Symbol | Relative Address |
 | ------ | ---------------- |

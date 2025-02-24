@@ -11,10 +11,15 @@
             "id": "43c43eaaf2935d7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2025/MUSC 13/Signal Flow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Signal Flow"
             }
           }
         ]
@@ -131,10 +136,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6519343bb8483fac",
+  "active": "43c43eaaf2935d7e",
   "lastOpenFiles": [
+    "Spring 2025/MUSC 13/Microphones.md",
     "Spring 2025/MUSC 13/Signal Flow.md",
-    "Spring 2025/MUSC 13/Signal Flow.md",
+    "conflict-files-obsidian-git.md",
     "To Do.md",
     "Spring 2025/CS 47/Assignments/Homework 3.md",
     "Spring 2025/CS 47/Programming a Computer.md",
@@ -146,7 +152,6 @@
     "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/AAS 1/Yellow Peril.md",
     "Quick Notes.md",
-    "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
     "Spring 2025/MUSC 13/Physics of Sound.md",
     "Spring 2025/MUSC 13/Cables.md",
@@ -159,7 +164,6 @@
     "Spring 2025/CS 152/Verilog.md",
     "Spring 2025/CS 152/Symbolic Logic.md",
     "Spring 2025/CS 152/Programming Paradigms.md",
-    "Spring 2025/CS 152/Programming Languages.md",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
