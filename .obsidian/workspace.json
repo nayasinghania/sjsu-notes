@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea12276eefa20b5",
+        "id": "fc0be4702d920390",
         "type": "tabs",
         "children": [
           {
-            "id": "d817cb1a05612890",
+            "id": "0e0f6aa37337a24f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Quick Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Quick Notes"
             }
           }
         ]
@@ -131,14 +136,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d491e542b33e799a",
+  "active": "0e0f6aa37337a24f",
   "lastOpenFiles": [
+    "To Do.md",
     "Spring 2025/MUSC 13/Physics of Sound.md",
     "Microphones.md",
     "Spring 2025/MUSC 13/Signal Flow.md",
     "Spring 2025/MUSC 13/Microphones.md",
     "conflict-files-obsidian-git.md",
-    "To Do.md",
     "Spring 2025/CS 47/Assignments/Homework 3.md",
     "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 47/Processors.md",
