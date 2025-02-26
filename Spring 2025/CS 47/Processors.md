@@ -2,6 +2,10 @@
 tags:
   - cs47
 ---
+## Control Unit
+- Connects to the memory
+## [Program Counter (PC)](MIPS%20Assembly.md#Program%20Counter%20(PC))
+- Keeps track of [memory](Memory.md) addresses
 ## Response Time and Throughput
 ### Relative Performance
 * Define performance as 1/execution time
