@@ -85,7 +85,6 @@ The language $M^*$ starts with two productions
 >The *syntax* of a programming language is a precise description of all grammatically correct programs
 ### History
 - Formal methods for defining syntax have been used since the emergence of Algol in the early 1960s
-
 ### Types
 #### Lexical Syntax
 >[!definition]
@@ -123,3 +122,23 @@ The language $M^*$ starts with two productions
 >Has a set of productions $P$, set of terminal symbols $T$, and set of nonterminal symbols $N$, one of which $S$, is distinguished as the *start symbol*
 #### Backus-Naur Form (BNF)
 - Has been widely used to define the syntax of programming languages
+### Ambiguity
+- Either the grammar must be revised to remove the ambiguity or a **disambiguating rule** must be stated to establish which structure is meant
+- The usual way to revise a grammar is to write a new grammar rule (called a "term") that establishes a "precedence cascade" to force the matching of the $\text{"*"}$ at a lower point in the parse tree
+#### Example
+- 3 + 4 * 5
+- We would choose the tree that keeps 4 * 5 together
+### Rules
+#### Expressions
+- Expr -> expr + term | expr - term | term
+- Term => 0 | ... | 9 | (Expr)
+##### Example
+![](Attachments/Expression%20Example%20Parse%20Tree.png)
+#### If Statements
+- Rule: if-statement -> if  (*expression*) *statement* else *statement*
+- ![](Attachments/If%20Parse%20Tree.png)
+### Parsing Techniques and Tools
+#### Recognizer
+- A program that accepts or rejects strings, based on whether they are legal strings in the language
+#### Parser Generator
+- Both top-down and bottom-up parsing can be automated by a program

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8aeff7ac402860",
+        "id": "3b252988cdff1245",
         "type": "tabs",
         "children": [
           {
-            "id": "59c400cd71aaec74",
+            "id": "138b6e90971943b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2025/CS 152/Grammar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Grammar"
+              "title": "New tab"
             }
           }
         ]
@@ -136,8 +131,16 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "59c400cd71aaec74",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-25 15.58.11.md",
+    "Excalidraw/Drawing 2025-02-25 15.58.11.svg",
+    "Spring 2025/CS 152/Grammar.md",
+    "Excalidraw",
+    "Spring 2025/CS 152/Attachments/Expression Example Parse Tree.png",
+    "Spring 2025/CS 152/Attachments/If Parse Tree.png",
+    "Spring 2025/CS 152/Drawing 2025-02-25 15.19.06.md",
+    "Spring 2025/CS 152/Drawing 2025-02-25 15.19.06.svg",
     "Spring 2025/CS 47/Memory.md",
     "Spring 2025/CS 47/ALU.md",
     "Spring 2025/CS 47/MIPS Assembly.md",
@@ -157,7 +160,6 @@
     "Spring 2025/CS 47/Assignments",
     "Spring 2025/CS 152/Assembly.md",
     "Quick Notes.md",
-    "Spring 2025/CS 152/Grammar.md",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/English Grammar Example.png",
@@ -165,24 +167,16 @@
     "Spring 2025/CS 152/Programming Paradigms.md",
     "Spring 2025/AAS 1/Race.md",
     "Spring 2025/AAS 1/Orientalism.md",
-    "Spring 2025/AAS 1/Asian Americans.md",
-    "To Do.md",
-    "README.md",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
     "Spring 2025/AAS 1/Attachments",
     "Spring 2025/CS 152/Attachments/Interpreting.png",
     "Spring 2025/CS 152/Attachments/Compiling.png",
-    "Spring 2025/CS 152/Attachments/Abstraction.png",
-    "Spring 2025/CS 152/Attachments/History.png",
-    "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",
-    "Spring 2025/CS 152/Attachments/Logic Gate Example.png",
     "Spring 2025/LING 21/Course Reader",
     "Fall 2024/GEOL 7/Attachments",
     "Fall 2024/MATH 161A/Attachments",
     "Fall 2024/CS 151/Attachments",
     "Spring 2025/CS 152/Attachments",
     "Spring 2025/CS 152/Project",
-    "Spring 2025/MUSC 13/Attachments",
-    "Excalidraw"
+    "Spring 2025/MUSC 13/Attachments"
   ]
 }
