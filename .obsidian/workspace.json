@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "165a18afe952f731",
+        "id": "b58650b2730cf9f7",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f760fc2fd49857",
+            "id": "8df6195f17c08309",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,6 +133,11 @@
   },
   "active": "d491e542b33e799a",
   "lastOpenFiles": [
+    "Spring 2025/LING 21/Language.md",
+    "Spring 2025/LING 21/Basic Logical Concepts.md",
+    "Spring 2025/LING 21/Recognizing Arguments.md",
+    "Spring 2025/MUSC 13/Microphones.md",
+    "Spring 2025/MUSC 13/Signal Flow.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/CS 47/Memory.md",
     "Spring 2025/CS 47/ALU.md",
@@ -142,8 +147,6 @@
     "To Do.md",
     "Spring 2025/MUSC 13/Physics of Sound.md",
     "Microphones.md",
-    "Spring 2025/MUSC 13/Signal Flow.md",
-    "Spring 2025/MUSC 13/Microphones.md",
     "Spring 2025/CS 47/Assignments/Homework 3.md",
     "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 47/Processors.md",
@@ -151,17 +154,14 @@
     "Spring 2025/CS 47/Assignments",
     "Spring 2025/LING 21/Course Reader/3 - Presupposition.md",
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
-    "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/AAS 1/Yellow Peril.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
     "Spring 2025/MUSC 13/Cables.md",
     "Spring 2025/MUSC 13/ADSR.md",
-    "Spring 2025/LING 21/Recognizing Arguments.md",
     "Spring 2025/LING 21/Introduction to Critical Thinking.md",
     "Spring 2025/CS 47/Number Systems.md",
     "Spring 2025/CS 47/Components.md",
     "Spring 2025/CS 47/Assembler, Linker, Loader.md",
-    "Spring 2025/CS 152/Verilog.md",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
