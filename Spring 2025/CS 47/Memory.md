@@ -41,6 +41,33 @@ tags:
 	- Like dynamic data, the max program stack size is not known in advance
 	- As the program pushes values on to the stack, the OS expands the stack segment down toward the data segment
 		- e.g. call procedures
+### Stack Operations
+- Stack is word accessible
+- Stack is operated via push and pop
+	- Neither push or pop are native operations
+- You can use stack pointer instead
+#### Push Operation
+- Store data into address pointed by $sp
+#### Pop Operations
+### Load and Store Instructions
+#### Load
+- Load word
+- Loads content in specified memory address
+- `lw d, off(b)`
+	- You can specify a register with an address as base
+##### One Machine Cycle Delay
+- There is a delay, so you need a no op after the lw instead of directly using the register
+#### Store
+ - Store word
+ - Stores content from a register into main memory
+ - `sw t, off(b)`
+#### Alignment Restrictions
+- When a word (4 bytes) is loaded from or stored into the memory, the address must be a multiple of 4
+- This restriction makes the hardware simpler and faster
+### Sign Extension
+#### Sign Extended
+- This is what load word does
+#### Zero Extended
 ## Endian
 ### Little Endian
 - Little end first
