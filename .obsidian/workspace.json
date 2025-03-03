@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b58650b2730cf9f7",
+        "id": "218566e3b361dd2c",
         "type": "tabs",
         "children": [
           {
-            "id": "8df6195f17c08309",
+            "id": "7b713458bc69d61b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,13 +131,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d491e542b33e799a",
+  "active": "6519343bb8483fac",
   "lastOpenFiles": [
+    "Spring 2025/MUSC 13/Cables.md",
+    "Spring 2025/MUSC 13/Signal Flow.md",
     "Spring 2025/LING 21/Language.md",
     "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/LING 21/Recognizing Arguments.md",
     "Spring 2025/MUSC 13/Microphones.md",
-    "Spring 2025/MUSC 13/Signal Flow.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/CS 47/Memory.md",
     "Spring 2025/CS 47/ALU.md",
@@ -156,7 +157,6 @@
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
     "Spring 2025/AAS 1/Yellow Peril.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
-    "Spring 2025/MUSC 13/Cables.md",
     "Spring 2025/MUSC 13/ADSR.md",
     "Spring 2025/LING 21/Introduction to Critical Thinking.md",
     "Spring 2025/CS 47/Number Systems.md",

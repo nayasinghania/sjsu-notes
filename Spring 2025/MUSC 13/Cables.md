@@ -7,6 +7,9 @@ tags:
 ### XLR
 ### MIDI (1/8" Plug)
 - Tip and sleeve
+### MIDI (5 pin)
+- 0Used in non-audio settings too
+- Fountains, lighting
 ### Instrument Cables (1/4" Plug)
 ### USB
 ## Wrapping
