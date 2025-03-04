@@ -112,7 +112,7 @@ tags: [ling21]
 - It is reasonable to assume that
 #### Strict Necessity Test
 - An argument’s conclusion either follows with strict logical necessity from its premises or it does not. 
-- If the argument’s conclusion does follow with strict logical necessity from its premises, the argument should always be treated as deductive. 4
+- If the argument’s conclusion does follow with strict logical necessity from its premises, the argument should always be treated as deductive.
 - If the argument’s conclusion does not follow with strict logical necessity from its premises, the argument should normally be treated as inductive.
 ##### Exceptions (either or)
 1. The language or context makes clear that the arguer intended to offer a logically conclusive argument, but the argument, in fact, is not logically conclusive;
