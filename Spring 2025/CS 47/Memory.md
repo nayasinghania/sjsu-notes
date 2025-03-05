@@ -89,3 +89,27 @@ tags:
 		- AD
 		- BE
 		- EF
+## Loading a single byte
+### lb t, off (b)
+- $t  <- sign-extended byte
+	- stuff leading side with f if leading binary bit is 1, 0 otherwise 
+	- ex. `lb $t1 0x4($t0)`
+		- `0xc00lface` is in value +4 (so 7, 6, 5 , 4)
+		- if this is `ce`
+		- register `$t1` will be `0xffffffce` due to leading bit (left side) being 1
+- b is base register
+- off is 16-bit two's complement
+### lbu t, off (b)
+- $t <- zero-extended byte
+	- With above example, we would get `0x000000ce` due to sign extension
+	- always filled with 0
+- from memory address b + off
+- b is a base register
+- off is 16-bit two's complement
+## Loading a half word
+### lh t, off (b)
+- sign extended
+- starting at memory b  offset
+- offset is 16 bit twos complement
+### lhu t, off (b)
+- zero-extended
