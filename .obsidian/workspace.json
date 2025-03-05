@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,7 +136,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2b97a436686bf621",
+  "active": "d491e542b33e799a",
   "lastOpenFiles": [
     "Spring 2025/MUSC 13/Signal Flow.md",
     "Spring 2025/MUSC 13/Mixers.md",
