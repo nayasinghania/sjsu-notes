@@ -18,6 +18,14 @@ tags:
 1. Convert the absolute value of the negative number into its binary representation
 2. Invert all bits (one's complement)
 3. Add 1 to the one's complement
+>[!tip]
+>Instead of subtracting two binary numbers, convert second number to two's complement (flip + 1) then add
+#### Overflow
+- Occurs in binary arithmetic when the result of an operation exceeds the maximum or minimum value
+- Ex. adding 7 + 1 would not be -8 in a 4 bit signed situation
+	- It should be 8
+##### Detection
+- If MSB changes from 0 to 1
 ### Conversion between bases
 #### Binary
 ##### Binary to decimal

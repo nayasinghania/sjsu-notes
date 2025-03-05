@@ -11,15 +11,14 @@
             "id": "2b97a436686bf621",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Spring 2025/MUSC 13/Mixers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Mixers"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -138,12 +137,15 @@
   },
   "active": "d491e542b33e799a",
   "lastOpenFiles": [
-    "Spring 2025/MUSC 13/Signal Flow.md",
+    "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Mixers.md",
+    "Spring 2025/CS 47/Comparison, Branch, and Jump.md",
+    "Spring 2025/CS 47/Assembler Directives.md",
+    "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
+    "Spring 2025/MUSC 13/Signal Flow.md",
     "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/LING 21/Recognizing Arguments.md",
     "Spring 2025/LING 21/Introduction to Critical Thinking.md",
-    "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Cables.md",
     "Spring 2025/LING 21/Language.md",
     "Spring 2025/MUSC 13/Microphones.md",
@@ -164,9 +166,6 @@
     "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
     "Spring 2025/AAS 1/Yellow Peril.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
-    "Spring 2025/MUSC 13/ADSR.md",
-    "Spring 2025/CS 47/Number Systems.md",
-    "Spring 2025/CS 47/Components.md",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
