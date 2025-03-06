@@ -11,10 +11,10 @@
             "id": "73bd93dfa225be95",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -131,7 +131,7 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5f43b64198398364",
+  "active": "73bd93dfa225be95",
   "lastOpenFiles": [
     "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
     "Spring 2025/CS 152/Grammar.md",
