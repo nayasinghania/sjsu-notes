@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61dbd9b3e97eb911",
+        "id": "b3b888f3d7592fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "2b97a436686bf621",
+            "id": "18afb42ce540418f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -135,13 +131,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d491e542b33e799a",
+  "active": "18afb42ce540418f",
   "lastOpenFiles": [
+    "Spring 2025/CS 152/Assignments/Q2 kleene.md",
+    "Spring 2025/CS 152/Assignments/Q4.md",
+    "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
+    "Spring 2025/CS 152/Grammar.md",
+    "Pasted Image 20250305195727_025.png",
+    "Spring 2025/CS 152/Assignments/Q1 parse tree.md",
+    "Spring 2025/CS 152/Assignments/Q1 parse tree.svg",
+    "Spring 2025/CS 152/Assignments",
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Mixers.md",
     "Spring 2025/CS 47/Comparison, Branch, and Jump.md",
     "Spring 2025/CS 47/Assembler Directives.md",
-    "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
     "Spring 2025/MUSC 13/Signal Flow.md",
     "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/LING 21/Recognizing Arguments.md",
@@ -160,12 +163,7 @@
     "Spring 2025/CS 47/Assignments/Homework 3.md",
     "Spring 2025/CS 47/Programming a Computer.md",
     "Spring 2025/CS 47/Processors.md",
-    "Spring 2025/CS 47/MIPS Assembly.md",
     "Spring 2025/CS 47/Assignments",
-    "Spring 2025/LING 21/Course Reader/3 - Presupposition.md",
-    "Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
-    "Spring 2025/AAS 1/Yellow Peril.md",
-    "Spring 2025/MUSC 13/Psychoacoustics.md",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
@@ -173,8 +171,6 @@
     "Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",
     "Spring 2025/CS 152/Attachments/Interpreting.png",
     "Spring 2025/CS 152/Attachments/History.png",
-    "Spring 2025/CS 152/Attachments/Compiling.png",
-    "Spring 2025/CS 152/Attachments/Abstraction.png",
     "Spring 2025/LING 21/Course Reader"
   ]
 }
