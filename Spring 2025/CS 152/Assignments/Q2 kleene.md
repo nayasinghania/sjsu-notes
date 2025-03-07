@@ -33,7 +33,7 @@ A ^4jDkoG17
 AC ^ufiHeqY2
 
 ## Embedded Files
-2f4863aa5a0a899418d4b41bd121ae839404ad3e: [[../../../Pasted Image 20250305195727_025.png]]
+2f4863aa5a0a899418d4b41bd121ae839404ad3e: [[../Attachments/HW 2.png]]
 
 %%
 ## Drawing

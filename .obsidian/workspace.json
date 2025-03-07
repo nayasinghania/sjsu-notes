@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bce7401f9d884b65",
+        "id": "80f160ff5b1b31fb",
         "type": "tabs",
         "children": [
           {
-            "id": "73bd93dfa225be95",
+            "id": "95e1eeafdcc929dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -131,16 +131,20 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5f43b64198398364",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
+    "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
+    "Spring 2025/CS 152/Programming Paradigms.md",
+    "Spring 2025/CS 152/Attachments/Ad Hoc Binding.png",
+    "Spring 2025/CS 152/Attachments/Shallow Binding.png",
+    "Spring 2025/CS 152/Attachments/HW 2.png",
+    "Spring 2025/CS 152/Attachments/Deep Binding.png",
     "conflict-files-obsidian-git.md",
     "Spring 2025/MUSC 13/Mixers.md",
     "Spring 2025/CS 152/Assignments/Q4.md",
     "Spring 2025/CS 152/Assignments/Q2 kleene.md",
     "Spring 2025/CS 152/Assignments/Q1 parse tree.md",
     "Spring 2025/CS 152/Assignments",
-    "Pasted Image 20250305195727_025.png",
-    "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
     "Spring 2025/CS 152/Grammar.md",
     "Spring 2025/CS 47/Number Systems.md",
     "Spring 2025/CS 47/ALU.md",
@@ -165,14 +169,10 @@
     "Spring 2025/LING 21/Recognizing Arguments.md",
     "Spring 2025/CS 47/Assignments/Homework 3.md",
     "Spring 2025/CS 47/Assembler, Linker, Loader.md",
-    "Spring 2025/MUSC 13/Physics of Sound.md",
     "Spring 2025/CS 47/Assignments",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
     "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
-    "Spring 2025/CS 152/Attachments/English Grammar Example.png",
-    "Spring 2025/AAS 1/Attachments/Edward Said Summary.png",
     "Spring 2025/AAS 1/Attachments",
-    "Spring 2025/CS 152/Attachments/Interpreting.png",
     "Spring 2025/LING 21/Course Reader",
     "Fall 2024/GEOL 7/Attachments",
     "Fall 2024/MATH 161A/Attachments",
