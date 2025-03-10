@@ -10,6 +10,15 @@ tags:
 	- Those things to which it clearly does not apply
 	- Those things to which it may or may not apply
 - Nearly all words are vague to some degree
+- Varying level of vagueness
+	- Precise - triangle, prime number
+	- Moderately vague - vehicle
+	- Extremely vague  - rich, obscene
+>[!example]
+>- The shoes were expensive
+>- The parents and teachers spoke to each other. They were impressed
+>- Is there a lot of homework for this class
+>- Is the final exam going to be difficult
 ### Appropriateness of Vague Language
 - It allows us to speak with suitable caution
 - It frequently adds richness subtlety and complexity to poetry and other literary forms
@@ -17,16 +26,28 @@ tags:
 ## Overgenerality
 >[!definition] 
 >Words are over general if the information they provide us too broad and unspecific in a given context
+
+>[!example]
+>- Where is Denmark located? Somewhere in the Northern Hemisphere
+>- Who won the race? The fastest runner
+
+Words can be overgeneral and vague
+- Where are you going? Out. When will you be back? Later
 ## Ambiguity
 >[!definition]
 > A word expression is ambiguous if it has two or more distinct meanings and the context does not make clear which meaning is intended
 - Some expressions are ambiguous because it is not clear to what a single word or phrase in the expression refers
+>[!example]
+>- I saw many stars (stars in the sky? celebrities?)
+>- One morning he shot an elephant in pajamas (syntactical ambiguity)
+>- I saw a five dollar bill walking down the street
 ### Semantic Ambiguities
 >[!definition]
 > Ambiguities that result from uncertainty about the meaning of an individual word or phrase
 ### Syntactical Ambiguities
 >[!definition]
 > Ambiguities that result from faulty grammar or word order
+- Ambiguity due to sentence structure and/or word order
 ### Disputes
 #### Verbal Dispute
 >[!definition]
@@ -36,18 +57,18 @@ tags:
 > Occurs when opponents disagree not over the meanings of words but over the relevant facts
 ## Exercise 4.1
 - Part I
-	- (1) vague
+	- (1) vague and overgeneral
 	- (4) overgeneral
 	- (7) overgeneral
-	- (10) overgeneral
+	- (10) vague and overgeneral
 -  Part II
-	- (1) vagueness - border cases that debate what falls under disallowed actions could lead too debatable borderline cases
-	- (4) overgenerality - the weather report is general, not specific
-	- (7) ambiguity -  we do not know if bottom refers to the person on the ship, nor do we know if she is actually watching the sinking or watching the movie or something else
+	- (1) vagueness - border cases that debate what falls under disallowed actions could lead to debatable borderline cases
+	- (4) vagueness and overgenerality - the weather report is general, not specific, and amount of clouds in the sky is vague
+	- (7) ambiguity -  we do not know if bottom refers to the person on the ship or her bottom
 	- (10) ambiguity - we do not know if hot is referring to temperature or attractiveness
-	- (13) vagueness - the x-rays showing nothing could be debatable
-	- (16) ambiguity - we do not know for sure what is meant by "I  shall lose no time in reading it"
-	- (19) overgenerality -  we do not specifically know what Jana was envious of
+	- (13) ambiguity - the x-rays showing nothing could be debatable
+	- (16) ambiguity - we do not know for sure what is meant by "I shall lose no time in reading it"
+	- (19) ambiguity -  we do not specifically know who was envious
 -  Part III
 	- (1) - verbal dispute
 	- (4) - factual dispute
