@@ -68,3 +68,25 @@ tags:
 ### Precising Definition
 >[!definition]
 >Intended to make a vague word more precise so that the word's meaning is not left to the interpretation of the reader or listener
+## Emotive Language: Slanting the Truth
+### The Emotive Power of Words
+#### Denotation
+>[!definition]
+>The literal meaning of a word
+- The emotive power of words can come from the word's denotation
+#### Connotation
+>[!definition]
+>The images and feeling associated with a word
+- The emotive power of words can come from the word's denotation
+- Comes from many sources
+	- People's experiences
+	- The use of the word in cultures
+	- The way the word is used as a symbol or metaphor in various religions
+	- The word's sound
+## Euphemisms and Political Correctness
+
+### Euphemisms
+>[!definition]
+>Mild, comforting, or evasive words that take the place off harsh, blunt, or taboo words-
+- Very often in our communications with one another, we avoid language that we feel might offend, upset, or insult our listeners or speakers
+- A critical thinker should be aware that pleasant or vague language is often used to hide reality or avoid facing the truth
