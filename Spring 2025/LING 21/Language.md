@@ -89,4 +89,4 @@ tags:
 >[!definition]
 >Mild, comforting, or evasive words that take the place off harsh, blunt, or taboo words-
 - Very often in our communications with one another, we avoid language that we feel might offend, upset, or insult our listeners or speakers
-- A critical thinker should be aware that pleasant or vague language is often used to hide reality or avoid facing the truth
+- A [critical thinker](Introduction%20to%20Critical%20Thinking.md) should be aware that pleasant or vague language is often used to hide reality or avoid facing the truth

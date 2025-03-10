@@ -4,7 +4,7 @@ tags:
   - ling21
 ---
 >[!definition]
->Something that the speaker assumes to be the case prior to making an utterance
+>Something that the speaker [assumes](../Introduction%20to%20Critical%20Thinking.md#Assumption) to be the case prior to making an utterance
 
 >[!example]
 >Mary's brother bought 3 horses

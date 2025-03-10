@@ -2,7 +2,7 @@
 tags:
   - cs47
 ---
-## Selected MIPS Assembler Directives
+## Selected [MIPS](MIPS%20Assembly.md) Assembler Directives
 - Consists of an integer processing unit (CPU) and a collection of coprocessors
 ### Co Processors
 - Coprocessor 0 - handles exceptions and interrupts
