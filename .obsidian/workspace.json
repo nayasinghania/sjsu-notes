@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,7 +136,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "18afb42ce540418f",
+  "active": "d491e542b33e799a",
   "lastOpenFiles": [
     "Spring 2025/CS 47/Processors.md",
     "Spring 2025/CS 47/Programming a Computer.md",
