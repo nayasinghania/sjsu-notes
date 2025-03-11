@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c50143992b26cfb",
+        "id": "0e157ecd03e5cd52",
         "type": "tabs",
         "children": [
           {
-            "id": "8f31f459d5beea05",
+            "id": "38513da0ef59c119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2025/LING 21/Logical Fallacies - 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logical Fallacies - 1"
+              "title": "New tab"
             }
           }
         ]
@@ -126,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,19 +132,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f31f459d5beea05",
+  "active": "38513da0ef59c119",
   "lastOpenFiles": [
+    "Spring 2025/LING 21/Language.md",
+    "Spring 2025/LING 21/Logical Fallacies - 1.md",
     "Spring 2025/MUSC 13/Recording.md",
     "Spring 2025/MUSC 13/Mixers.md",
     "Spring 2025/MUSC 13/Psychoacoustics.md",
-    "Spring 2025/LING 21/Logical Fallacies - 1.md",
     "Spring 2025/CS 47/MIPS Assembly.md",
     "Spring 2025/CS 47/Assembler Directives.md",
     "Spring 2025/MUSC 13/Microphones.md",
     "Spring 2025/MUSC 13/Cables.md",
     "Spring 2025/LING 21/Course Reader/3 - Presupposition.md",
     "Spring 2025/LING 21/Introduction to Critical Thinking.md",
-    "Spring 2025/LING 21/Language.md",
     "Spring 2025/LING 21/Recognizing Arguments.md",
     "conflict-files-obsidian-git.md",
     "Spring 2025/CS 152/Attachments/Shallow Binding.png",
