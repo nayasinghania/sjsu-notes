@@ -8,7 +8,7 @@ tags:
 >[!definition]
 >Mistakes in reasoning that occur because the premises are logically irrelevant to the conclusion
 ### Relevance
-- A statement is relevant to another statement if it provides at least some reason for thinking that the second statement is true or false
+- A [statement](Recognizing%20Arguments.md#Statements) is relevant to another statement if it provides at least some reason for thinking that the second statement is true or false
 #### Positive Relevance
 >[!definition]
 >A statement that counts in favor to another statement

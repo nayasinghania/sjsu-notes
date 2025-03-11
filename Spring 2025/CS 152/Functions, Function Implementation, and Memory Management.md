@@ -113,3 +113,94 @@ tags:
 - Explicit dynamic allocation and use of pointers is also available under manual programmer control using a heap of memory separate from the stack
 - Manual memory management on the heap suffers from a number of potential problems, including the creation of garbage and dangling references
 - Languages with significant needs for heap storage are better off leaving nonstack dynamic storage to a memory manager that provides automatic garbage collection
+- Any language that does not apply significant restrictions to the use of procedures and functions must provide automatic garbage collection, since the stack-based system of procedure call and return is no longer correct
+- Functional languages which have first-class function values and object oriented programs fall into this category
+- A very simple solution for dynamic memory is to no deallocate memory once it has been allocated
+	- Every call creates a new activation record
+	- Advantages
+		- Correct
+		- Easy to implement
+		- Can work for small programs
+	- Disadvantages
+		- Not option for most programs written in functional and object-oriented languages
+		- Memory quickly exhausted if deallocation does not occur
+			- Internal representation of data uses pointers and requires a substantial amount of indirection and memory overhead
+			- Has been used in conjunction with virtual memory
+			- Causes swap space to become exhausted and can cause serious performance due to page faults
+#### Maintenance of Free Space
+- A contiguous block of memory is provided by the OS for the use of an executing program
+- Free space within this block is maintained by a list of free blocks
+- Linked lists can implement maintenance of free space
+	- Allocated blocks shaded and free blocks blank
+	- Circular list
+- When a block needs to be allocated, the memory manager searches for a free block with enough space, then removes that block from the free list
+##### Coalescing
+- When memory is reclaimed, blocks are returned to the free list
+	- Must be joined with adjacent blocks to form the largest contiguous block of free memory
+##### Fragmentation
+- A free list can become fragmented
+##### Storage Compaction
+- Memory must occasionally be compacted to put all the free blocks together and coalesce them
+- Swap space is the intermediary for this
+#### Reclamation of Storage
+##### Reference Counting
+- Considered an eager method of storage reclamation
+	- Tries to reclaim space as soon as it is no longer referenced
+- Each allocated block contains count field to count references
+	- Deallocates block when count reaches 0
+###### Disadvantages
+- Extra memory for count field
+- Effort to maintain the counts
+- Circular references can cause unreferenced memory to never be deallocated
+##### Mark and Sweep
+- Lazy approach
+	- Will put off reclaiming storage until allocator runs out of space
+		- At which point it looks for referenceable storage and moves all unreferenced storage back to the free list
+- Two passes
+	- First pass follows all pointers recursively, starting with current environment or symbol table
+	- Second pass sweeps linearly through memory, returning unmarked blocks to the free list
+###### Disadvantages
+- Requires extra storage
+- Double pass through memory causes significant delay
+- Not good for interactive applications at scale
+- Solutions
+	- Stop and Copy
+		- Split storage into two halves and allocated storage from half at a time
+		- During marking pass, all reached blocks are immediately copied to the second half of storage not in use
+		- No extra markbit required
+		- One pass required
+		- Once all reachable blocks in the used area have been copied, the used and unused halves of memory are interchanged
+		- Doesn't improve time, only storage reclamation
+##### Generational Garbage Collection
+- Adds permanent storage area to the reclamation scheme
+- Allocated objects that survive long enough are copied into permanent space and are never deallocated
+- Only a small amount of memory needs to be searched
+	- Very quick
+- Permanent memory could still become exhausted, but this is a much smaller problem
+- Process has been shown to work well
+## Scoping
+### Phases
+#### Design Phase
+- Bindings between primitive constants, types, and operations of the language are designed
+#### Program Writing
+- Binding of an identifier to a variable
+#### Compile Time
+- Allocates memory space for some of the data structures that can be statically processed
+- Global variables
+	- The connection between the identifier and the corresponding memory location
+#### Run Time
+- Entire period of time between program start and program end
+- All associations that have not been created must be formed at runtime
+	- Binding of identifiers to memory locations for the local variables in a recursive procedure
+### Declaration
+### Aliasing
+### Rules
+#### Dynamic Scoping
+- Looks sequentially back through the activation record for latest binding for what it is looking for
+- Essentially, looking at the most recent environment
+#### Static Scoping (Lexical Scoping)
+- First look at the block itself
+- If you can't find it  at the block check at the outer block (structurally) and draw from that block
+- Resolving with block body rather than sequential activation record
+- Essentially, a variable always refers to its top level environment
+- Unrelated to call stack

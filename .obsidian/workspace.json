@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "dbc801dee9b3351c",
+    "id": "40faa6e4f60d822e",
     "type": "split",
     "children": [
       {
-        "id": "0e157ecd03e5cd52",
+        "id": "d1db2938079c15c5",
         "type": "tabs",
         "children": [
           {
-            "id": "38513da0ef59c119",
+            "id": "1bc9196aed5992d5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f1adca9126a36552",
+    "id": "eaaa72e05d61534e",
     "type": "split",
     "children": [
       {
-        "id": "9708cb7e20a8ae11",
+        "id": "ea72a8f4f7feb84c",
         "type": "tabs",
         "children": [
           {
-            "id": "6519343bb8483fac",
+            "id": "2f398bf76a76a644",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "80db475f8ba91ffc",
+            "id": "e3df1151910e7110",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,23 +64,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "ad7ac0c468acf7bc",
+    "id": "40f4cc16242c30c1",
     "type": "split",
     "children": [
       {
-        "id": "63703569993a9011",
+        "id": "a20ccae75eaeb30e",
         "type": "tabs",
         "children": [
           {
-            "id": "5928487dd94e85f4",
+            "id": "df2e07eb35894878",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -93,7 +94,7 @@
             }
           },
           {
-            "id": "426b6ea43134c35c",
+            "id": "9bc7d3fcf3d990a4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -107,7 +108,7 @@
             }
           },
           {
-            "id": "d491e542b33e799a",
+            "id": "5f43b64198398364",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -121,58 +122,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": true,
+      "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "38513da0ef59c119",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
-    "Spring 2025/LING 21/Language.md",
+    "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
+    "Spring 2025/CS 47/Comparison, Branch, and Jump.md",
+    "Spring 2025/CS 47/Memory.md",
     "Spring 2025/LING 21/Logical Fallacies - 1.md",
-    "Spring 2025/MUSC 13/Recording.md",
-    "Spring 2025/MUSC 13/Mixers.md",
-    "Spring 2025/MUSC 13/Psychoacoustics.md",
-    "Spring 2025/CS 47/MIPS Assembly.md",
-    "Spring 2025/CS 47/Assembler Directives.md",
-    "Spring 2025/MUSC 13/Microphones.md",
-    "Spring 2025/MUSC 13/Cables.md",
-    "Spring 2025/LING 21/Course Reader/3 - Presupposition.md",
-    "Spring 2025/LING 21/Introduction to Critical Thinking.md",
+    "Spring 2025/LING 21/Basic Logical Concepts.md",
     "Spring 2025/LING 21/Recognizing Arguments.md",
-    "conflict-files-obsidian-git.md",
+    "Spring 2025/MUSC 13/Recording.md",
+    "Spring 2025/LING 21/Language.md",
+    "Spring 2025/CS 152/Programming Paradigms.md",
+    "Spring 2025/CS 152/Attachments/Ad Hoc Binding.png",
     "Spring 2025/CS 152/Attachments/Shallow Binding.png",
     "Spring 2025/CS 152/Attachments/HW 2.png",
     "Spring 2025/CS 152/Attachments/Deep Binding.png",
-    "Spring 2025/CS 152/Attachments/Ad Hoc Binding.png",
-    "Spring 2025/CS 47/Processors.md",
-    "Spring 2025/CS 47/Programming a Computer.md",
-    "Spring 2025/CS 47/Comparison, Branch, and Jump.md",
-    "Spring 2025/CS 47/ALU.md",
-    "Spring 2025/CS 47/Memory.md",
-    "Spring 2025/CS 47/Number Systems.md",
-    "Spring 2025/CS 152/Assignments/Q2 kleene.md",
+    "conflict-files-obsidian-git.md",
+    "Spring 2025/MUSC 13/Mixers.md",
     "Spring 2025/CS 152/Assignments/Q4.md",
-    "Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
-    "Spring 2025/CS 152/Grammar.md",
-    "Pasted Image 20250305195727_025.png",
+    "Spring 2025/CS 152/Assignments/Q2 kleene.md",
     "Spring 2025/CS 152/Assignments/Q1 parse tree.md",
-    "Spring 2025/CS 152/Assignments/Q1 parse tree.svg",
     "Spring 2025/CS 152/Assignments",
-    "Spring 2025/MUSC 13/Signal Flow.md",
-    "Spring 2025/LING 21/Basic Logical Concepts.md",
-    "Spring 2025/CS 152/Attachments/If Parse Tree.png",
+    "Spring 2025/CS 152/Grammar.md",
+    "Spring 2025/CS 47/Number Systems.md",
+    "Spring 2025/CS 47/ALU.md",
+    "Spring 2025/CS 47/Assembler Directives.md",
+    "Spring 2025/CS 47/Processors.md",
+    "Spring 2025/CS 47/MIPS Assembly.md",
+    "Spring 2025/MUSC 13/Microphones.md",
+    "Excalidraw/Drawing 2025-02-25 15.58.11.md",
+    "Excalidraw/Drawing 2025-02-25 15.58.11.svg",
+    "Excalidraw",
     "Spring 2025/CS 152/Attachments/Expression Example Parse Tree.png",
+    "Spring 2025/CS 152/Attachments/If Parse Tree.png",
+    "Spring 2025/CS 152/Drawing 2025-02-25 15.19.06.md",
+    "Spring 2025/CS 152/Drawing 2025-02-25 15.19.06.svg",
+    "Spring 2025/CS 47/Components.md",
+    "Spring 2025/CS 47/Programming a Computer.md",
+    "Spring 2025/MUSC 13/Signal Flow.md",
     "Spring 2025/CS 47/Assignments",
-    "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
+    "Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
     "Spring 2025/AAS 1/Attachments",
-    "Spring 2025/LING 21/Course Reader"
+    "Spring 2025/LING 21/Course Reader",
+    "Fall 2024/GEOL 7/Attachments",
+    "Fall 2024/MATH 161A/Attachments",
+    "Fall 2024/CS 151/Attachments",
+    "Spring 2025/CS 152/Attachments",
+    "Spring 2025/CS 152/Project"
   ]
 }

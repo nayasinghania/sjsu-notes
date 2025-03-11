@@ -4,6 +4,9 @@ tags:
 ---
  - `pc` - program counter
 	 - starts at 0x0040 0000
+	 - keeps track of the address of the next instruction to execute
+		 - goes up in increments of 4
+		 - When you use a [jump](Comparison,%20Branch,%20and%20Jump.md) instruction, the program counter jumps to that address
  - `$gp` - global counter
 	 - starts at 0x1000 8000
  - `$sp` - stack pointer
