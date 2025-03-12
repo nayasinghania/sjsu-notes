@@ -120,6 +120,15 @@ tags:
 >	- Kylie: Because it says so in the Bible, and what the Bible says is true.
 >	- Ned: How do you know what the Bible says is true?
 >	- Kylie: Because God wrote the Bible.
+
+### Example 5.2 Swirlies
+#### I
+(1) Bandwagon
+(4) Straw Man
+(7) Begging the Question
+(10) Two wrongs make a right
+(13) No fallacy
+
 ## Fallacies of Insufficient Evidence
 >[!definition]
 >Mistakes in reasoning that occur because the premises, though logically relevant to the conclusion, fail to provide sufficient evidence to support the conclusion

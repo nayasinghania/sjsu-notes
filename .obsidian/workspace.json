@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a17168eff4f5ca7",
+        "id": "e732f9afd3226bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "d73ec70173bcafec",
+            "id": "65569248c03ed3c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,7 +147,7 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "d73ec70173bcafec",
+  "active": "2f398bf76a76a644",
   "lastOpenFiles": [
     "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
     "Year 1/Fall 2023/CS 46B/9-18.md",
