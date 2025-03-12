@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ffbaf14f0bce490",
+        "id": "4a17168eff4f5ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "7edc4dd2941e4725",
+            "id": "d73ec70173bcafec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -80,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +90,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Logical Fallacies - 1"
             }
           },
           {
@@ -115,6 +116,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "58e5022c4700960c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 2
@@ -131,9 +147,26 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "7edc4dd2941e4725",
+  "active": "d73ec70173bcafec",
   "lastOpenFiles": [
     "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
+    "Year 1/Fall 2023/CS 46B/9-18.md",
+    "Year 1/Fall 2023/CS 46B/9-11.md",
+    "Year 1/Fall 2023/CS 46B/8-21.md",
+    "Year 1/Fall 2023/CS 46B",
+    "Year 1/Fall 2023/BIOL 54/9-18.md",
+    "Year 1/Fall 2023/BIOL 54/9-11.md",
+    "Year 1/Fall 2023/BIOL 54/9-4.md",
+    "Year 1/Fall 2023/BIOL 54/9-4",
+    "Year 1/Fall 2023/BIOL 54",
+    "Year 1/Fall 2023",
+    "Year 1",
+    "Year 1.md",
+    "README.md",
+    "Year 1/Spring 2023/Untitled",
+    "Year 1/Spring 2023",
+    "Year 1/Fall 2023",
+    "Year 1",
     "Quick Notes.md",
     "Year 2",
     "Year 2/Spring 2025/LING 21/Language.md",
@@ -152,32 +185,15 @@
     "Year 2/Fall 2024/CS 151/Custom Data Structures.md",
     "Year 2/Fall 2024/CS 151/Recap.md",
     "Year 2/Fall 2024/MUSC 19/Music of Africa.md",
-    "Year 2/Fall 2024/MUSC 19/Music of Asia.md",
-    "Year 2/Fall 2024/MUSC 19/Music of India.md",
-    "Year 2/Fall 2024/MUSC 19/Music of Latin America.md",
-    "Year 2/Fall 2024/MUSC 19/Music of Native America.md",
-    "Year 2/Fall 2024/MATH 161A/Chapter 3.md",
-    "Year 2/Fall 2024/MATH 161A/Chapter 4.md",
-    "Year 2/Fall 2024/MATH 161A/Chapter 2.md",
-    "Year 2/Fall 2024/MATH 161A/Chapter 8.md",
     "Year 2/Spring 2025/CS 152/Attachments/Ad Hoc Binding.png",
     "Year 2/Spring 2025/CS 152/Attachments/Shallow Binding.png",
     "Year 2/Spring 2025/CS 152/Attachments/HW 2.png",
     "Year 2/Spring 2025/CS 152/Attachments/Deep Binding.png",
-    "Year 2/Spring 2025/CS 152/Assignments",
     "Excalidraw/Drawing 2025-02-25 15.58.11.svg",
-    "Excalidraw",
     "Year 2/Spring 2025/CS 152/Attachments/Expression Example Parse Tree.png",
     "Year 2/Spring 2025/CS 152/Attachments/If Parse Tree.png",
     "Spring 2025/CS 152/Drawing 2025-02-25 15.19.06.svg",
-    "Year 2/Spring 2025/CS 47/Assignments",
     "Year 2/Spring 2025/CS 152/Attachments/Arbitrary Parse Tree Example.png",
-    "Year 2/Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
-    "Year 2/Spring 2025/AAS 1/Attachments",
-    "Year 2/Spring 2025/LING 21/Course Reader",
-    "Year 2/Fall 2024/GEOL 7/Attachments",
-    "Year 2/Fall 2024/MATH 161A/Attachments",
-    "Year 2/Fall 2024/CS 151/Attachments",
-    "Year 2/Spring 2025/CS 152/Attachments"
+    "Year 2/Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png"
   ]
 }
