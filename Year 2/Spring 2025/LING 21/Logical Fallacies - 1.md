@@ -15,7 +15,6 @@ tags:
 #### Negative Relevance
 >[!definition]
 >A statement that counts against another statement
-
 #### Logical Irrelevance
 >[!definition]
 >A statement that counts neither for or against another statement

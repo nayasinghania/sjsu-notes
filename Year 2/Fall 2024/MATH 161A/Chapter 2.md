@@ -3,7 +3,7 @@ tags:
   - math161a
 ---
 cx
-## 2.1 - Sample Spaces and Events
+## 2.1 - [Sample](Chapter%201.md#Sample) Spaces and Events
 
 ### Sample Space
 

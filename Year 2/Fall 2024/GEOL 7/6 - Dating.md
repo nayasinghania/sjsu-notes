@@ -50,7 +50,7 @@ Parent isotope $\Rightarrow$ daughter isotope
 
 * Mainly [[4 - Sedimentary Rocks|sedimentary rocks]] and [[2 - Igneous Rocks#^915c87|lava flow]]
 ### Superposition
-
+- See [Layers](4%20-%20Sedimentary%20Rocks.md#Layers)
 > [!info] Definition
 > The youngest rocks are at the top, oldest at the bottom
 

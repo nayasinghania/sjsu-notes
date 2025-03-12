@@ -1,8 +1,6 @@
 ---
 tags: [cs151]
 ---
-
-
 ## `public static void main(String[] args)`
 
 * public - Java's main function requires a public access modifier
@@ -32,7 +30,7 @@ tags: [cs151]
 * Protected - Declarations are visible within the package or all subclasses
 * Public - Declarations are visible everywhere
 
-### Attributes / Class Attributes / Class Members / Class Fields
+### Attributes / [Class](Pillars%20of%20OOP.md#Class) Attributes / Class Members / Class Fields
 
 > [!info] Definition
 > * Represent variables of data within a class

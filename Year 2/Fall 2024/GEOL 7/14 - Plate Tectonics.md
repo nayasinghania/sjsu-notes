@@ -66,4 +66,4 @@ tags:
 * moderate earthquakes, little, if any, volcanoes, moderate sized hills and valley (like the Santa Cruz mountains)
 * San Andreas fault is between the Pacific (to the west) and North American (to the east) Plate and is right lateral
 * Pacific plate moving north-westwards relative to North American Plate
-* The lateral direction is the direction you would see the person on the other side moving if facing the fault
+* The lateral direction is the direction you would see the person on the other side moving if facing the [fault](13%20-%20Faults%20and%20Folds.md)

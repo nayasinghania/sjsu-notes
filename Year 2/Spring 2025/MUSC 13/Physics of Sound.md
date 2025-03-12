@@ -6,8 +6,8 @@ tags:
 - Molecules in the air are compressed and a rarefaction is created
 - In its simplest form, sound can be represented as a sine wave
 	- Sound is not actually a sine wave because the sound goes in all directions, but waveforms can be a helpful way to visualize sound waves
-- ![Waveforms](Attachments/Waveforms)
-- ![Waveforms Hz](Attachments/Waveforms%20Hz)
+- ![Waveforms](Attachments/Waveforms.md)
+- ![Waveforms Hz](Attachments/Waveforms%20Hz.md)
 ## Properties
 
 | Perceptual Properties | Physical Properties |

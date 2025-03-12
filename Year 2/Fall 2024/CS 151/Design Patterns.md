@@ -15,12 +15,12 @@ Closed for modification, open for extension
 * Favor composition over inheritance
 * The **has a** relationship is interesting
 * Creating systems using composition …
-## Observer Pattern
+## [Observer](Attachments/observers.md) Pattern
 * The Subject object manages some important data
 * When data in the Subject changes, the observers are notified
 * The observers (Observer Objects) have subscribed to (registered with) the Subject to receive updates when the Subject's data changes
 * New data values are communicated to the observers in some form when they change
-![[observers|500]]
+![[Attachments/observers|500]]
 * The observer can subscribe or unsubscribe to the subject
 * A one to many dependency between objects
 	* When one object changes state
