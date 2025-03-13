@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "253587ccde02ba4f",
+        "id": "272ef9cfe270837b",
         "type": "tabs",
         "children": [
           {
-            "id": "55578a13a75eb920",
+            "id": "557307aaf5b3031d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exam 1"
             }
           }
         ]
@@ -80,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
+                "file": "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +95,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logical Fallacies - 1"
+              "title": "Backlinks for Exam 1"
             }
           },
           {
@@ -99,12 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Exam 1"
             }
           },
           {
@@ -147,8 +153,11 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "55578a13a75eb920",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
+    "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
+    "Year 2/Spring 2025/CS 152/Exams",
+    "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
     "Year 2/Spring 2025/CS 47/Stack.md",
     "Year 1/Spring 2024/POLS 15/Voting.md",
     "Year 1/Spring 2024/POLS 15/U.S. Presidency.md",
@@ -176,7 +185,6 @@
     "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_9_Day_1.pdf",
     "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_7_Day_2.pdf",
     "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_7_Day_1.pdf",
-    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_6.pdf",
     "Year 1/Spring 2024/MATH 39/IMG_9134.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9133.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9132.jpg",
@@ -189,8 +197,6 @@
     "Year 1/Spring 2024/CS 146/Module 3.md",
     "Year 1/Spring 2024/CS 146/Module 2.md",
     "Year 1/Spring 2024/CS 146/Module 1.md",
-    "Year 1/Spring 2024/CS 146/Module 0.md",
-    "Year 1/Fall 2023/MATH 42/Final Review.md",
     "Year 1/Fall 2023/MATH 42/2.1.png",
     "Year 1/Fall 2023/MATH 42/2.1 (2).png",
     "Year 1/Fall 2023/MATH 42/2.1 (1).png",

@@ -17,6 +17,7 @@ tags:
 		- Needs to "become" a 32 bit address
 			- sll twice to get 2 zeros on right side
 			- take the first 4 high order bits from the PC and fill the higher 4 bits with those bits
+### jal and jr
 ### Pipelining
 - Reason for delay in MIPS is pipelining
 - Normally, instructions are executed in sequence
