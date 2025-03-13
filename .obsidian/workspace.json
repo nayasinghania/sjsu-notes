@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5473de4448cadc",
+        "id": "5b657edcf5446aed",
         "type": "tabs",
         "children": [
           {
-            "id": "90a18c9124f96c6f",
+            "id": "bd70c86067f6e424",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -115,6 +115,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c79f9e9a96f1fc3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 2
@@ -131,53 +146,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6519343bb8483fac",
+  "active": "bd70c86067f6e424",
   "lastOpenFiles": [
-    "Year 2/Spring 2025/MUSC 13/Recording.md",
-    "Year 2/Spring 2025/MUSC 13/DAW.md",
-    "Year 2/Spring 2025/MUSC 13/Audio Interface.md",
-    "Year 2/Spring 2025/MUSC 13/Pre-Amp.md",
-    "Year 2/Spring 2025/MUSC 13/Signal Flow.md",
-    "Year 1/Fall 2023/BIOL 10/Energy Drinks.md",
-    "Year 1/Fall 2023/BIOL 10/Climate Change.md",
-    "Year 1/Fall 2023/BIOL 10/Cancer.md",
-    "Year 1/Fall 2023/BIOL 10",
-    "Year 2/Spring 2025/MUSC 13/Attachments/Waveforms.md",
-    "Year 2/Spring 2025/MUSC 13/Attachments/Waveforms Hz.md",
-    "Year 2/Spring 2025/CS 47/Assignments/Homework 3.md",
-    "Year 2/Spring 2025/LING 21/Course Reader/3 - Presupposition.md",
-    "Year 2/Spring 2025/LING 21/Course Reader/2 - Trigger Warnings.md",
-    "Year 2/Spring 2025/LING 21/Course Reader/1 - Dangerous Ideas.md",
-    "Year 2/Spring 2025/CS 152/Attachments/Von Neumann-Eckert Model.png",
-    "Year 2/Spring 2025/CS 152/Project/Proposal.md",
-    "Year 2/Spring 2025/CS 152/Project/Ideas.md",
-    "Year 2/Spring 2025/CS 152/Attachments/Shallow Binding.png",
-    "Year 2/Spring 2025/CS 152/Attachments/Logic Gate Example.png",
-    "Year 2/Spring 2025/CS 152/Attachments/Interpreting.png",
-    "Year 2/Spring 2025/CS 152/Attachments/If Parse Tree.png",
-    "Year 2/Spring 2025/CS 152/Attachments/HW 2.png",
-    "Year 2/Spring 2025/CS 152/Attachments/History.png",
-    "Year 2/Spring 2025/CS 152/Attachments/Expression Example Parse Tree.png",
-    "Year 2/Spring 2025/CS 152/Attachments/English Grammar Parse Tree.png",
-    "Year 2/Spring 2025/CS 152/Attachments/Deep Binding.png",
-    "Year 2/Spring 2025/CS 152/Assignments/Q4.md",
-    "Year 2/Spring 2025/CS 152/Assignments/Q1 parse tree.md",
-    "Year 2/Spring 2025/CS 152/Assignments/Q2 kleene.md",
-    "Year 2/Fall 2024/MATH 161A/Attachments/union.md",
-    "Year 2/Fall 2024/MATH 161A/Attachments/rv.md",
-    "Year 2/Fall 2024/MATH 161A/Attachments/intersection.md",
-    "Year 2/Fall 2024/MATH 161A/Attachments/hypergeo.md",
-    "Year 2/Fall 2024/MATH 161A/Attachments/histogram1.md",
-    "Year 2/Fall 2024/MATH 161A/Attachments/conditional prob def.md",
-    "Year 2/Fall 2024/MATH 161A/Attachments/complement.md",
-    "Year 2/Spring 2025/MUSC 13/Attachments",
-    "Year 2/Spring 2025/CS 47/Assignments",
-    "Year 2/Spring 2025/LING 21/Course Reader",
-    "Year 2/Spring 2025/CS 152/Project",
-    "Year 2/Spring 2025/CS 152/Attachments",
-    "Year 2/Spring 2025/CS 152/Assignments",
-    "Year 2/Spring 2025/AAS 1/Attachments",
-    "Year 2/Fall 2024/MATH 161A/Attachments",
-    "Year 2/Fall 2024/GEOL 7/Attachments"
+    "Year 1/Spring 2024/POLS 15/Voting.md",
+    "Year 1/Spring 2024/POLS 15/U.S. Presidency.md",
+    "Year 1/Spring 2024/POLS 15/The Federal Courts.md",
+    "Year 1/Spring 2024/POLS 15/The Declaration of Independence and the Articles of Confederation.md",
+    "Year 1/Spring 2024/POLS 15/midterm study guide.md",
+    "Year 1/Spring 2024/POLS 15/Federalism.md",
+    "Year 1/Spring 2024/POLS 15/Congress.md",
+    "Year 1/Spring 2024/POLS 15/Civil Rights.md",
+    "Year 1/Spring 2024/POLS 15/Civil Liberties.md",
+    "Year 1/Spring 2024/POLS 15/California State Courts.md",
+    "Year 1/Spring 2024/POLS 15/Bureaucracy.md",
+    "Year 1/Spring 2024/POLS 15/California Institutions.md",
+    "Year 1/Spring 2024/POLS 15",
+    "Year 1/Spring 2024/METR 10/LO4.md",
+    "Year 1/Spring 2024/METR 10/LO3.md",
+    "Year 1/Spring 2024/METR 10/LO2.md",
+    "Year 1/Spring 2024/METR 10",
+    "Year 1/Spring 2024/MATH 39/Null Space.md",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_14_Day_1.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_5.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_3.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_2.pdf",
+    "Year 1/Spring 2024/MATH 39/Vectors.pdf",
+    "Year 1/Spring 2024/MATH 39/Systems_of_Equations.pdf",
+    "Year 1/Spring 2024/MATH 39/Matrixes.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_15_Day_2.pdf",
+    "Year 1/Spring 2024/MATH 39/IMG_9134.jpg",
+    "Year 1/Spring 2024/MATH 39/IMG_9133.jpg",
+    "Year 1/Spring 2024/MATH 39/IMG_9132.jpg",
+    "Year 1/Spring 2024/MATH 39/IMG_9131.jpg",
+    "Year 1/Spring 2024/MATH 39/IMG_9130.jpg",
+    "Year 1/Spring 2024/MATH 39/IMG_9042.jpg",
+    "Year 1/Spring 2024/MATH 39/Maximizers and Minimizers.md",
+    "Year 1/Spring 2024/MATH 39/Dot Products and Orthogonality.md",
+    "Year 1/Spring 2024/CS 146/Module 5.md",
+    "Year 1/Spring 2024/CS 146/Module 4.md",
+    "Year 1/Spring 2024/CS 146/Module 3.md",
+    "Year 1/Spring 2024/CS 146/Module 2.md",
+    "Year 1/Spring 2024/CS 146/Module 1.md",
+    "Year 1/Spring 2024/CS 146/Module 0.md",
+    "Year 1/Fall 2023/MATH 42/Pasted image 20250313112300.png",
+    "Year 1/Fall 2023/MATH 42/2.1.png",
+    "Year 1/Fall 2023/MATH 42/2.1 (2).png",
+    "Year 1/Fall 2023/MATH 42/2.1 (1).png",
+    "Year 1/Fall 2023/MATH 42/Final Review.md",
+    "Year 1/Fall 2023/MATH 42/1.9.md"
   ]
 }

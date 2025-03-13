@@ -124,11 +124,16 @@ tags:
 ### Example 5.2 Swirlies
 #### I
 (1) Bandwagon
-(4) Straw Man
-(7) Begging the Question
+(4) Straw man
+(7) Begging the question
 (10) Two wrongs make a right
 (13) No fallacy
-
-## Fallacies of Insufficient Evidence
->[!definition]
->Mistakes in reasoning that occur because the premises, though logically relevant to the conclusion, fail to provide sufficient evidence to support the conclusion
+(16) No fallacy
+(19) Look who's talking
+(22) Straw man
+(25) No fallacy
+(28) Straw man
+(31)  Begging the question
+(34) Bandwagon
+(37) Straw man
+(40) Look who's talking
