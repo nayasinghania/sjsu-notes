@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a630c71788bcfba3",
+        "id": "4257c99336be104f",
         "type": "tabs",
         "children": [
           {
-            "id": "02fd7e4999145cd5",
+            "id": "2b00b6dff99a23dd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6519343bb8483fac",
+  "active": "2b00b6dff99a23dd",
   "lastOpenFiles": [
+    "Year 2/Spring 2025/MUSC 13/Effects.md",
     "Year 2/Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
     "Year 2/Spring 2025/CS 47/Stack.md",
     "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
@@ -189,7 +190,6 @@
     "Year 1/Spring 2024/CS 146/Module 4.md",
     "Year 1/Spring 2024/CS 146/Module 3.md",
     "Year 1/Spring 2024/CS 146/Module 2.md",
-    "Year 1/Spring 2024/CS 146/Module 1.md",
     "Year 1/Fall 2023/MATH 42/Pasted image 20250313112300.png",
     "Year 1/Fall 2023/MATH 42/2.1.png",
     "Year 1/Fall 2023/MATH 42/2.1 (2).png",
