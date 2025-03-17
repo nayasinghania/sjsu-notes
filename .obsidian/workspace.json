@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "dbc801dee9b3351c",
+    "id": "40faa6e4f60d822e",
     "type": "split",
     "children": [
       {
-        "id": "a630c71788bcfba3",
+        "id": "663554c615ec5503",
         "type": "tabs",
         "children": [
           {
-            "id": "02fd7e4999145cd5",
+            "id": "985e0b8676d03f1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f1adca9126a36552",
+    "id": "eaaa72e05d61534e",
     "type": "split",
     "children": [
       {
-        "id": "9708cb7e20a8ae11",
+        "id": "ea72a8f4f7feb84c",
         "type": "tabs",
         "children": [
           {
-            "id": "6519343bb8483fac",
+            "id": "2f398bf76a76a644",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "80db475f8ba91ffc",
+            "id": "e3df1151910e7110",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,23 +64,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "right": {
-    "id": "ad7ac0c468acf7bc",
+    "id": "40f4cc16242c30c1",
     "type": "split",
     "children": [
       {
-        "id": "63703569993a9011",
+        "id": "a20ccae75eaeb30e",
         "type": "tabs",
         "children": [
           {
-            "id": "5928487dd94e85f4",
+            "id": "df2e07eb35894878",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -89,25 +90,26 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Quiz 2"
             }
           },
           {
-            "id": "426b6ea43134c35c",
+            "id": "9bc7d3fcf3d990a4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Quiz 2"
             }
           },
           {
-            "id": "d491e542b33e799a",
+            "id": "5f43b64198398364",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -117,7 +119,7 @@
             }
           },
           {
-            "id": "c79f9e9a96f1fc3f",
+            "id": "58e5022c4700960c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,17 +143,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": true,
+      "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "6519343bb8483fac",
+  "active": "985e0b8676d03f1e",
   "lastOpenFiles": [
+    "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
+    "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
+    "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
     "Year 2/Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
-    "Year 2/Spring 2025/CS 47/Stack.md",
     "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
+    "Year 2/Spring 2025/CS 152/Grammar.md",
     "Year 2/Spring 2025/CS 152/Exams",
+    "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
+    "Year 2/Spring 2025/CS 47/Stack.md",
     "Year 1/Spring 2024/POLS 15/Voting.md",
     "Year 1/Spring 2024/POLS 15/U.S. Presidency.md",
     "Year 1/Spring 2024/POLS 15/The Federal Courts.md",
@@ -162,37 +169,32 @@
     "Year 1/Spring 2024/POLS 15/Civil Rights.md",
     "Year 1/Spring 2024/POLS 15/Civil Liberties.md",
     "Year 1/Spring 2024/POLS 15/California State Courts.md",
-    "Year 1/Spring 2024/POLS 15/Bureaucracy.md",
     "Year 1/Spring 2024/POLS 15/California Institutions.md",
+    "Year 1/Spring 2024/POLS 15/Bureaucracy.md",
     "Year 1/Spring 2024/POLS 15",
     "Year 1/Spring 2024/METR 10/LO4.md",
     "Year 1/Spring 2024/METR 10/LO3.md",
     "Year 1/Spring 2024/METR 10/LO2.md",
     "Year 1/Spring 2024/METR 10",
-    "Year 1/Spring 2024/MATH 39/Null Space.md",
-    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_14_Day_1.pdf",
-    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_5.pdf",
-    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_3.pdf",
-    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_2.pdf",
     "Year 1/Spring 2024/MATH 39/Vectors.pdf",
     "Year 1/Spring 2024/MATH 39/Systems_of_Equations.pdf",
+    "Year 1/Spring 2024/MATH 39/Null Space.md",
+    "Year 1/Spring 2024/MATH 39/Maximizers and Minimizers.md",
     "Year 1/Spring 2024/MATH 39/Matrixes.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_9_Day_2.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_9_Day_1.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_7_Day_2.pdf",
+    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_7_Day_1.pdf",
     "Year 1/Spring 2024/MATH 39/IMG_9134.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9133.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9132.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9131.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9130.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9042.jpg",
-    "Year 1/Spring 2024/MATH 39/Maximizers and Minimizers.md",
     "Year 1/Spring 2024/MATH 39/Dot Products and Orthogonality.md",
-    "Year 1/Spring 2024/CS 146/Module 5.md",
-    "Year 1/Spring 2024/CS 146/Module 4.md",
-    "Year 1/Spring 2024/CS 146/Module 3.md",
-    "Year 1/Spring 2024/CS 146/Module 2.md",
-    "Year 1/Spring 2024/CS 146/Module 1.md",
-    "Year 1/Fall 2023/MATH 42/Pasted image 20250313112300.png",
     "Year 1/Fall 2023/MATH 42/2.1.png",
     "Year 1/Fall 2023/MATH 42/2.1 (2).png",
-    "Year 1/Fall 2023/MATH 42/2.1 (1).png"
+    "Year 1/Fall 2023/MATH 42/2.1 (1).png",
+    "Year 2/Spring 2025/CS 152/Attachments/Ad Hoc Binding.png"
   ]
 }

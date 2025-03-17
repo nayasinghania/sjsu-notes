@@ -129,11 +129,11 @@ tags:
 (10) Two wrongs make a right
 (13) Equivocation
 (16) No fallacy
-(19) Look who's talking
+(19) No fallacy
 (22) Straw man
 (25) Red herring
-(28) Ad hominem
-(31)  Bandwagon
+(28) Attacking the motive
+(31) Bandwagon
 (34) Bandwagon
-(37) Straw man
-(40) Look who's talking
+(37) Red herring
+(40) No fallacy
