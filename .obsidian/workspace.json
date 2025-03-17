@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "663554c615ec5503",
+        "id": "6c213309ccc21c13",
         "type": "tabs",
         "children": [
           {
-            "id": "985e0b8676d03f1e",
+            "id": "2235250f7f475dfb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "985e0b8676d03f1e",
+  "active": "2235250f7f475dfb",
   "lastOpenFiles": [
     "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
