@@ -3,7 +3,7 @@ tags:
   - cs152
 ---
 ## Rules
-- Open Book
+- Open book
 - No internet access
 - No artificial intelligence
 - No collaboration
