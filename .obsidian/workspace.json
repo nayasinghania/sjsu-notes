@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc8f43423689fec8",
+        "id": "08ebf110a78b1dcf",
         "type": "tabs",
         "children": [
           {
-            "id": "62722e3d50984c61",
+            "id": "6623c4622b012628",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Exam 1"
+              "title": "New tab"
             }
           }
         ]
@@ -80,6 +75,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5f43b64198398364",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "9bc7d3fcf3d990a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quiz 2"
+            }
+          },
+          {
             "id": "df2e07eb35894878",
             "type": "leaf",
             "state": {
@@ -99,31 +119,6 @@
             }
           },
           {
-            "id": "9bc7d3fcf3d990a4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Quiz 2"
-            }
-          },
-          {
-            "id": "5f43b64198398364",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "58e5022c4700960c",
             "type": "leaf",
             "state": {
@@ -138,8 +133,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,10 +147,10 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "62722e3d50984c61",
+  "active": "5f43b64198398364",
   "lastOpenFiles": [
-    "Year 2/Spring 2025/CS 47/Midterm.md",
     "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
+    "Year 2/Spring 2025/CS 47/Midterm.md",
     "Year 2/Spring 2025/CS 47/Frame Pointers.md",
     "Year 2/Spring 2025/CS 47/Subroutines.md",
     "Year 2/Spring 2025/CS 47/Stack.md",
