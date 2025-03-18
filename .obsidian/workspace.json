@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08ebf110a78b1dcf",
+        "id": "a3a069f57548878b",
         "type": "tabs",
         "children": [
           {
-            "id": "6623c4622b012628",
+            "id": "c9250db04c900543",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quiz 2"
+              "title": "Outline"
             }
           },
           {
@@ -105,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quiz 2"
+              "title": "Backlinks"
             }
           },
           {
@@ -147,14 +145,17 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "5f43b64198398364",
+  "active": "c9250db04c900543",
   "lastOpenFiles": [
+    "README.md",
+    "Year 2/Spring 2025/CS 47/Memory.md",
+    "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
+    "Year 2/Spring 2025/CS 152/Assembly.md",
     "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
     "Year 2/Spring 2025/CS 47/Midterm.md",
     "Year 2/Spring 2025/CS 47/Frame Pointers.md",
     "Year 2/Spring 2025/CS 47/Subroutines.md",
     "Year 2/Spring 2025/CS 47/Stack.md",
-    "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
     "Year 2/Spring 2025/MUSC 13/Effects.md",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
@@ -173,10 +174,7 @@
     "Year 1/Spring 2024/POLS 15/Civil Liberties.md",
     "Year 1/Spring 2024/POLS 15/California State Courts.md",
     "Year 1/Spring 2024/POLS 15/California Institutions.md",
-    "Year 1/Spring 2024/POLS 15/Bureaucracy.md",
     "Year 1/Spring 2024/POLS 15",
-    "Year 1/Spring 2024/METR 10/LO4.md",
-    "Year 1/Spring 2024/METR 10/LO3.md",
     "Year 1/Spring 2024/METR 10",
     "Year 1/Spring 2024/MATH 39/Vectors.pdf",
     "Year 1/Spring 2024/MATH 39/Systems_of_Equations.pdf",
