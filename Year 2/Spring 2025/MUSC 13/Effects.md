@@ -19,3 +19,8 @@ tags:
 - Limiter -  P
 - Gate - P
 - Expander - P
+## FX vs Processing
+### FX
+- affects time
+### Processors
+- processing volume
