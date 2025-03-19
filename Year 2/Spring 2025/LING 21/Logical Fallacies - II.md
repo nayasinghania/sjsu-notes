@@ -66,7 +66,7 @@ tags:
 >Pete: No!
 ### Questionable Cause
 >[!definition]
->When an arguer claims, without sufficient evidence, that one thing is the cause of something else,
+>When an arguer claims, without sufficient evidence, that one thing is the cause of something else.
 #### Types
 ##### Post Hoc Fallacy
 >[!definition]
