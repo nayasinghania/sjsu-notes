@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8bd47b7e3314a56",
+        "id": "1d09d31d193c4242",
         "type": "tabs",
         "children": [
           {
-            "id": "00c7cf8ad2e656fd",
+            "id": "9615836147a34692",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,12 +49,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "program counter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -146,14 +146,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6c067610c9798634",
+  "active": "072ac0bb81a50bab",
   "lastOpenFiles": [
+    "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
+    "Year 2/Spring 2025/CS 47/Midterm.md",
+    "Year 2/Spring 2025/CS 47/Memory.md",
+    "Year 2/Spring 2025/CS 47/Frame Pointers.md",
+    "Year 2/Spring 2025/CS 47/Assembler, Linker, Loader.md",
+    "Year 2/Spring 2025/CS 47/Assembler Directives.md",
+    "Year 2/Spring 2025/CS 47/ALU.md",
+    "Year 2/Spring 2025/CS 47/MIPS Assembly.md",
     "conflict-files-obsidian-git.md",
     "Year 2/Spring 2025/MUSC 13/Effects.md",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
     "Year 2/Spring 2025/CS 47/Subroutines.md",
-    "Year 2/Spring 2025/CS 47/Midterm.md",
-    "Year 2/Spring 2025/CS 47/Frame Pointers.md",
     "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
     "Year 2/Spring 2025/CS 152/Grammar.md"
   ]
