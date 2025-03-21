@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c67c2a71a4f9b945",
+        "id": "23cbf20627b9555e",
         "type": "tabs",
         "children": [
           {
-            "id": "84cba9a3be74c91b",
+            "id": "566fb5145d1e9f6a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -146,8 +146,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "84cba9a3be74c91b",
+  "active": "072ac0bb81a50bab",
   "lastOpenFiles": [
+    "Year 2/Spring 2025/CS 152/Lambda Calculus.md",
+    "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Handout.pdf",
+    "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Tutorial.pdf",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
     "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
