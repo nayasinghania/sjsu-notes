@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d09d31d193c4242",
+        "id": "c67c2a71a4f9b945",
         "type": "tabs",
         "children": [
           {
-            "id": "9615836147a34692",
+            "id": "84cba9a3be74c91b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "072ac0bb81a50bab",
+  "active": "84cba9a3be74c91b",
   "lastOpenFiles": [
+    "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
+    "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
     "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
     "Year 2/Spring 2025/CS 47/Midterm.md",
     "Year 2/Spring 2025/CS 47/Memory.md",
@@ -158,7 +160,6 @@
     "Year 2/Spring 2025/CS 47/MIPS Assembly.md",
     "conflict-files-obsidian-git.md",
     "Year 2/Spring 2025/MUSC 13/Effects.md",
-    "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
     "Year 2/Spring 2025/CS 47/Subroutines.md",
     "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
     "Year 2/Spring 2025/CS 152/Grammar.md"

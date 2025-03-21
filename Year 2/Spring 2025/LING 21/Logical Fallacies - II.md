@@ -125,3 +125,15 @@ tags:
 
 >[!example]
 >Moral relativist: Hey, get with the times, man! All value judgments are relative. And that’s the absolute truth.
+## Example 6.1
+### II
+-  1) questionable cause
+- 4) false alternatives
+- 7) false alternatives
+- 10) questionable cause
+- 13) equivocation
+- 16) weak analogy
+- 19) false alternatives
+- 22) hasty generalization
+- 25) weak analogy
+- 28) no fallacy
