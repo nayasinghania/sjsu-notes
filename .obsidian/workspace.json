@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e330d04d59f91618",
+        "id": "257f2f7e5cd8737c",
         "type": "tabs",
         "children": [
           {
-            "id": "33c9bed33d2150af",
+            "id": "be1620b381c5ccb7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,15 +145,20 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "2f398bf76a76a644",
+  "active": "be1620b381c5ccb7",
   "lastOpenFiles": [
+    "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Tutorial.pdf",
+    "Year 2/Spring 2025/CS 152/Lambda Calculus.md",
+    "Quick Notes.md",
+    "Year 2/Spring 2025/CS 152/Assignments/Q2 kleene.md",
+    "Year 2/Spring 2025/CS 152/Examples/Lambda Substitutions.md",
+    "Year 2/Spring 2025/CS 152/Examples",
+    "Year 2/Spring 2025/CS 47/Boolean Algebra.md",
     "Year 2/Spring 2025/LING 21/Assignments/Real Life Fallacies.md",
     "Year 2/Spring 2025/LING 21/Course Reader/2 - Trigger Warnings.md",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
     "Year 2/Spring 2025/LING 21/Assignments",
     "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Handout.pdf",
-    "Year 2/Spring 2025/CS 152/Lambda Calculus.md",
-    "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Tutorial.pdf",
     "README.md",
     "Year 2/Spring 2025/CS 47/Memory.md",
     "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
@@ -172,17 +177,11 @@
     "Year 1/Spring 2024/POLS 15/Voting.md",
     "Year 1/Spring 2024/POLS 15/U.S. Presidency.md",
     "Year 1/Spring 2024/POLS 15/The Federal Courts.md",
-    "Year 1/Spring 2024/POLS 15/The Declaration of Independence and the Articles of Confederation.md",
-    "Year 1/Spring 2024/POLS 15/midterm study guide.md",
-    "Year 1/Spring 2024/POLS 15/Federalism.md",
-    "Year 1/Spring 2024/POLS 15/Congress.md",
-    "Year 1/Spring 2024/POLS 15/Civil Rights.md",
     "Year 1/Spring 2024/POLS 15",
     "Year 1/Spring 2024/METR 10",
     "Year 1/Spring 2024/MATH 39/Vectors.pdf",
     "Year 1/Spring 2024/MATH 39/Systems_of_Equations.pdf",
     "Year 1/Spring 2024/MATH 39/Matrixes.pdf",
-    "Year 1/Spring 2024/MATH 39/Linear_Algebra_Notes_Week_9_Day_2.pdf",
     "Year 1/Spring 2024/MATH 39/IMG_9134.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9133.jpg",
     "Year 1/Spring 2024/MATH 39/IMG_9132.jpg",
