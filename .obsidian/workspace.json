@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "40faa6e4f60d822e",
+    "id": "58eac4fd2a34049f",
     "type": "split",
     "children": [
       {
-        "id": "257f2f7e5cd8737c",
+        "id": "4548b7fa4273a1da",
         "type": "tabs",
         "children": [
           {
-            "id": "be1620b381c5ccb7",
+            "id": "ae852974512e2ab8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eaaa72e05d61534e",
+    "id": "9187e3a943a1080f",
     "type": "split",
     "children": [
       {
-        "id": "ea72a8f4f7feb84c",
+        "id": "4c214f4c66712b79",
         "type": "tabs",
         "children": [
           {
-            "id": "2f398bf76a76a644",
+            "id": "072ac0bb81a50bab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,17 +44,17 @@
             }
           },
           {
-            "id": "e3df1151910e7110",
+            "id": "5f24299b4421876b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "program counter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -64,42 +64,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 300
   },
   "right": {
-    "id": "40f4cc16242c30c1",
+    "id": "d6afa1820aeb3fd1",
     "type": "split",
     "children": [
       {
-        "id": "a20ccae75eaeb30e",
+        "id": "8ae4e237a7f1b266",
         "type": "tabs",
         "children": [
           {
-            "id": "5f43b64198398364",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "9bc7d3fcf3d990a4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "df2e07eb35894878",
+            "id": "ad69b4fe40135a6c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -117,7 +93,7 @@
             }
           },
           {
-            "id": "58e5022c4700960c",
+            "id": "28bb4d8bca0608a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,8 +106,33 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "dac817fe63e6e214",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6c067610c9798634",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,57 +141,35 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": true,
-      "obsidian-excalidraw-plugin:New drawing": true
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "be1620b381c5ccb7",
+  "active": "072ac0bb81a50bab",
   "lastOpenFiles": [
-    "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Tutorial.pdf",
-    "Year 2/Spring 2025/CS 152/Lambda Calculus.md",
-    "Quick Notes.md",
-    "Year 2/Spring 2025/CS 152/Assignments/Q2 kleene.md",
+    "Year 2/Spring 2025/MUSC 13/Effects and Processing.md",
+    "Year 2/Spring 2025/LING 21/Assignments/Real Life Fallacies.md",
+    "Year 2/Spring 2025/LING 21/Assignments",
+    "Year 2/Spring 2025/CS 47/Boolean Algebra.md",
     "Year 2/Spring 2025/CS 152/Examples/Lambda Substitutions.md",
     "Year 2/Spring 2025/CS 152/Examples",
-    "Year 2/Spring 2025/CS 47/Boolean Algebra.md",
-    "Year 2/Spring 2025/LING 21/Assignments/Real Life Fallacies.md",
-    "Year 2/Spring 2025/LING 21/Course Reader/2 - Trigger Warnings.md",
-    "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
-    "Year 2/Spring 2025/LING 21/Assignments",
+    "Year 2/Spring 2025/CS 152/Lambda Calculus.md",
     "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Handout.pdf",
-    "README.md",
-    "Year 2/Spring 2025/CS 47/Memory.md",
-    "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
-    "Year 2/Spring 2025/CS 152/Assembly.md",
-    "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
-    "Year 2/Spring 2025/CS 47/Midterm.md",
-    "Year 2/Spring 2025/CS 47/Frame Pointers.md",
-    "Year 2/Spring 2025/CS 47/Subroutines.md",
-    "Year 2/Spring 2025/CS 47/Stack.md",
-    "Year 2/Spring 2025/MUSC 13/Effects.md",
+    "Year 2/Spring 2025/CS 152/Attachments/Lambda Calculus Tutorial.pdf",
+    "Year 2/Spring 2025/LING 21/Logical Fallacies - II.md",
     "Year 2/Spring 2025/LING 21/Logical Fallacies - 1.md",
-    "Year 2/Spring 2025/CS 152/Exams/Quiz 2.md",
-    "Year 2/Spring 2025/CS 152/Functions, Function Implementation, and Memory Management.md",
-    "Year 2/Spring 2025/CS 152/Grammar.md",
-    "Year 2/Spring 2025/CS 152/Exams",
-    "Year 1/Spring 2024/POLS 15/Voting.md",
-    "Year 1/Spring 2024/POLS 15/U.S. Presidency.md",
-    "Year 1/Spring 2024/POLS 15/The Federal Courts.md",
-    "Year 1/Spring 2024/POLS 15",
-    "Year 1/Spring 2024/METR 10",
-    "Year 1/Spring 2024/MATH 39/Vectors.pdf",
-    "Year 1/Spring 2024/MATH 39/Systems_of_Equations.pdf",
-    "Year 1/Spring 2024/MATH 39/Matrixes.pdf",
-    "Year 1/Spring 2024/MATH 39/IMG_9134.jpg",
-    "Year 1/Spring 2024/MATH 39/IMG_9133.jpg",
-    "Year 1/Spring 2024/MATH 39/IMG_9132.jpg",
-    "Year 1/Spring 2024/MATH 39/IMG_9131.jpg",
-    "Year 1/Spring 2024/MATH 39/IMG_9130.jpg",
-    "Year 1/Spring 2024/MATH 39/IMG_9042.jpg",
-    "Year 1/Fall 2023/MATH 42/2.1.png",
-    "Year 1/Fall 2023/MATH 42/2.1 (2).png",
-    "Year 1/Fall 2023/MATH 42/2.1 (1).png",
-    "Year 2/Spring 2025/CS 152/Attachments/Ad Hoc Binding.png"
+    "Year 2/Spring 2025/CS 47/Comparison, Branch, and Jump.md",
+    "Year 2/Spring 2025/CS 47/Midterm.md",
+    "Year 2/Spring 2025/CS 47/Memory.md",
+    "Year 2/Spring 2025/CS 47/Frame Pointers.md",
+    "Year 2/Spring 2025/CS 47/Assembler, Linker, Loader.md",
+    "Year 2/Spring 2025/CS 47/Assembler Directives.md",
+    "Year 2/Spring 2025/CS 47/ALU.md",
+    "Year 2/Spring 2025/CS 47/MIPS Assembly.md",
+    "conflict-files-obsidian-git.md",
+    "Year 2/Spring 2025/CS 47/Subroutines.md",
+    "Year 2/Spring 2025/CS 152/Exams/Exam 1.md",
+    "Year 2/Spring 2025/CS 152/Grammar.md"
   ]
 }
